@@ -21,7 +21,7 @@ College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine
 ... presented as part of the 1st Palaeontological Virtual Congress (http://palaeovc.uv.es/) and announced online (Wedel 2018d).
 
 
-### References
+## References
 
 * Taylor, Michael P. 2018a. What does it mean for a vertebra to be “horizontal”?
 _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/what-does-it-mean-for-a-vertebra-to-be-horizontal/
