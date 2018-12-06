@@ -13,6 +13,7 @@ College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine
 
 <!-- md2toc -l 2 -s 1 vo-manuscript.md -->
 * [Introduction](#introduction)
+* [References](#references)
 
 
 ## Introduction
