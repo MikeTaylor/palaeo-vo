@@ -25,7 +25,7 @@ College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine
 
 ## Introduction
 
-In late 2017, one of us submitted a paper (Taylor 2018b) redescribing the sauropod dinosaur _Xenoposeidon_ and assigning it to the group Rebbachisauridae, based on the holotype and only specimen NHMUK PV R2095. Among the five diagnostic characters given for _Xenoposeidon_ was #2, "Neural arch slopes anteriorly 30°–35° relative to the vertical" (Taylor 2018b:5). In a helpful and detailed peer review, Phil Mannion (XXX Mannion 2018a) commented:
+In late 2017, one of us submitted a paper (Taylor 2018b) redescribing the sauropod dinosaur _Xenoposeidon_ and assigning it to the group Rebbachisauridae, based on the holotype and only specimen NHMUK PV R2095. Among the five diagnostic characters given for _Xenoposeidon_ was #2, “Neural arch slopes anteriorly 30°–35° relative to the vertical” (Taylor 2018b:5). In a helpful and detailed peer review, Phil Mannion (XXX Mannion 2018a) commented:
 
 > The strong anterior slant of the neural arch appears to be dependent on how you've chosen to orientate the vertebra, but there doesn't appear to be any need to orientate it in this way.
 
@@ -37,9 +37,9 @@ I (Taylor) carelessly failed to directly address this criticism in my response l
 
 I responded (Taylor 2018a):
 
-> Phil remains convinced that the proper orientation of the vertebra gives is a lesser forward slope that as described in the manuscript. Having once more revisited my photos and 3D models, I remain convinced that the present orientation is essentially correct. It could be out by five degrees or so, so I have changed "35 degrees" to "30-35 degrees" throughout.
+> Phil remains convinced that the proper orientation of the vertebra gives is a lesser forward slope that as described in the manuscript. Having once more revisited my photos and 3D models, I remain convinced that the present orientation is essentially correct. It could be out by five degrees or so, so I have changed “35 degrees” to “30-35 degrees” throughout.
 
-Mannion was gracious enough to accept this, and the paper proceeded to publication with the relevant section (Taylor 2018b:5) essentially unchanged. But the question he had raised continued to occupy me: what exactly _is_ the "correct" orientation of the vertebra, relative to which we can measure the angle of the sloping neural arch? And what do we even mean by "correct"? Figure A shows the difference between the slope as published (part A), and as interpreted by Mannion (part B).
+Mannion was gracious enough to accept this, and the paper proceeded to publication with the relevant section (Taylor 2018b:5) essentially unchanged. But the question he had raised continued to occupy me: what exactly _is_ the “correct” orientation of the vertebra, relative to which we can measure the angle of the sloping neural arch? And what do we even mean by “correct”? Figure A shows the difference between the slope as published (part A), and as interpreted by Mannion (part B).
 
 ---
 
@@ -47,7 +47,7 @@ Mannion was gracious enough to accept this, and the paper proceeded to publicati
 
 > **Figure A.** NHMUK PV R2095, the holotype dorsal vertebra of _Xenoposiedon proneneukos_ in left lateral view.
 > **A.** In the canonical orientation that has been used in illustrations in published papers (Taylor and Naish 2007, Taylor 2018b, in blog-posts and on posters (XXX cite SV-POW! post) and mugs (XXX cite the SV-POW! post).
-> **B.** Rotated 15° "backwards" (i.e. clockwise, with the dorsal portion displaced caudally), yielding a sub-vertical anterior margin in accordance the recommendation of Mannion (2018b).
+> **B.** Rotated 15° “backwards” (i.e. clockwise, with the dorsal portion displaced caudally), yielding a sub-vertical anterior margin in accordance the recommendation of Mannion (2018b).
 > In both parts, the blue line indicates the horizontal axis, the green line indicates the vertical axis, and the red line indicates the slope of the neural arch as in Taylor (2018b: figure 3B, part 2).
 > In part A, the slope (i.e. the angle between the red and green lines) is 35°; in part B, it is 20°.
 
@@ -57,7 +57,7 @@ The neural arch slopes relative to the vertical. Vertical is defined as being or
 
 In the present paper, we aim to answer that question. We will propose and discuss four candidate criteria, recommend the one we consider most practical and informative, and determine the slope of _Xenoposeidon_'s neural arch more precisely.
 
-Note that the present question is nothing to do with life posture, which is a much more difficult problem, subject to many more degrees of uncertainty. Animals do not hold their vertebral columns any anything close to true horizontal — not even though that we characterise as having horizontal posture — and we do not want to tie the meaning of our very nomenclature to something so variable and unpredictable. Otherwise we would have to define "horizontal" for the mid-cervical vertebrae of parrots as upside-down (Figure B).
+Note that the present question is nothing to do with life posture, which is a much more difficult problem, subject to many more degrees of uncertainty. Animals do not hold their vertebral columns any anything close to true horizontal — not even though that we characterise as having horizontal posture — and we do not want to tie the meaning of our very nomenclature to something so variable and unpredictable. Otherwise we would have to define “horizontal” for the mid-cervical vertebrae of parrots as upside-down (Figure B).
 
 ---
 
@@ -69,7 +69,7 @@ Note that the present question is nothing to do with life posture, which is a mu
 
 ### Anatomical nomenclature
 
-As dinosaur palaeontologists, we generally use and prefer the Owenian system of anatomical directions, with anterior and posterior indicating the forward and backward directions accordingly (XXX Owen ref) — hence the use of these terms in the _Xenoposeidon_ paper, its reviews, and the associated discussion. However, for the present paper, we seek directional definitions that are unambiguous for all vertebrates: not only those like dinosaurs, dogs and fish, which hold their vertebral columns essentially horizontal; but also those like humans, penguins and XXX third example, which hold their vertebral columns essentially vertical. FOr this reason, avoiding ambiguity in humans, where "anterior" means ventral (towards the belly) rather than cranial (towards the head), we will use terms cranial and caudal, and derived terms such as craniodorsal.
+As dinosaur palaeontologists, we generally use and prefer the Owenian system of anatomical directions, with anterior and posterior indicating the forward and backward directions accordingly (XXX Owen ref) — hence the use of these terms in the _Xenoposeidon_ paper, its reviews, and the associated discussion. However, for the present paper, we seek directional definitions that are unambiguous for all vertebrates: not only those like dinosaurs, dogs and fish, which hold their vertebral columns essentially horizontal; but also those like humans, penguins and XXX third example, which hold their vertebral columns essentially vertical. FOr this reason, avoiding ambiguity in humans, where “anterior” means ventral (towards the belly) rather than cranial (towards the head), we will use terms cranial and caudal, and derived terms such as craniodorsal.
 
 ### Institutional abbreviations
 
