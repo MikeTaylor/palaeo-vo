@@ -45,9 +45,9 @@ Mannion was gracious enough to accept this, and the paper proceeded to publicati
 
 > **Figure A.** NHMUK PV R2095, the holotype dorsal vertebra of _Xenoposiedon proneneukos_ in left lateral view.
 > **A.** In the canonical orientation that has been used in illustrations in published papers (Taylor and Naish 2007, Taylor 2018b, in blog-posts and on posters (XXX cite SV-POW! post) and mugs (XXX cite the SV-POW! post).
-> **B.** Rotated 20° "backwards" (i.e. clockwise, with the dorsal portion displaced caudally), yielding a sub-vertical anterior margin in accordance the recommendation of Mannion (2018b).
+> **B.** Rotated 15° "backwards" (i.e. clockwise, with the dorsal portion displaced caudally), yielding a sub-vertical anterior margin in accordance the recommendation of Mannion (2018b).
 > In both parts, the blue line indicates the horizontal axis, the green line indicates the vertical axis, and the red line indicates the slope of the neural arch as in Taylor (2018b: figure 3B, part 2).
-> In part A, the slope (i.e. the angle between the red and green lines) is 35°; in part B, it is 15°.
+> In part A, the slope (i.e. the angle between the red and green lines) is 35°; in part B, it is 20°.
 
 The neural arch slopes relative to the vertical. Vertical is defined as being orthogonal to the horizontal. That in turn is defined by the cranial-caudal (= anterior-posterior) axis. But what do those directions mean? How can we define them for a given vertebra?
 
