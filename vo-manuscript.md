@@ -39,7 +39,9 @@ I responded (Taylor 2018a):
 
 > Phil remains convinced that the proper orientation of the vertebra gives is a lesser forward slope that as described in the manuscript. Having once more revisited my photos and 3D models, I remain convinced that the present orientation is essentially correct. It could be out by five degrees or so, so I have changed "35 degrees" to "30-35 degrees" throughout.
 
-Mannion was gracious enough to accept this, and the paper proceeded to publication with the relevant section (Taylor 2018b:5) essentially unchanged. But the question he had raised continued to occupy me: what exactly _is_ the "correct" orientation of the vertebra, relative to which we can measure the angle of the sloping neural arch? And what do we even mean by "correct"?
+Mannion was gracious enough to accept this, and the paper proceeded to publication with the relevant section (Taylor 2018b:5) essentially unchanged. But the question he had raised continued to occupy me: what exactly _is_ the "correct" orientation of the vertebra, relative to which we can measure the angle of the sloping neural arch? And what do we even mean by "correct"? Figure A shows the difference between the slope as published (part A), and as interpreted by Mannion (part B).
+
+---
 
 ![Figure A. rotated Xenoposeidon](figures/export-jpeg/Figure-A-rotated-Xenoposeidon.jpeg)
 
@@ -49,9 +51,21 @@ Mannion was gracious enough to accept this, and the paper proceeded to publicati
 > In both parts, the blue line indicates the horizontal axis, the green line indicates the vertical axis, and the red line indicates the slope of the neural arch as in Taylor (2018b: figure 3B, part 2).
 > In part A, the slope (i.e. the angle between the red and green lines) is 35°; in part B, it is 20°.
 
+---
+
 The neural arch slopes relative to the vertical. Vertical is defined as being orthogonal to the horizontal. That in turn is defined by the cranial-caudal (= anterior-posterior) axis. But what do those directions mean? How can we define them for a given vertebra?
 
 In the present paper, we aim to answer that question. We will propose and discuss four candidate criteria, recommend the one we consider most practical and informative, and determine the slope of _Xenoposeidon_'s neural arch more precisely.
+
+Note that the present question is nothing to do with life posture, which is a much more difficult problem, subject to many more degrees of uncertainty. Animals do not hold their vertebral columns any anything close to true horizontal — not even though that we characterise as having horizontal posture — and we do not want to tie the meaning of our very nomenclature to something so variable and unpredictable. Otherwise we would have to define "horizontal" for the mid-cervical vertebrae of parrots as upside-down (Figure B).
+
+---
+
+![Figure B. Parrot with 'S'-curved neck](figures/export-jpeg/Figure-B-hemisected-parrot.jpeg)
+
+> **Figure B.** Parrot skeleton with hemisected integument (probably _Amazona ochrocephala_) in left lateral view, in the Natuurhistorisch (XXX is this spelled right?) Museum of Rotterdam, from a post on Love in the Time of Chasmosaurs, 4 August 2012 (XXX cite properly). Note the very strong 'S'-curve of the neck, such that the most caudal cervical vertebrae are inclined downwards, then more cranial vertebrae are, progressively, inclined upwards, near vertical, sloping _backwards_, then vertical again, and finally sloping upwards to the skull.
+
+---
 
 ### Anatomical nomenclature
 
