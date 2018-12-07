@@ -73,9 +73,17 @@ This work first began to take shape as a series of blog-posts (Taylor 2018c, Tay
 
 ## Acknowledgements
 
-XXX Phil Mannion
+First, we thank Phil Mannion (XXX Imperial?) both for his multiple rounds of review of the _Xenoposeidon_ manuscript and for giving us permission to quote relevant excepts in the current paper. XXX seek this permission!
 
-XXX access to specimens
+We are also grateful to the curators and collection managers for access to specimens used in this study, including
+* Daniela Schwarz (Museum für Naturukunde Berlin) for _Giraffatitan_.
+* Julia McHugh (Dinosaur Journey) for _Haplocanthosaurus_.
+* Bill Simpson (Field Museum of Natural History, Chicago, IL) for _Brachiosaurus_ and the giraffe.
+* Neftali Camacho (LACM XXX expand this) for the Komodo dragon.
+* Sandra Chapman (Natural History Museum, London, UK) for _Xenoposeidon_.
+* Ken Noriega (XXX check Western University of Health Sciences, Veterinary Medicine, CA) for the horse head.
+
+Finally, we thanks John Yasmer and Thierra Nalley (Western University of Health Sciences, CA) for their assistance in CT scanning and 3D modelling the _Haplocanthosaurus_ caudal vertebra.
 
 
 ## References
