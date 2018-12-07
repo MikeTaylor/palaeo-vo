@@ -41,7 +41,7 @@ I responded (Taylor 2018a):
 
 Mannion was gracious enough to accept this, and the paper proceeded to publication with the relevant section (Taylor 2018b:5) essentially unchanged. But the question he had raised continued to occupy me: what exactly _is_ the "correct" orientation of the vertebra, relative to which we can measure the angle of the sloping neural arch? And what do we even mean by "correct"?
 
-![Figure A. rotated Xenoposeidon](figures/export-jpeg/Figure-A-rotated-Xenoposiedon.jpeg)
+![Figure A. rotated Xenoposeidon](figures/export-jpeg/Figure-A-rotated-Xenoposeidon.jpeg)
 
 > **Figure A.** NHMUK PV R2095, the holotype dorsal vertebra of _Xenoposiedon proneneukos_ in left lateral view.
 > **A.** In the canonical orientation that has been used in illustrations in published papers (Taylor and Naish 2007, Taylor 2018b, in blog-posts and on posters (XXX cite SV-POW! post) and mugs (XXX cite the SV-POW! post).
