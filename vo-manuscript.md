@@ -16,6 +16,9 @@ College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine
     * [Anatomical nomenclature](#anatomical-nomenclature)
     * [Institutional abbreviations](#institutional-abbreviations)
 * [Discussion](#discussion)
+    * [Relevance to other work](#relevance-to-other-work)
+    * [Open peer review](#open-peer-review)
+    * [Open composition](#open-composition)
 * [Acknowledgements](#acknowledgements)
 * [References](#references)
 
@@ -53,11 +56,19 @@ As dinosaur palaeontologists, we generally use and prefer the Owenian system of 
 
 ## Discussion
 
-XXX Relevance to other work
+### Relevance to other work
 
-This work first began to take shape as a series of blog-posts (Taylor 2018c, Taylor 2018d, Wedel 2018a, Wedel 2018b, Wedel 2018c) which were drawn together in a talk (XXX reference) presented by Taylor as part of the 1st Palaeontological Virtual Congress (http://palaeovc.uv.es/) and announced online (Wedel 2018d). This manuscript was developer in the open, in a public GitHub repository. We comment this approach as valuable for soliciting informal feedback early in the process, and in making the research itself available quickly.
+XXX
 
-XXX open peer review
+### Open peer review
+
+In publishing the _Xenoposeidon_ revision (Taylor 2018b) in the journal _PeerJ-, I (Taylor) was pleased to take advantage of the journal's policy of allowing submitted drafts, peer-reviews, response letters and handling editors' comments to be published alongside the final paper. It is because these materials are published (### Young et al. 2018) that the sequence of discussion is preserved, and Mannion's helpful and gracious comments are available to be read -- not only as the extracts in the present paper, but in their full context.
+
+We endorse the publication of peer reviews, and both take this option whenever it is offered. Aside from their value as part of the scholarly record, published peer-reviews are visible evidence of the reviewers’ broader contribution to science, and can be taken into account in evaluating researchers for jobs, promotions, tenure and grants. Sets of reviews, accompanied by the corresponding versions of the manuscript, can be an important pedagogical tool for teaching students in practical terms how peer-review works (e.g. XXX pers. comm.). Crucially, reviews can play an important role in the origination of new research questions, and should be acknowledged: the present work on defining vertebral orientation arises directly from Phil Mannion's peer-review comments (Mannion 2018a, 2018b).
+
+### Open composition
+
+This work first began to take shape as a series of blog-posts (Taylor 2018c, Taylor 2018d, Wedel 2018a, Wedel 2018b, Wedel 2018c) which were drawn together in a talk (XXX reference) presented by Taylor as part of the 1st Palaeontological Virtual Congress (http://palaeovc.uv.es/) and announced online (Wedel 2018d). This manuscript was developer in the open, in a public GitHub repository (XXX cite SV-POW! post, and hopefully some issue reports and/or pull-requests). We commend this approach as valuable for soliciting informal feedback early in the process, and in making the research itself available quickly.
 
 
 ## Acknowledgements
