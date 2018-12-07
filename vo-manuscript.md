@@ -13,20 +13,66 @@ College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine
 
 <!-- md2toc -l 2 -s 1 vo-manuscript.md -->
 * [Introduction](#introduction)
+    * [Anatomical nomenclature](#anatomical-nomenclature)
+    * [Institutional abbreviations](#institutional-abbreviations)
+* [Discussion](#discussion)
+* [Acknowledgements](#acknowledgements)
 * [References](#references)
 
 
 ## Introduction
 
-... series of blog-posts (Taylor 2018a, Taylor 2018b, Wedel 2018a, Wedel 2018b, Wedel 2018c)
-... presented as part of the 1st Palaeontological Virtual Congress (http://palaeovc.uv.es/) and announced online (Wedel 2018d).
+In late 2017, one of us submitted a paper (Taylor 2018b) redescribing the sauropod dinosaur _Xenoposeidon_ and assigning it to the group Rebbachisauridae, based on the holotype and only specimen NHMUK PV R2095. Among the five diagnostic characters given for _Xenoposeidon_ was #2, "Neural arch slopes anteriorly 30°–35° relative to the vertical" (Taylor 2018b:5). In a helpful and detailed peer review, Phil Mannion (XXX Mannion 2018a) commented:
+
+> The strong anterior slant of the neural arch appears to be dependent on how you've chosen to orientate the vertebra, but there doesn't appear to be any need to orientate it in this way.
+
+I (Taylor) carelessly failed to directly address this criticism in my response letter, although I did add a brief discussion of the orientation. Consequently Mannion raised the matter again in the second round of review (XXX Mannion 2018b):
+
+> I still don't agree with this, and I don't see any clear evidence for orientating it this way. I went into the NHM to re-look at this. No aspect of the posterior articular surface of the centrum leads me to orient the vertebra in the same way of shown in your figures. In addition, as currently orientated, the floor of the neural canal is strongly tilted - it seems more conservative to assume that this is horizontal. Similarly, by following that orientation, this would then make the long-axis of the lateral pneumatic opening closer to horizontal.
+>
+> By orientating the vertebra this way, the anterior margin is sub-vertical, with a very gentle anterior deflection, and the M-lamina is much closer in orientation to that of Rebbachisaurus.
+
+I responded (Taylor 2018a):
+
+> Phil remains convinced that the proper orientation of the vertebra gives is a lesser forward slope that as described in the manuscript. Having once more revisited my photos and 3D models, I remain convinced that the present orientation is essentially correct. It could be out by five degrees or so, so I have changed "35 degrees" to "30-35 degrees" throughout.
+
+Mannion was gracious enough to accept this, and the paper proceeded to publication with the relevant section (Taylor 2018b:5) essentially unchanged. But the question he had raised continued to occupy me: what exactly _is_ the "correct" orientation of the vertebra, relative to which we can measure the angle of the sloping neural arch? And what do we even mean by "correct"?
+
+The neural arch slopes relative to the vertical. Vertical is defined as being orthogonal to the horizontal. That in turn is defined by the cranial-caudal (= anterior-posterior) axis. But what do those directions mean? How can we define them for a given vertebra?
+
+In the present paper, we aim to answer that question. We will propose and discuss four candidate criteria, recommend the one we consider most practical and informative, and determine the slope of _Xenoposeidon_'s neural arch more precisely.
+
+### Anatomical nomenclature
+
+As dinosaur palaeontologists, we generally use and prefer the Owenian system of anatomical directions, with anterior and posterior indicating the forward and backward directions accordingly (XXX Owen ref) — hence the use of these terms in the _Xenoposeidon_ paper, its reviews, and the associated discussion. However, for the present paper, we seek directional definitions that are unambiguous for all vertebrates: not only those like dinosaurs, dogs and fish, which hold their vertebral columns essentially horizontal; but also those like humans, penguins and XXX third example, which hold their vertebral columns essentially vertical. FOr this reason, avoiding ambiguity in humans, where "anterior" means ventral (towards the belly) rather than cranial (towards the head), we will use terms cranial and caudal, and derived terms such as craniodorsal.
+
+### Institutional abbreviations
+
+* **NHMUK PV** — Natural History Museum, London, UK; vertebrate palaeontology collection.
+
+
+## Discussion
+
+XXX Relevance to other work
+
+This work first began to take shape as a series of blog-posts (Taylor 2018c, Taylor 2018d, Wedel 2018a, Wedel 2018b, Wedel 2018c) which were drawn together in a talk (XXX reference) presented by Taylor as part of the 1st Palaeontological Virtual Congress (http://palaeovc.uv.es/) and announced online (Wedel 2018d). This manuscript was developer in the open, in a public GitHub repository. We comment this approach as valuable for soliciting informal feedback early in the process, and in making the research itself available quickly.
+
+XXX open peer review
+
+
+## Acknowledgements
+
+XXX Phil Mannion
+
+XXX access to specimens
 
 
 ## References
 
-* Taylor, Michael P. 2018a. What does it mean for a vertebra to be “horizontal”?
-_Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/what-does-it-mean-for-a-vertebra-to-be-horizontal/
-* Taylor, Michael P. 2018b.  When is a vertebra “horizontal”, part 2. _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/when-is-a-vertebra-horizontal-part-2/
+* Taylor, Michael P. 2018a. XXX response letter to 2nd round of reviews
+* Taylor, Michael P. 2018b. _Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur. _PeerJ_ **6**:e5212. doi:10.7717/peerj.5212
+* Taylor, Michael P. 2018c. What does it mean for a vertebra to be “horizontal”? _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/what-does-it-mean-for-a-vertebra-to-be-horizontal/
+* Taylor, Michael P. 2018d.  When is a vertebra “horizontal”, part 2. _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/when-is-a-vertebra-horizontal-part-2/
 * Wedel, Matthew J. 2018a. The proximal caudals of _Brachiosaurus altithorax_, FMNH P25107. _Sauropod Vertebra Picture of the Week_ 11 September 2018. https://svpow.com/2018/09/11/the-proximal-caudals-of-brachiosaurus-altithorax-fmnh-p25107/
 * Wedel, Matthew J. 2018b. Vertebral orientation: _Varanus komodoensis_ would like a word. _Sauropod Vertebra Picture of the Week_ 25 September 2018. https://svpow.com/2018/09/25/vertebral-orientation-varanus-komodoensis-would-like-a-word/
 * Wedel, Matthew J. 2018c. Vertebral orientation, part 3: Matt weighs in. _Sauropod Vertebra Picture of the Week_ 5 October 2018. https://svpow.com/2018/10/05/vertebral-orientation-part-3-matt-weighs-in/
