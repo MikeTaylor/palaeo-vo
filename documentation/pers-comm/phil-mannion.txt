@@ -1,0 +1,262 @@
+Delivered-To: sauropoda@gmail.com
+Received: by 2002:a19:a806:0:0:0:0:0 with SMTP id r6csp1732812lfe;
+        Sat, 8 Dec 2018 08:21:59 -0800 (PST)
+X-Received: by 2002:a9d:3095:: with SMTP id s21mr4530709otc.359.1544286119436;
+        Sat, 08 Dec 2018 08:21:59 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1544286119; cv=none;
+        d=google.com; s=arc-20160816;
+        b=nxUZ/KUrVW6NWhsYbUNo3AzaORdH8X9Lan7U53qQVPqtoj/dBQbmJxi8faTovckZ7T
+         Xwe+0966J6RscgFYSG/L9TrQNefGAH1xienmCCc3moSwcwq9Bjvuntj2lFxJ0qfz+gAJ
+         LSGsCm/DmAKa7bGBSTeoqM4SLD79DbQYHaLTHJPyB//n1YIS7FNVheht50ahS84D3fKz
+         INWl9oMTv1yUrNuGzpdkQaHVsVY1oUpqbRIsMWclm2/FyXqfFNQE2GY4Epx8cTS1gigU
+         NeSTyF8FuJyRrOZJhFp9GCoiDKIe2npRn0mFhAEpx0RejeS6wxMWAbIv8t+UJ1Ftg6fq
+         nD8g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :dkim-signature;
+        bh=o7bJHSrTz7iMVOjcZakwxN1bu9AOC31KfyxsueUMQoU=;
+        b=mcaRL/NYNOF6gxFLQ0UlIomVk6f13xsSU9IH9EoAJtqQ9wIR2pCnqI7huoqgDkz3tK
+         cDnmfUmvYmBsPzHuMI7O2zVkYHsZOoQ4K1ZCkzYckMCqeeirGPOJ+nsZupVAHsZMeX1I
+         HS3m44oSoIbDY8hpNq9RNsu9sPa0EWSUWEiS3IyDeNhhHiQLZFckIfN5dRx3W7vMn+nF
+         F1iTod3E8mcoON+Ja8AS94iQUE6V+UA2J4xn3Tap922CL2XsmSRo+n6GJSOKLWvC+j/l
+         igy9360+FFthDw23kKoPt0eL5mzMlgQMjCFh6ac0YFgRNZnyBoLmuk6Lx34sQ2EBiAZf
+         SiFA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20161025 header.b=A6LCLVvn;
+       spf=pass (google.com: domain of philipdmannion@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=philipdmannion@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <philipdmannion@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id r206sor3231454oif.24.2018.12.08.08.21.58
+        for <sauropoda@gmail.com>
+        (Google Transport Security);
+        Sat, 08 Dec 2018 08:21:59 -0800 (PST)
+Received-SPF: pass (google.com: domain of philipdmannion@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20161025 header.b=A6LCLVvn;
+       spf=pass (google.com: domain of philipdmannion@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=philipdmannion@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=o7bJHSrTz7iMVOjcZakwxN1bu9AOC31KfyxsueUMQoU=;
+        b=A6LCLVvnW+Bb513yZP+Co2UO72QjVyxtOk/TDsTzEMiLGVcyotQsDncrJGAkyS6TId
+         tkXa/ObVe1rW9cVKblKRgFpoZlMdRJ9GjERetVPs/tkJWNQkre7xHdHfTsFjdvUk2bdu
+         4oDwXx8nBYN1tg1T4HCVV67f2wnPxZKGp6Olm352za84X4PS6hYtFM3wL6jEF1OUFnYY
+         eLkGmOng0dffKW+bnCR4dXJIlAKOcxmrLdrfprr1CWUqhH7ifZgnZB8myeRWaCeNKEOT
+         zKrvFjsaXZFxgRDwjXTIZi2jim6ei5Gju2MlbBRegHz47ugyRfEPAuTtLiwcy3niC03q
+         pJ9Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=o7bJHSrTz7iMVOjcZakwxN1bu9AOC31KfyxsueUMQoU=;
+        b=SjBu/CLBMO5Qv24t8D5podkyQkCp651KI3BYB9ifZdnGttduuWmdoO/EcLh3wIpk+J
+         XDmJRwjLgcA+/GaJrlNfheSzCCcMnYRxY8PlkWCYi+dYQrNeHLpAj/uUs5GbgzPd5PQA
+         54X8u0RsBILZqQUelzAhqObHST2kEZXOgiMI9qiwd8ol8Qwi5iBydnmax3J/pkiYZToz
+         C+AtOGvBtHWHnyROPl/wbg48GDCtz7rKMM3m0KizWzbCnCZc5QanQh3NKs8hHhq8N8yM
+         9JFNmxg3fDWyN70iO/FVL6fs2QAyAksqT/mNfhcb/a0/2XbyNQiEBpCjF/rYEZK2728w
+         wNTQ==
+X-Gm-Message-State: AA+aEWbZrOANAc3/mOVKAnIb7lGnbbuikbOsPn7qtZRNSojr4jolrLmD
+	P/B/SOOQNyoPmvGC4HFJFv8rfMkrpndRYelO5NQ/jQ==
+X-Google-Smtp-Source: AFSGD/UpcDbKsmT/gSa6R5EBrYaRgnxUfZHiElNRNuu1Qrm6Cp+nb8Wr0HDU/tu6/MVxJ9qjmBvEcCMdX6cNeU+guFI=
+X-Received: by 2002:aca:5a06:: with SMTP id o6mr3930472oib.341.1544286118579;
+ Sat, 08 Dec 2018 08:21:58 -0800 (PST)
+MIME-Version: 1.0
+References: <CACnMvBbKYWfTBd+OZFinoy9iTW7tmpqEmUD1+DodAEwCr646Eg@mail.gmail.com>
+In-Reply-To: <CACnMvBbKYWfTBd+OZFinoy9iTW7tmpqEmUD1+DodAEwCr646Eg@mail.gmail.com>
+From: Philip Mannion <philipdmannion@gmail.com>
+Date: Sat, 8 Dec 2018 16:21:47 +0000
+Message-ID: <CA+MsCLJG+hZiYukr3woS21xEbiCCMVu9vrjXXe+VqEXNeL21sA@mail.gmail.com>
+Subject: Re: Your comments on Xenoposeidon orientation
+To: Mike Taylor <sauropoda@gmail.com>
+Content-Type: multipart/alternative; boundary="0000000000008791cc057c8521c2"
+
+--0000000000008791cc057c8521c2
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Mike - no problem: that's fine with me.
+
+Best wishes,
+
+Phil
+
+On Sat, 8 Dec 2018 at 15:40, Mike Taylor <sauropoda@gmail.com> wrote:
+
+> Hi, Phil. You may have seen from recent blog-posts that, after your
+> review of the Xeno redescription, I've continued to think about
+> vertebral orientation. I and Matt are now working on a paper
+> discussing this more depth, and I would like to quote from your
+> reviews in the introduction. I'll append the relevant except from the
+> ms. Would it be OK to use this?
+>
+> Thanks,
+>
+> -- Mike.
+>
+>
+>
+> ---------------- begin quote ----------------
+> In late 2017, one of us submitted a paper (Taylor 2018b) redescribing
+> the sauropod dinosaur Xenoposeidon and assigning it to the group
+> Rebbachisauridae, based on the holotype and only specimen NHMUK PV
+> R2095. Among the five diagnostic characters given for Xenoposeidon was
+> #2, =E2=80=9CNeural arch slopes anteriorly 30=C2=B0=E2=80=9335=C2=B0 rela=
+tive to the vertical=E2=80=9D
+> (Taylor 2018b:5). In a helpful and detailed peer review, Phil Mannion
+> (XXX Mannion 2018a) commented:
+>
+> > The strong anterior slant of the neural arch appears to be dependent on
+> how you've chosen to orientate the vertebra, but there doesn't appear to =
+be
+> any need to orientate it in this way.
+>
+> I (Taylor) carelessly failed to directly address this criticism in my
+> response letter, although I did add a brief discussion of the
+> orientation. Consequently Mannion raised the matter again in the
+> second round of review (XXX Mannion 2018b):
+>
+> > I still don't agree with this, and I don't see any clear evidence for
+> orientating it this way. I went into the NHM to re-look at this. No aspec=
+t
+> of the posterior articular surface of the centrum leads me to orient the
+> vertebra in the same way of shown in your figures. In addition, as
+> currently orientated, the floor of the neural canal is strongly tilted - =
+it
+> seems more conservative to assume that this is horizontal. Similarly, by
+> following that orientation, this would then make the long-axis of the
+> lateral pneumatic opening closer to horizontal.
+> >
+> > By orientating the vertebra this way, the anterior margin is
+> sub-vertical, with a very gentle anterior deflection, and the M-lamina is
+> much closer in orientation to that of Rebbachisaurus.
+>
+> I responded (Taylor 2018a):
+>
+> > Phil remains convinced that the proper orientation of the vertebra give=
+s
+> is a lesser forward slope that as described in the manuscript. Having onc=
+e
+> more revisited my photos and 3D models, I remain convinced that the prese=
+nt
+> orientation is essentially correct. It could be out by five degrees or so=
+,
+> so I have changed =E2=80=9C35 degrees=E2=80=9D to =E2=80=9C30-35 degrees=
+=E2=80=9D throughout.
+>
+> Mannion was gracious enough to accept this, and the paper proceeded to
+> publication with the relevant section (Taylor 2018b:5) essentially
+> unchanged. But the question he had raised continued to occupy me: what
+> exactly is the =E2=80=9Ccorrect=E2=80=9D orientation of the vertebra, rel=
+ative to
+> which we can measure the angle of the sloping neural arch? And what do
+> we even mean by =E2=80=9Ccorrect=E2=80=9D?
+> ---------------- end quote ----------------
+>
+
+
+--=20
+
+Dr Philip D. Mannion
+Royal Society University Research Fellow
+Department of Earth Science and Engineering
+Imperial College London
+South Kensington Campus
+London
+SW7 2AZ
+UK
+
+philipdmannion@gmail.com
+p.mannion@imperial.ac.uk
+Tel: +44 (0) 20 759 46404
+
+http://www3.imperial.ac.uk/people/p.mannion
+
+--0000000000008791cc057c8521c2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Mike - no problem: that&#39;s fine with me.<div><br></d=
+iv><div>Best wishes,</div><div><br></div><div>Phil</div></div><br><div clas=
+s=3D"gmail_quote"><div dir=3D"ltr">On Sat, 8 Dec 2018 at 15:40, Mike Taylor=
+ &lt;<a href=3D"mailto:sauropoda@gmail.com">sauropoda@gmail.com</a>&gt; wro=
+te:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px =
+0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex">Hi, Phil. Yo=
+u may have seen from recent blog-posts that, after your<br>
+review of the Xeno redescription, I&#39;ve continued to think about<br>
+vertebral orientation. I and Matt are now working on a paper<br>
+discussing this more depth, and I would like to quote from your<br>
+reviews in the introduction. I&#39;ll append the relevant except from the<b=
+r>
+ms. Would it be OK to use this?<br>
+<br>
+Thanks,<br>
+<br>
+-- Mike.<br>
+<br>
+<br>
+<br>
+---------------- begin quote ----------------<br>
+In late 2017, one of us submitted a paper (Taylor 2018b) redescribing<br>
+the sauropod dinosaur Xenoposeidon and assigning it to the group<br>
+Rebbachisauridae, based on the holotype and only specimen NHMUK PV<br>
+R2095. Among the five diagnostic characters given for Xenoposeidon was<br>
+#2, =E2=80=9CNeural arch slopes anteriorly 30=C2=B0=E2=80=9335=C2=B0 relati=
+ve to the vertical=E2=80=9D<br>
+(Taylor 2018b:5). In a helpful and detailed peer review, Phil Mannion<br>
+(XXX Mannion 2018a) commented:<br>
+<br>
+&gt; The strong anterior slant of the neural arch appears to be dependent o=
+n how you&#39;ve chosen to orientate the vertebra, but there doesn&#39;t ap=
+pear to be any need to orientate it in this way.<br>
+<br>
+I (Taylor) carelessly failed to directly address this criticism in my<br>
+response letter, although I did add a brief discussion of the<br>
+orientation. Consequently Mannion raised the matter again in the<br>
+second round of review (XXX Mannion 2018b):<br>
+<br>
+&gt; I still don&#39;t agree with this, and I don&#39;t see any clear evide=
+nce for orientating it this way. I went into the NHM to re-look at this. No=
+ aspect of the posterior articular surface of the centrum leads me to orien=
+t the vertebra in the same way of shown in your figures. In addition, as cu=
+rrently orientated, the floor of the neural canal is strongly tilted - it s=
+eems more conservative to assume that this is horizontal. Similarly, by fol=
+lowing that orientation, this would then make the long-axis of the lateral =
+pneumatic opening closer to horizontal.<br>
+&gt;<br>
+&gt; By orientating the vertebra this way, the anterior margin is sub-verti=
+cal, with a very gentle anterior deflection, and the M-lamina is much close=
+r in orientation to that of Rebbachisaurus.<br>
+<br>
+I responded (Taylor 2018a):<br>
+<br>
+&gt; Phil remains convinced that the proper orientation of the vertebra giv=
+es is a lesser forward slope that as described in the manuscript. Having on=
+ce more revisited my photos and 3D models, I remain convinced that the pres=
+ent orientation is essentially correct. It could be out by five degrees or =
+so, so I have changed =E2=80=9C35 degrees=E2=80=9D to =E2=80=9C30-35 degree=
+s=E2=80=9D throughout.<br>
+<br>
+Mannion was gracious enough to accept this, and the paper proceeded to<br>
+publication with the relevant section (Taylor 2018b:5) essentially<br>
+unchanged. But the question he had raised continued to occupy me: what<br>
+exactly is the =E2=80=9Ccorrect=E2=80=9D orientation of the vertebra, relat=
+ive to<br>
+which we can measure the angle of the sloping neural arch? And what do<br>
+we even mean by =E2=80=9Ccorrect=E2=80=9D?<br>
+---------------- end quote ----------------<br>
+</blockquote></div><br clear=3D"all"><div><br></div>-- <br><div dir=3D"ltr"=
+ class=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div=
+><br></div>Dr Philip D. Mannion<div>Royal Society University Research Fello=
+w<br><div>Department of Earth Science and Engineering</div><div>Imperial Co=
+llege London</div><div>South Kensington Campus</div><div>London</div><div>S=
+W7 2AZ</div><div>UK</div><div><br></div><div><a href=3D"mailto:philipdmanni=
+on@gmail.com" target=3D"_blank">philipdmannion@gmail.com</a></div><div><a h=
+ref=3D"mailto:p.mannion@imperial.ac.uk" target=3D"_blank">p.mannion@imperia=
+l.ac.uk</a></div><div>Tel: +44 (0) 20 759 46404
+</div><div><br></div><div><a href=3D"http://www3.imperial.ac.uk/people/p.ma=
+nnion" target=3D"_blank">http://www3.imperial.ac.uk/people/p.mannion</a>
+</div><div><br></div></div></div></div></div></div></div>
+
+--0000000000008791cc057c8521c2--
