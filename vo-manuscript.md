@@ -25,15 +25,13 @@ College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine
 
 ## Introduction
 
-In late 2017, one of us submitted a paper (Taylor 2018b) redescribing the sauropod dinosaur _Xenoposeidon_ and assigning it to the group Rebbachisauridae, based on the holotype and only specimen NHMUK PV R2095. Among the five diagnostic characters given for _Xenoposeidon_ was #2, “Neural arch slopes anteriorly 30°–35° relative to the vertical” (Taylor 2018b:5). In a helpful and detailed peer review, Phil Mannion (XXX Mannion 2018a) commented:
+In late 2017, one of us submitted a paper (Taylor 2018b) redescribing the sauropod dinosaur _Xenoposeidon_ and assigning it to the group Rebbachisauridae, based on the holotype and only specimen NHMUK PV R2095. Among the five diagnostic characters given for _Xenoposeidon_ was #2, “Neural arch slopes anteriorly 30°–35° relative to the vertical” (Taylor 2018b:5). In a helpful and detailed peer review, Phil Mannion (2018a) commented:
 
 > The strong anterior slant of the neural arch appears to be dependent on how you've chosen to orientate the vertebra, but there doesn't appear to be any need to orientate it in this way.
 
-I (Taylor) carelessly failed to directly address this criticism in my response letter, although I did add a brief discussion of the orientation. Consequently Mannion raised the matter again in the second round of review (XXX Mannion 2018b):
+I (Taylor) carelessly failed to directly address this criticism in my response letter, although I did add a brief discussion of the orientation. Consequently Mannion raised the matter again in the second round of review (Mannion 2018b):
 
-> I still don't agree with this, and I don't see any clear evidence for orientating it this way. I went into the NHM to re-look at this. No aspect of the posterior articular surface of the centrum leads me to orient the vertebra in the same way of shown in your figures. In addition, as currently orientated, the floor of the neural canal is strongly tilted - it seems more conservative to assume that this is horizontal. Similarly, by following that orientation, this would then make the long-axis of the lateral pneumatic opening closer to horizontal.
->
-> By orientating the vertebra this way, the anterior margin is sub-vertical, with a very gentle anterior deflection, and the M-lamina is much closer in orientation to that of Rebbachisaurus.
+> I'm still unconvinced by the proposed anterior slant of the vertebra and don't think that there's any evidence for orientating it in this way. I went into the NHM to re-look at this. No aspect of the posterior articular surface of the centrum leads me to orient the vertebra in the same way of shown in your figures. In addition, as currently orientated, the floor of the neural canal is strongly tilted - it seems more conservative to assume that this is horizontal. Similarly, by following that orientation, this would then make the long-axis of the lateral pneumatic opening closer to horizontal. By orientating the vertebra this way, the anterior margin is sub-vertical, with a very gentle anterior deflection (i.e. fairly normal for a sauropod), and the M-lamina is much closer in orientation to that of _Rebbachisaurus_.
 
 I responded (Taylor 2018a):
 
@@ -95,7 +93,7 @@ This work first began to take shape as a series of blog-posts (Taylor 2018c, Tay
 
 ## Acknowledgements
 
-First, we thank Phil Mannion (XXX Imperial?) both for his multiple rounds of review of the _Xenoposeidon_ manuscript and for giving us permission to quote relevant excepts in the current paper. XXX seek this permission!
+First, we thank Phil Mannion (Imperial College London) both for his multiple rounds of review of the _Xenoposeidon_ manuscript and for giving us permission to quote relevant excepts in the current paper. XXX seek this permission!
 
 We are also grateful to the curators and collection managers for access to specimens used in this study, including
 * Daniela Schwarz (Museum für Naturukunde Berlin) for _Giraffatitan_.
@@ -110,6 +108,8 @@ Finally, we thanks John Yasmer and Thierra Nalley (Western University of Health 
 
 ## References
 
+* Mannion, Philip D. 2018a. Peer Review #3 (1st round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.1)". PeerJ. doi:10.7287/peerj.5212v0.1/reviews/3
+* Mannion, Philip D. 2018b. Peer Review #3 (2nd round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". PeerJ. doi:10.7287/peerj.5212v0.2/reviews/3
 * Taylor, Michael P. 2018a. XXX response letter to 2nd round of reviews
 * Taylor, Michael P. 2018b. _Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur. _PeerJ_ **6**:e5212. doi:10.7717/peerj.5212
 * Taylor, Michael P. 2018c. What does it mean for a vertebra to be “horizontal”? _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/what-does-it-mean-for-a-vertebra-to-be-horizontal/
