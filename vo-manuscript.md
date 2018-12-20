@@ -84,7 +84,7 @@ XXX
 
 In publishing the _Xenoposeidon_ revision (Taylor 2018b) in the journal _PeerJ-, I (Taylor) was pleased to take advantage of the journal's policy of allowing submitted drafts, peer-reviews, response letters and handling editors' comments to be published alongside the final paper. It is because these materials are published (### Young et al. 2018) that the sequence of discussion is preserved, and Mannion's helpful and gracious comments are available to be read — not only as the extracts in the present paper, but in their full context.
 
-We endorse the publication of peer reviews, and both take this option whenever it is offered. Aside from their value as part of the scholarly record, published peer-reviews are visible evidence of the reviewers’ broader contribution to science, and can be taken into account in evaluating researchers for jobs, promotions, tenure and grants. Sets of reviews, accompanied by the corresponding versions of the manuscript, can be an important pedagogical tool for teaching students in practical terms how peer-review works (e.g. XXX pers. comm.). Crucially, reviews can play an important role in the origination of new research questions, and should be acknowledged: the present work on defining vertebral orientation arises directly from Phil Mannion's peer-review comments (Mannion 2018a, 2018b).
+We endorse the publication of peer reviews, and both take this option whenever it is offered. Aside from their value as part of the scholarly record, published peer-reviews are visible evidence of the reviewers’ broader contribution to science, and can be taken into account in evaluating researchers for jobs, promotions, tenure and grants. Sets of reviews, accompanied by the corresponding versions of the manuscript, can be an important pedagogical tool for teaching students in practical terms how peer-review works: for example, Andy Farke (Raymond M. Alf Museum) writes “I use those published reviews when we are talking about the process of scientific publication. I have the students read the reviews and read the responses, and then talk about how the paper changed as a result” (pers. comm. 2018). Crucially, reviews can play an important role in the origination of new research questions, and should be acknowledged: the present work on defining vertebral orientation arises directly from Phil Mannion's peer-review comments (Mannion 2018a, 2018b).
 
 ### Open composition
 
@@ -93,7 +93,7 @@ This work first began to take shape as a series of blog-posts (Taylor 2018c, Tay
 
 ## Acknowledgements
 
-First, we thank Phil Mannion (Imperial College London) both for his multiple rounds of review of the _Xenoposeidon_ manuscript and for giving us permission to quote relevant excepts in the current paper. We also thank Marc Vincent for permission to reproduce his photograph in Figure B.
+First, we thank Phil Mannion (Imperial College London) both for his multiple rounds of review of the _Xenoposeidon_ manuscript and for giving us permission to quote relevant excepts in the current paper. We also thank Marc Vincent for permission to reproduce his photograph in Figure B and Andy Farke for permission to cite a personal communication.
 
 We are deeply grateful to the curators and collection managers for access to specimens used in this study, including
 * Daniela Schwarz (Museum für Naturukunde Berlin) for _Giraffatitan_.
