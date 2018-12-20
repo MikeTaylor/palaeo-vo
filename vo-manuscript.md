@@ -65,6 +65,8 @@ Note that the present question is nothing to do with life posture, which is a mu
 
 ---
 
+Instead, we seek abstract notions of "horizontal", "cranial" and "caudal" that apply irrespective of the specific posture adopted by an animal — something that is especially important for the study of extinct animals for which habitual posture cannot be known with certainty and remains controversial (e.g. sauropod neck posture: Steven and Parrish 1999 vs. Taylor et al. 2009). Our goal is to have an objective standard by which to assess properties such as the slope of a neural arch.
+
 ### Anatomical nomenclature
 
 As dinosaur palaeontologists, we generally use and prefer the Owenian system of anatomical directions, with anterior and posterior indicating the forward and backward directions accordingly (Owen 1854) — hence the use of these terms in the _Xenoposeidon_ paper, its reviews, and the associated discussion. However, for the present paper, we seek directional definitions that are unambiguous for all vertebrates: not only those like dinosaurs, dogs and fish, which hold their vertebral columns essentially horizontal; but also those like humans, penguins and meerkats, which hold their vertebral columns essentially vertical. For this reason, avoiding ambiguity in humans, where “anterior” means ventral (towards the belly) rather than cranial (towards the head), we will use terms cranial and caudal, and derived terms such as craniodorsal.
@@ -111,6 +113,7 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Mannion, Philip D. 2018a. Peer Review #3 (1st round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.1)". PeerJ. doi:10.7287/peerj.5212v0.1/reviews/3
 * Mannion, Philip D. 2018b. Peer Review #3 (2nd round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". PeerJ. doi:10.7287/peerj.5212v0.2/reviews/3
 * Owen, Richard. 1854. The principal forms of the skeleton and of the teeth. Blanchard and Lea, Philadelphia.
+* Stevens, Kent A., and J. Michael Parrish. 1999. Neck posture and feeding habits of two Jurassic sauropod dinosaurs. _Science_ **8284**:798–800.
 * Taylor, Michael P. 2017. My collection of sauropod-themed mugs (or at least five sixths of it). _Sauropod Vertebra Picture of the Week_ 4 June 2017. https://svpow.com/2017/06/04/my-collection-of-sauropod-themed-mugs-or-at-least-five-sixths-of-it/
 * Taylor, Michael P. 2018a. Untitled rebuttal letter to 2nd round of reviews. https://peerj.com/articles/5212v0.3/rebuttal
 * Taylor, Michael P. 2018b. _Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur. _PeerJ_ **6**:e5212. doi:10.7717/peerj.5212
@@ -118,6 +121,7 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Taylor, Michael P. 2018d. When is a vertebra “horizontal”, part 2. _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/when-is-a-vertebra-horizontal-part-2/
 * Taylor, Michael P. 2018e. Writing the vertebral-orientation paper in the open. _Sauropod Vertebra Picture of the Week_ 14 December 2018. https://svpow.com/2018/12/14/writing-the-vertebral-orientation-paper-in-the-open/
 * Taylor Michael P., and Mathew J. Wedel. 2018. What do we mean by the directions “cranial” and “caudal” on a vertebra? _PeerJ Preprints_ **6**:e27437v1. doi:10.7287/peerj.preprints.27437v1
+* Taylor, Michael P., Mathew J. Wedel and Darren Naish. 2009. Head and neck posture in sauropod dinosaurs inferred from extant animals. _Acta Palaeontologica Polonica_ **54(2)**:213-230.
 * Wedel, Matthew J. 2018a. The proximal caudals of _Brachiosaurus altithorax_, FMNH P25107. _Sauropod Vertebra Picture of the Week_ 11 September 2018. https://svpow.com/2018/09/11/the-proximal-caudals-of-brachiosaurus-altithorax-fmnh-p25107/
 * Wedel, Matthew J. 2018b. Vertebral orientation: _Varanus komodoensis_ would like a word. _Sauropod Vertebra Picture of the Week_ 25 September 2018. https://svpow.com/2018/09/25/vertebral-orientation-varanus-komodoensis-would-like-a-word/
 * Wedel, Matthew J. 2018c. Vertebral orientation, part 3: Matt weighs in. _Sauropod Vertebra Picture of the Week_ 5 October 2018. https://svpow.com/2018/10/05/vertebral-orientation-part-3-matt-weighs-in/
