@@ -99,11 +99,11 @@ We are deeply grateful to the curators and collection managers for access to spe
 * Daniela Schwarz (Museum für Naturukunde Berlin) for _Giraffatitan_.
 * Julia McHugh (Dinosaur Journey) for _Haplocanthosaurus_.
 * Bill Simpson (Field Museum of Natural History, Chicago, IL) for _Brachiosaurus_ and the giraffe.
-* Neftali Camacho (LACM XXX expand this) for the Komodo dragon.
+* Neftali Camacho (Los Angeles County Museum of Natural History) for the Komodo dragon.
 * Sandra Chapman (Natural History Museum, London, UK) for _Xenoposeidon_.
-* Ken Noriega (XXX check Western University of Health Sciences, Veterinary Medicine, CA) for the horse head.
+* Ken Noriega (Western University of Health Sciences) for the horse head.
 
-Finally, we thank John Yasmer and Thierra Nalley (Western University of Health Sciences, CA) for their assistance in CT scanning and 3D modelling the _Haplocanthosaurus_ caudal vertebra.
+Finally, we thank John Yasmer and Thierra Nalley (Western University of Health Sciences) for their assistance in CT scanning and 3D modelling the _Haplocanthosaurus_ caudal vertebra.
 
 
 ## References
@@ -112,7 +112,7 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Mannion, Philip D. 2018b. Peer Review #3 (2nd round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". PeerJ. doi:10.7287/peerj.5212v0.2/reviews/3
 * Owen, Richard. 1854. The principal forms of the skeleton and of the teeth. Blanchard and Lea, Philadelphia.
 * Taylor, Michael P. 2017. My collection of sauropod-themed mugs (or at least five sixths of it). _Sauropod Vertebra Picture of the Week_ 4 June 2017. https://svpow.com/2017/06/04/my-collection-of-sauropod-themed-mugs-or-at-least-five-sixths-of-it/
-* Taylor, Michael P. 2018a. XXX response letter to 2nd round of reviews
+* Taylor, Michael P. 2018a. Untitled rebuttal letter to 2nd round of reviews. https://peerj.com/articles/5212v0.3/rebuttal
 * Taylor, Michael P. 2018b. _Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur. _PeerJ_ **6**:e5212. doi:10.7717/peerj.5212
 * Taylor, Michael P. 2018c. What does it mean for a vertebra to be “horizontal”? _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/what-does-it-mean-for-a-vertebra-to-be-horizontal/
 * Taylor, Michael P. 2018d. When is a vertebra “horizontal”, part 2. _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/when-is-a-vertebra-horizontal-part-2/
