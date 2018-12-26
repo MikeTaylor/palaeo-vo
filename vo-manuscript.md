@@ -53,7 +53,16 @@ Mannion was gracious enough to accept this, and the paper proceeded to publicati
 
 The neural arch slopes relative to the vertical. Vertical is defined as being orthogonal to the horizontal. That in turn is defined by the cranial-caudal (= anterior-posterior) axis. But what do those directions mean? How can we define them for a given vertebra?
 
-In the present paper, we aim to answer that question. We will propose and discuss four candidate criteria, recommend the one we consider most practical and informative, and determine the slope of _Xenoposeidon_'s neural arch more precisely.
+In the present paper, we aim to answer that question. We will propose and discuss four candidate criteria, recommend the one we consider most practical and informative, and determine the slope of _Xenoposeidon_'s neural arch more precisely. In the absence of such criteria, it is perhaps inevitable that we will continue to see inconsistency such as that in Saegusa and Ikeda's (2014: figure 8) illustration of the caudal vertebrae of _Tambatitanis amicitiae_ (reproduced here as Figure C).
+
+---
+
+![Figure C. Caudal vertebrae of Tambatitanis amicitiae in right lateral view](figures/Figure-C-SaegusaIkeda12014-Tambatitanis-fig8.png)
+
+> **Figure C.** _Tambatitanis amicitiae_ holotype MNHAH D-1029280, caudal vertebrae in right lateral view. Top row, caudals 1–11; bottom row, a set of more caudal caudals, not necessarily contiguous, designated x1–x11. Note the more anterior caudals are oriented such that their articular surfaces are vertical, even when this means that the long axis of the vertebra is steeply inclined as in caudals 4, 5, 7 and especially 8; while the more posterior caudals are oriented such that their long axis is horizontal, even when this means that the articular surfaces are inclined as in caudals x6 and x7, which slope in opposite directions.
+> Reproduced from Saegusa and Ikeda (2014: figure 8) under the CC By 3.0 licence.
+
+---
 
 Note that the present question is nothing to do with life posture, which is a much more difficult problem, subject to many more degrees of uncertainty. Animals do not hold their vertebral columns any anything close to true horizontal — not even though that we characterise as having horizontal posture — and we do not want to tie the meaning of our very nomenclature to something so variable and unpredictable. Otherwise we would have to define “horizontal” for the mid-cervical vertebrae of parrots as upside-down (Figure B).
 
@@ -73,6 +82,7 @@ As dinosaur palaeontologists, we generally use and prefer the Owenian system of 
 
 ### Institutional abbreviations
 
+* **MNHAH** — Museum of Nature and Human Activities, Hyogo, Japan.
 * **NHMUK PV** — Natural History Museum, London, UK; vertebrate palaeontology collection.
 
 
@@ -113,6 +123,7 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Mannion, Philip D. 2018a. Peer Review #3 (1st round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.1)". PeerJ. doi:10.7287/peerj.5212v0.1/reviews/3
 * Mannion, Philip D. 2018b. Peer Review #3 (2nd round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". PeerJ. doi:10.7287/peerj.5212v0.2/reviews/3
 * Owen, Richard. 1854. The principal forms of the skeleton and of the teeth. Blanchard and Lea, Philadelphia.
+* Saegusa, Haruo, and Tadahiro Ikeda. 2014. A new titanosauriform sauropod (Dinosauria: Saurischia) from the Lower Cretaceous of Hyogo, Japan. _Zootaxa_ **3848(1)**:1–66. doi:10.11646/zootaxa.3848.1.1.
 * Stevens, Kent A., and J. Michael Parrish. 1999. Neck posture and feeding habits of two Jurassic sauropod dinosaurs. _Science_ **8284**:798–800.
 * Taylor, Michael P. 2017. My collection of sauropod-themed mugs (or at least five sixths of it). _Sauropod Vertebra Picture of the Week_ 4 June 2017. https://svpow.com/2017/06/04/my-collection-of-sauropod-themed-mugs-or-at-least-five-sixths-of-it/
 * Taylor, Michael P. 2018a. Untitled rebuttal letter to 2nd round of reviews. https://peerj.com/articles/5212v0.3/rebuttal
