@@ -126,7 +126,7 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Saegusa, Haruo, and Tadahiro Ikeda. 2014. A new titanosauriform sauropod (Dinosauria: Saurischia) from the Lower Cretaceous of Hyogo, Japan. _Zootaxa_ **3848(1)**:1–66. doi:10.11646/zootaxa.3848.1.1.
 * Stevens, Kent A., and J. Michael Parrish. 1999. Neck posture and feeding habits of two Jurassic sauropod dinosaurs. _Science_ **8284**:798–800.
 * Taylor, Michael P. 2017. My collection of sauropod-themed mugs (or at least five sixths of it). _Sauropod Vertebra Picture of the Week_ 4 June 2017. https://svpow.com/2017/06/04/my-collection-of-sauropod-themed-mugs-or-at-least-five-sixths-of-it/
-* Taylor, Michael P. 2018a. Untitled rebuttal letter to 2nd round of reviews. https://peerj.com/articles/5212v0.3/rebuttal
+* Taylor, Michael P. 2018a. Untitled rebuttal letter to 2nd round of reviews of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". _PeerJ_. https://peerj.com/articles/5212v0.3/rebuttal
 * Taylor, Michael P. 2018b. _Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur. _PeerJ_ **6**:e5212. doi:10.7717/peerj.5212
 * Taylor, Michael P. 2018c. What does it mean for a vertebra to be “horizontal”? _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/what-does-it-mean-for-a-vertebra-to-be-horizontal/
 * Taylor, Michael P. 2018d. When is a vertebra “horizontal”, part 2. _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/when-is-a-vertebra-horizontal-part-2/
