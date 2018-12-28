@@ -98,27 +98,63 @@ As dinosaur palaeontologists, we generally use and prefer the Owenian system of 
 
 ## Four definitions of “horizontal”
 
-XXX
+XXX Discuss
 
 
 ### 1. Long axis of centrum is horizontal
 
-XXX
+XXX This is appealing for elongate vertebrae such as sauropod cervicals.
+
+XXX Giraffatitan image
+
+XXX But it’s difficult to determine for craniocaudally short vertebrae such as most caudals. Reference the Hap caudal.
+
+XXX And where is “half height” at the front and the back? Reference horizontal lines in Giraffatitan image
 
 
 ### 2. Articular facets of centrum are vertical
 
-XXX
+XXX This is appealing for short, tall vertebrae. Ref Hap.
+
+XXX But ambiguous “keystoned” vertebrae where the anterior and posterior facets are not parallel.
+
+XXX Giraffa illustration
+
+XXX This is difficult to determine when dealing with facets that are concave or (worse) convex.
+
+XXX Komodo illustration
+
+XXX And gives results that seem "obviously" wrong: Komodo 2.
 
 
 ### 3. Neural canal is horizontal
 
-XXX
+XXX Can yield _very_ different results from method 2. Show the two Hap caudal orientations.
+
+XXX Ambiguous if dorsal and ventral margins of neural canal are not parallel. Show this condition in the Hap. caudal.
+
+XXX “horizontal” depends on where you think the start and end of the canal are. Show different options on Hap vertebra.
+
+XXX When one or both of the margins is convex, there is no straight line to measure. Show human cross-section, e.g. the one from the talk.
+
+XXX Difficult to determine in vertebrae that have not been fully prepared or CT-scanned, and impossible to see in a lateral view photo. But can be approximated using low-tech means. Show the roll of paper through the Brachiosaurus caudal.
 
 
 ### 4. Similarity in articulation
 
 XXX
+
+
+
+## Comparison of definitions
+
+XXX Definition 2 of horizontality can make the neural canal jagged. This never happens in life: it can curve but never kink.
+
+XXX Compare sequence-of-hap illustration with hemisected horse.
+
+XXX Definition 3 is anatomically informative, reflecting the developmental sequence.  The vertebrae form around the spinal cord.
+
+XXX Seek permission to use Liem et al. (2001): fig 8.3, or redraw it.
 
 
 ## Discussion
