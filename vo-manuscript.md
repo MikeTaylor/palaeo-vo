@@ -142,7 +142,27 @@ XXX Difficult to determine in vertebrae that have not been fully prepared or CT-
 
 ### 4. Similarity in articulation
 
-XXX
+XXX a definition of “horizontal” based on the _whole_ vertebra, not specific parts of it such as the articular facets or the neural canal.
+
+1. Depict the vertebra in _any_ orientation.
+2. Add another copy in the same orientation.
+3. Articulate the copies without rotating.
+4. Rotate both copies until at same height.
+
+Note: two _copies_ of the _same_ vertebra.  Method does not require two vertebrae.
+
+XXX Show the method applied to _Giraffatitan_ C5.
+
+XXX Show the method applied to _Giraffa_ C7. Note that the intercentral joint shows a strong divergence between the planes of the two articular surfaces.
+
+### This is less intuitive than definitions 1–3, but:
+* More precise
+* Constrains subjectivity
+* Can be determined for any complete vertebra, irrespective of whether 
+the articular faces are parallel or the neural canal is tubular.
+
+XXX We may hope that this method is less vulnerable to yielding a distorted 
+result when the vertebra is damaged.
 
 
 
@@ -155,6 +175,21 @@ XXX Compare sequence-of-hap illustration with hemisected horse.
 XXX Definition 3 is anatomically informative, reflecting the developmental sequence.  The vertebrae form around the spinal cord.
 
 XXX Seek permission to use Liem et al. (2001): fig 8.3, or redraw it.
+
+XXX This orientation is used for _Opisthocoelicaudia skarzynskyii_ caudals 6–8 in Borsuk-Bialynicka (1977: plate 5: figure 2a), but this is because the verebtrae were preserved in articulation in this orientation, suggesting this reflects relative orientation in life.
+
+XXX Definition 4 can't be done at all for _Xenoposeidon_, which is where we came in.
+
+XXX When we floated these notions on SV-POW!, all the methods had adherents. No one method can satisfy all desiderata.
+
+
+
+## Conclusion
+
+At minimum, we advocate that each paper should explicitly adopt a definition of “horizontal”, and use it consistently.
+
+We _tentatively_ recommend the base-of-the-neural-canal-is-horizontal method.
+
 
 
 ## Discussion
