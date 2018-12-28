@@ -9,18 +9,25 @@ College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine
 <mathew.wedel@gmail.com>
 
 
+
 ## Contents
 
 <!-- md2toc -l 2 -s 1 vo-manuscript.md -->
 * [Introduction](#introduction)
     * [Anatomical nomenclature](#anatomical-nomenclature)
     * [Institutional abbreviations](#institutional-abbreviations)
+* [Four definitions of “horizontal”](#four-definitions-of-horizontal)
+    * [1. Long axis of centrum is horizontal](#1-long-axis-of-centrum-is-horizontal)
+    * [2. Articular facets of centrum are vertical](#2-articular-facets-of-centrum-are-vertical)
+    * [3. Neural canal is horizontal](#3-neural-canal-is-horizontal)
+    * [4. Similarity in articulation](#4-similarity-in-articulation)
 * [Discussion](#discussion)
     * [Relevance to other work](#relevance-to-other-work)
     * [Open peer review](#open-peer-review)
     * [Open composition](#open-composition)
 * [Acknowledgements](#acknowledgements)
 * [References](#references)
+
 
 
 ## Introduction
@@ -76,9 +83,11 @@ Note that the present question is nothing to do with life posture, which is a mu
 
 Instead, we seek abstract notions of "horizontal", "cranial" and "caudal" that apply irrespective of the specific posture adopted by an animal — something that is especially important for the study of extinct animals for which habitual posture cannot be known with certainty and remains controversial (e.g. sauropod neck posture: Steven and Parrish 1999 vs. Taylor et al. 2009). Our goal is to have an objective standard by which to assess properties such as the slope of a neural arch.
 
+
 ### Anatomical nomenclature
 
 As dinosaur palaeontologists, we generally use and prefer the Owenian system of anatomical directions, with anterior and posterior indicating the forward and backward directions accordingly (Owen 1854) — hence the use of these terms in the _Xenoposeidon_ paper, its reviews, and the associated discussion. However, for the present paper, we seek directional definitions that are unambiguous for all vertebrates: not only those like dinosaurs, dogs and fish, which hold their vertebral columns essentially horizontal; but also those like humans, penguins and meerkats, which hold their vertebral columns essentially vertical. For this reason, avoiding ambiguity in humans, where “anterior” means ventral (towards the belly) rather than cranial (towards the head), we will use terms cranial and caudal, and derived terms such as craniodorsal.
+
 
 ### Institutional abbreviations
 
@@ -86,11 +95,43 @@ As dinosaur palaeontologists, we generally use and prefer the Owenian system of 
 * **NHMUK PV** — Natural History Museum, London, UK; vertebrate palaeontology collection.
 
 
+
+## Four definitions of “horizontal”
+
+XXX
+
+
+### 1. Long axis of centrum is horizontal
+
+XXX
+
+
+### 2. Articular facets of centrum are vertical
+
+XXX
+
+
+### 3. Neural canal is horizontal
+
+XXX
+
+
+### 4. Similarity in articulation
+
+XXX
+
+
 ## Discussion
+
 
 ### Relevance to other work
 
-XXX
+There are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation: e.g., measuring cross-sectional area of the neural canal.
+
+XXX Cite work on this
+
+XXX Use Hap caudal illustration
+
 
 ### Open peer review
 
@@ -98,9 +139,11 @@ In publishing the _Xenoposeidon_ revision (Taylor 2018b) in the journal _PeerJ_,
 
 We endorse the publication of peer reviews, and both take this option whenever it is offered. Aside from their value as part of the scholarly record, published peer-reviews are visible evidence of the reviewers’ broader contribution to science, and can be taken into account in evaluating researchers for jobs, promotions, tenure and grants. Sets of reviews, accompanied by the corresponding versions of the manuscript, can be an important pedagogical tool for teaching students in practical terms how peer-review works: for example, Andy Farke (Raymond M. Alf Museum) writes “I use those published reviews when we are talking about the process of scientific publication. I have the students read the reviews and read the responses, and then talk about how the paper changed as a result” (pers. comm. 2018). Crucially, reviews can play an important role in the origination of new research questions, and should be acknowledged: the present work on defining vertebral orientation arises directly from Phil Mannion's peer-review comments (Mannion 2018a, 2018b).
 
+
 ### Open composition
 
 This work first began to take shape as a series of blog-posts (Taylor 2018c, Taylor 2018d, Wedel 2018a, Wedel 2018b, Wedel 2018c) which were drawn together in a talk (Taylor and Wedel 2018) presented by Taylor as part of the 1st Palaeontological Virtual Congress (http://palaeovc.uv.es/) and announced online (Wedel 2018d). This manuscript was developed in the open, in a public GitHub repository (https://github.com/MikeTaylor/palaeo-vo; see Taylor 2018e). We commend this approach as valuable for soliciting informal feedback early in the process, and in making the research itself available quickly.
+
 
 
 ## Acknowledgements
@@ -116,6 +159,7 @@ We are deeply grateful to the curators and collection managers for access to spe
 * Ken Noriega (Western University of Health Sciences) for the horse head.
 
 Finally, we thank John Yasmer and Thierra Nalley (Western University of Health Sciences) for their assistance in CT scanning and 3D modelling the _Haplocanthosaurus_ caudal vertebra.
+
 
 
 ## References
