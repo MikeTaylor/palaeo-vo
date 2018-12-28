@@ -155,7 +155,7 @@ XXX Show the method applied to _Giraffatitan_ C5.
 
 XXX Show the method applied to _Giraffa_ C7. Note that the intercentral joint shows a strong divergence between the planes of the two articular surfaces.
 
-### This is less intuitive than definitions 1–3, but:
+XXX This is less intuitive than definitions 1–3, but:
 * More precise
 * Constrains subjectivity
 * Can be determined for any complete vertebra, irrespective of whether 
