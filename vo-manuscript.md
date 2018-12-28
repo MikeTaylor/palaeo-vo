@@ -100,7 +100,7 @@ As dinosaur palaeontologists, we generally use and prefer the Owenian system of 
 
 ## Four definitions of “horizontal”
 
-XXX Discuss
+We have conceived four candidate definitions of what it might mean for a vertebra to be horizontal — and therefore what the directions cranial and caudal (and dorsal and ventral) might mean. We will now consider them in turn.
 
 
 ### 1. Long axis of centrum is horizontal
