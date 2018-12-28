@@ -21,6 +21,8 @@ College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine
     * [2. Articular facets of centrum are vertical](#2-articular-facets-of-centrum-are-vertical)
     * [3. Neural canal is horizontal](#3-neural-canal-is-horizontal)
     * [4. Similarity in articulation](#4-similarity-in-articulation)
+* [Comparison of definitions](#comparison-of-definitions)
+* [Conclusion](#conclusion)
 * [Discussion](#discussion)
     * [Relevance to other work](#relevance-to-other-work)
     * [Open peer review](#open-peer-review)
