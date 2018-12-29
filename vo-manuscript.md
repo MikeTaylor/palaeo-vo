@@ -105,18 +105,28 @@ We have conceived four candidate definitions of what it might mean for a vertebr
 
 ### 1. Long axis of centrum is horizontal
 
-XXX This is appealing for elongate vertebrae such as sauropod cervicals.
+The default approach for most illustrations, especially for elongate vertebrae such as sauropod cervicals, has been to orient them more or less by eye. In practice, this means to draw a line between the cranial and caudal articular surfaces of the centrum at half height, and orient that line horizontally (Figure D).
 
-XXX Giraffatitan image
+---
 
-XXX But it’s difficult to determine for craniocaudally short vertebrae such as most caudals. Reference the Hap caudal.
+![Figure D. Giraffatitan C5](figures/export-jpeg/Figure-D-Giraffatitan-SI-C5-by-long-axis.jpeg)
 
-XXX And where is “half height” at the front and the back? Reference horizontal lines in Giraffatitan image
+> **Figure D.** _Giraffatitan brancai_ lectotype MB.R.2180 (formerly HMN SI), fifth cervical vertebra in right lateral view, oriented horizontally according to the long axis of the vertebra (red line). The long axis may be defined as the line between the vertical midpoints of the cranial and caudal articular surfaces — but the height of those midpoints depend on the selection of dorsal and ventral extremities of those surfaces, and these are not always obvious. The blue lines at each end of the vertebra show candidate margins. In both cases, the dorsal margin is more or less uncontroversial; but there are several candidates for the ventral margin, especially for the caudal articular surface, which are impossible to resolve using only lateral-view photos and potentially even with the complete fossil to hand.
+
+---
+
+However, this approach cannot be meaningfully used for craniocaudally short vertebrae such as most caudals, in which there is no long axis (Figure E).
+
+And even for elongate vertebrae, this immediately intuitive approach breaks down when considered in detail. A line between the cranial and caudal articular surfaces at half height sounds simple, but to determine half-height we need to establish the dorsal and ventral margins of the articular surfaces, and this is not always clear, especially for fossil vertebrae. In Figure D, the upper blue lines at each end of the vertebra mark to dorsalmost extent of the two articular surfaces, and are not difficult to determine. But the ventralmost extent of both surfaces is much more ambiguous. Candidate ventral extents are shown by the other blue lines. Cranially (to the right), the ventralmost line is aligned with the ventralmost point on the cranial part of the vertebra, but it is not certain that this is part of the articular condyle rather than some other process; the two lines immediately above show two other points on the curvature of the condyle that could be interpreted as its ventralmost extent. Only with the benefit of a caudal view does it become apparent that the upper two lines mark breakages in the cotyle rim rather than a legitimate ventral margin, and that even the lowest line represents a point of breakage rather than for example, a separate ventrolateral process. In fact, the true ventral extent of this articular surface would have been located some way below the preserved portion of the bone — as is shown in Janensch's (1950: figures 23, 25) reconstruction of this vertebra.
+
+All this shows that relying on the eye to determine horizontal orientation can be very misleading, and that a more rigorous approach is needed.
 
 
 ### 2. Articular facets of centrum are vertical
 
-XXX This is appealing for short, tall vertebrae. Ref Hap.
+XXX This is appealing for short, tall vertebrae.
+
+XXX Figure E. Haplocanthosaurus.
 
 XXX But ambiguous “keystoned” vertebrae where the anterior and posterior facets are not parallel.
 
@@ -237,6 +247,7 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 
 ## References
 
+* Janensch, Werner. 1950. Die Wirbelsaule von _Brachiosaurus brancai_. _Palaeontographica_ (Suppl. 7) 3:27-93.
 * Mannion, Philip D. 2018a. Peer Review #3 (1st round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.1)". PeerJ. doi:10.7287/peerj.5212v0.1/reviews/3
 * Mannion, Philip D. 2018b. Peer Review #3 (2nd round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". PeerJ. doi:10.7287/peerj.5212v0.2/reviews/3
 * Owen, Richard. 1854. The principal forms of the skeleton and of the teeth. Blanchard and Lea, Philadelphia.
