@@ -115,7 +115,7 @@ The default approach for most illustrations, especially for elongate vertebrae s
 
 ---
 
-However, this approach cannot be meaningfully used for craniocaudally short vertebrae such as most caudals, in which there is no long axis (Figure E).
+However, this approach cannot be meaningfully used for craniocaudally short vertebrae such as most caudals, in which there is no long axis (Figure E.A).
 
 And even for elongate vertebrae, this immediately intuitive approach breaks down when considered in detail. A line between the cranial and caudal articular surfaces at half height sounds simple, but to determine half-height we need to establish the dorsal and ventral margins of the articular surfaces, and this is not always clear, especially for fossil vertebrae. In Figure D, the upper blue lines at each end of the vertebra mark to dorsalmost extent of the two articular surfaces, and are not difficult to determine. But the ventralmost extent of both surfaces is much more ambiguous. Candidate ventral extents are shown by the other blue lines. Cranially (to the right), the ventralmost line is aligned with the ventralmost point on the cranial part of the vertebra, but it is not certain that this is part of the articular condyle rather than some other process; the two lines immediately above show two other points on the curvature of the condyle that could be interpreted as its ventralmost extent. Only with the benefit of a caudal view does it become apparent that the upper two lines mark breakages in the cotyle rim rather than a legitimate ventral margin, and that even the lowest line represents a point of breakage rather than for example, a separate ventrolateral process. In fact, the true ventral extent of this articular surface would have been located some way below the preserved portion of the bone — as is shown in Janensch's (1950: figures 23, 25) reconstruction of this vertebra.
 
@@ -126,7 +126,13 @@ All this shows that relying on the eye to determine horizontal orientation can b
 
 XXX This is appealing for short, tall vertebrae.
 
-XXX Figure E. Haplocanthosaurus.
+---
+
+![Figure E. Haplocanthosaurus caudal in various orientations](figures/export-jpeg/Figure-E-Haplocanthosaurus-three-orientations.jpeg)
+
+> **Figure E.** XXX
+
+---
 
 XXX But ambiguous “keystoned” vertebrae where the anterior and posterior facets are not parallel.
 
