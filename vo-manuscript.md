@@ -119,22 +119,23 @@ However, this approach cannot be meaningfully used for craniocaudally short vert
 
 And even for elongate vertebrae, this immediately intuitive approach breaks down when considered in detail. A line between the cranial and caudal articular surfaces at half height sounds simple, but to determine half-height we need to establish the dorsal and ventral margins of the articular surfaces, and this is not always clear, especially for fossil vertebrae. In Figure D, the upper blue lines at each end of the vertebra mark to dorsalmost extent of the two articular surfaces, and are not difficult to determine. But the ventralmost extent of both surfaces is much more ambiguous. Candidate ventral extents are shown by the other blue lines. Cranially (to the right), the ventralmost line is aligned with the ventralmost point on the cranial part of the vertebra, but it is not certain that this is part of the articular condyle rather than some other process; the two lines immediately above show two other points on the curvature of the condyle that could be interpreted as its ventralmost extent. Only with the benefit of a caudal view does it become apparent that the upper two lines mark breakages in the cotyle rim rather than a legitimate ventral margin, and that even the lowest line represents a point of breakage rather than for example, a separate ventrolateral process. In fact, the true ventral extent of this articular surface would have been located some way below the preserved portion of the bone — as is shown in Janensch's (1950: figures 23, 25) reconstruction of this vertebra.
 
-All this shows that relying on the eye to determine horizontal orientation can be very misleading, and that a more rigorous approach is needed.
+All this shows that relying on the eye to determine horizontal orientation can be very misleading, and that a more objective approach is needed. We will now consider three such methods (Figure E).
 
+
+---
+![Figure E. Haplocanthosaurus caudal in various orientations](figures/export-jpeg/Figure-E-Haplocanthosaurus-three-orientations.jpeg)
+
+> **Figure E.** _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3, in cross section, showing medial aspect of left side, in three orientations.
+> **A.** In "articular facets vertical" orientation (method 2 of this paper). The red line joins the dorsal and ventral margins of the caudal articular facet, and is oriented vertically; the green line joins the dorsal and ventral margins of the cranial articular facet, and is nearly but not exactly vertical, instead inclining slightly forwards.
+> **B.** In "neural canal horizontal" orientation (method 3 of this paper). The red line joins the cranial and caudal margins of the roof of he neural canal, and is oriented horizontally; the green line joins the cranial and caudal margins of the floor of the neural canal, and is close to horizontally but inclined strongly downwards.
+> **C.** In "similarity in articulation" orientation (method 4 of this paper). Two copies of the same vertebra, held in the same orientation, are articulated optimally, then the group is rotated until the two are level. The red line connects the anterior part of the base of the neural canal of the two copies, and is horizontal; but a horizontal line could join the two copies of any point.
+---
 
 ### 2. Articular facets of centrum are vertical
 
-XXX This is appealing for short, tall vertebrae.
+In this approach, we define horizontal as that orientation in which the anterior and posterior articular facets of the centrum are vertical. (Figure E.A). This is appealing when dealing with short, tall vertebrae, but less so for long, slender vertebrae such as the _Giraffatitan_ cervival of Figure D.
 
----
-
-![Figure E. Haplocanthosaurus caudal in various orientations](figures/export-jpeg/Figure-E-Haplocanthosaurus-three-orientations.jpeg)
-
-> **Figure E.** XXX
-
----
-
-XXX But ambiguous “keystoned” vertebrae where the anterior and posterior facets are not parallel.
+For the Haplocanthosaurus cadal shown here, the method gives a nearly unambiguous result as the cranial and caudal articular facets are very nearly parallel: in Figure E.A, where the red line showing the orientation of the caudal facet is horizontal, the green line showing the orientation of the anterior facet is cranially inclined by less than one degree. However, its meaning is ambiguous for “keystoned” vertebrae in which the cranial and caudal facets are not parallel, as for example the giraffe C7 shown in Figure F.
 
 XXX Giraffa illustration
 
