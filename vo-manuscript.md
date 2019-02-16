@@ -54,7 +54,7 @@ Mannion was gracious enough to accept this, and the paper proceeded to publicati
 
 > **Figure A.** NHMUK PV R2095, the holotype dorsal vertebra of _Xenoposiedon proneneukos_ in left lateral view.
 > **A.** In the canonical orientation that has been used in illustrations in published papers (Taylor and Naish 2007, Taylor 2018b), in blog-posts and even on mugs (Taylor 2017).
-> **B.** Rotated 15° “backwards” (i.e. clockwise, with the dorsal portion displaced caudally), yielding a sub-vertical anterior margin in accordance the recommendation of Mannion (2018b).
+> **B.** Rotated 15° “backwards” (i.e. clockwise, with the dorsal portion displaced caudally), yielding a sub-vertical cranial margin in accordance the recommendation of Mannion (2018b).
 > In both parts, the blue line indicates the horizontal axis, the green line indicates the vertical axis, and the red line indicates the slope of the neural arch as in Taylor (2018b: figure 3B, part 2).
 > In part A, the slope (i.e. the angle between the red and green lines) is 35°; in part B, it is 20°.
 
@@ -68,7 +68,7 @@ In the present paper, we aim to answer that question. We will propose and discus
 
 ![Figure C. Caudal vertebrae of Tambatitanis amicitiae in right lateral view](figures/Figure-C-SaegusaIkeda12014-Tambatitanis-fig8.png)
 
-> **Figure C.** _Tambatitanis amicitiae_ holotype MNHAH D-1029280, caudal vertebrae in right lateral view. Top row, caudals 1–11; bottom row, a set of more caudal caudals, not necessarily contiguous, designated x1–x11. Note the more anterior caudals are oriented such that their articular surfaces are vertical, even when this means that the long axis of the vertebra is steeply inclined as in caudals 4, 5, 7 and especially 8; while the more posterior caudals are oriented such that their long axis is horizontal, even when this means that the articular surfaces are inclined as in caudals x6 and x7, which slope in opposite directions.
+> **Figure C.** _Tambatitanis amicitiae_ holotype MNHAH D-1029280, caudal vertebrae in right lateral view. Top row, caudals 1–11; bottom row, a set of more caudal caudals, not necessarily contiguous, designated x1–x11. Note the more cranial caudals are oriented such that their articular surfaces are vertical, even when this means that the long axis of the vertebra is steeply inclined as in caudals 4, 5, 7 and especially 8; while the more posterior caudals are oriented such that their long axis is horizontal, even when this means that the articular surfaces are inclined as in caudals x6 and x7, which slope in opposite directions.
 > Reproduced from Saegusa and Ikeda (2014: figure 8) under the CC By 3.0 licence.
 
 ---
@@ -128,22 +128,28 @@ All this shows that relying on the eye to determine horizontal orientation can b
 > **Figure E.** _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3, in cross section, showing medial aspect of left side, in three orientations.
 > **A.** In "articular facets vertical" orientation (method 2 of this paper). The red line joins the dorsal and ventral margins of the caudal articular facet, and is oriented vertically; the green line joins the dorsal and ventral margins of the cranial articular facet, and is nearly but not exactly vertical, instead inclining slightly forwards.
 > **B.** In "neural canal horizontal" orientation (method 3 of this paper). The red line joins the cranial and caudal margins of the roof of he neural canal, and is oriented horizontally; the green line joins the cranial and caudal margins of the floor of the neural canal, and is close to horizontally but inclined strongly downwards.
-> **C.** In "similarity in articulation" orientation (method 4 of this paper). Two copies of the same vertebra, held in the same orientation, are articulated optimally, then the group is rotated until the two are level. The red line connects the anterior part of the base of the neural canal of the two copies, and is horizontal; but a horizontal line could join the two copies of any point.
+> **C.** In "similarity in articulation" orientation (method 4 of this paper). Two copies of the same vertebra, held in the same orientation, are articulated optimally, then the group is rotated until the two are level. The red line connects the cranial part of the base of the neural canal of the two copies, and is horizontal; but a horizontal line could join the two copies of any point.
 ---
+
 
 ### 2. Articular facets of centrum are vertical
 
-In this approach, we define horizontal as that orientation in which the anterior and posterior articular facets of the centrum are vertical. (Figure E.A). This is appealing when dealing with short, tall vertebrae, but less so for long, slender vertebrae such as the _Giraffatitan_ cervival of Figure D.
+In this approach, we define horizontal as that orientation in which the cranial and caudal articular facets of the centrum are vertical. (Figure E.A). This is appealing when dealing with short, tall vertebrae, but less so for long, slender vertebrae such as the _Giraffatitan_ cervival of Figure D.
 
-For the Haplocanthosaurus cadal shown here, the method gives a nearly unambiguous result as the cranial and caudal articular facets are very nearly parallel: in Figure E.A, where the red line showing the orientation of the caudal facet is horizontal, the green line showing the orientation of the anterior facet is cranially inclined by less than one degree. However, its meaning is ambiguous for “keystoned” vertebrae in which the cranial and caudal facets are not parallel, as for example the giraffe C7 shown in Figure F.
+For the Haplocanthosaurus cadal shown here, the method gives a nearly unambiguous result as the cranial and caudal articular facets are very nearly parallel: in Figure E.A, where the red line showing the orientation of the caudal facet is horizontal, the green line showing the orientation of the cranial facet is cranially inclined by less than one degree. However, its meaning is ambiguous for “keystoned” vertebrae in which the cranial and caudal facets are not parallel, as for example the giraffe C7 shown in Figure F.
 
-XXX Giraffa illustration
+---
+![Figure F. Giraffe _Giraffa camelopardarlis_ cervical 7 in articulation with itself](figures/export-jpeg/Figure-F-articulated-giraffe-c7s.jpeg)
 
-XXX This is difficult to determine when dealing with facets that are concave or (worse) convex.
+> **Figure F.** Giraffe _Giraffa camelopardarlis_ FMNH 34426, two copies of cervical 7 in left lateral view, articulated, both horizontal according to the "similarity in articulation" orientation (method 4 of this paper).
+> The 7th cervical vertebra of the giraffe is strongly "keystoned", with the centrum (excluding the articular condyle) forming a parallelogram whose dorsal length is less than its ventral length.
+> The red lines indicate the orientation of the cranial articular surfaces, following the lines of ligament attachment immediately behind the articular condyle; the green line indicates the orientation of the margin of the caudal articular surface.
+> The angle between the red and green lines is about 19 degrees, meaning that if the two copies of the vertebra were oriented such that the cranial and caudal articular surfaces were optimally articulated, there would be a 19 degree angle between the vertebrae.
+---
 
-XXX Komodo illustration
+Strongly opisthocoelous vertebrae such as giraffe cervicals, and strongly procoelous vertebra such as crocodile cervicals (XXX Figure G.A) and monitor lizard caudals (XXX Figure G.B) exemplify another difficulty of this method: how does one even determine the orientation of an articular surface that is not flat? For concave surfaces such as the caudal articulation of the giraffe cervical and the cranial articulations of the crocodile cervicals and monitor caudals, the best solution is probably to project a straight line between the caudalmost extremities of the dorsal and ventral surfaces, as shown by the green line in Figure F. However, these points are not always easy to determine: in the _Xenoposeidon_ dorsal vertebra, the caudal margin of the neural arch appears in lateral view to blend into that of the centrum, so that there is no obvious point that is the caudalmost extremity of the dorsal surface of the centrum; and in the _Giraffatitan_ cervical vertebra (Figure D), parts of the caudoventral margin of the vertebra are broken off, so it is not possible to determine the caudalmost extremity of the ventral surface. Convex surfaces such as the cranial articulation of the giraffe cervical and the caudal articulations of the crocodile cervicals and monitor caudals present an even more difficult problem: what can be defined to be the orientation of a surface that is curved in lateral view? For some vertebrae, there is a clear ridge projecting outward from the concave articular extremity, and the orientation of that ridge can be used, as shown by the red lines in Figure F. But this is not present in all opisthocoelous and procoelous vertebrae: and even when it is, the ridge is often somewhat ill-defined, so that superimposing an orientation line is more an art than a science.
 
-XXX And gives results that seem "obviously" wrong: Komodo 2.
+Finally, the giraffe C7 also illustrates yet another difficulty with this definition of horizontality: if the vertebra were oriented such that either the cranial (red line) or caudal (green line) articular surface were vertical, the resulting orientation, with a very obvious diagonal slope to the long axis of the vertebra, would immediately strike us as "wrong". That in itsef is not a fatal strike against the method, but its violation of what strikes us intuitively as correct must weigh against it.
 
 
 ### 3. Neural canal is horizontal
