@@ -93,8 +93,11 @@ As dinosaur palaeontologists, we generally use and prefer the Owenian system of 
 
 ### Institutional abbreviations
 
+* **FMNH** — Field Museum of Natural History, Chicago, USA.
 * **LACM** — Natural History Museum of Los Angeles County, Los Angeles, California, USA.
+* **MB.R** — Museum für Naturkunde Berlin, Berlin, Germany, fossil reptile collection.
 * **MCZ** — Museum of Comparative Zoology, Harvard University, Cambridge, USA.
+* **MWC** — Museum of Western Colorado, Fruita, Colorado.
 * **MNHAH** — Museum of Nature and Human Activities, Hyogo, Japan.
 * **NHMUK PV** — Natural History Museum, London, UK; vertebrate palaeontology collection.
 
