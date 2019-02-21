@@ -257,7 +257,7 @@ This work first began to take shape as a series of blog-posts (Taylor 2018c, Tay
 
 ## Acknowledgements
 
-First, we thank Phil Mannion (Imperial College London) both for his multiple rounds of review of the _Xenoposeidon_ manuscript and for giving us permission to quote relevant excepts in the current paper. We also thank Marc Vincent for permission to reproduce his photograph in Figure B and Andy Farke for permission to cite a personal communication.
+First, we thank Phil Mannion (Imperial College London) both for his multiple rounds of review of the _Xenoposeidon_ manuscript and for giving us permission to quote relevant excepts in the current paper. We also thank Marc Vincent for permission to reproduce his photograph in Figure B, Jess Miller-Camp for responding to a cry for help on Twitter and providing the alligator cervical photograph in Figure G, and Andy Farke for permission to cite a personal communication.
 
 We are deeply grateful to the curators and collection managers for access to specimens used in this study, including
 * Daniela Schwarz (Museum für Naturukunde Berlin) for _Giraffatitan_.
