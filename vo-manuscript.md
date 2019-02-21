@@ -96,11 +96,10 @@ As dinosaur palaeontologists, we generally use and prefer the Owenian system of 
 * **FMNH** — Field Museum of Natural History, Chicago, USA.
 * **LACM** — Natural History Museum of Los Angeles County, Los Angeles, California, USA.
 * **MB.R** — Museum für Naturkunde Berlin, Berlin, Germany, fossil reptile collection.
-* **MCZ** — Museum of Comparative Zoology, Harvard University, Cambridge, USA.
 * **MWC** — Museum of Western Colorado, Fruita, Colorado.
 * **MNHAH** — Museum of Nature and Human Activities, Hyogo, Japan.
 * **NHMUK PV** — Natural History Museum, London, UK; vertebrate palaeontology collection.
-
+* **WRAZL** — The William R. Adams Zooarchaeology Laboratory, Indiana University Bloomington, Indiana, USA.
 
 
 ## Four definitions of “horizontal”
@@ -157,9 +156,9 @@ Strongly opisthocoelous vertebrae such as giraffe cervicals, and strongly procoe
 ---
 ![Figure G. Procoelous vertebrae](figures/export-jpeg/Figure-G-procoelous-vertebrae.jpeg)
 
-> **Figure G.** Proceoelous vertebrae for which it is difficult to determine the orientation of the articular surfaces.
-> **A.** Komodo dragon _Varanus komodoensis_, LACM Herpetology specimen 121971, cranial caudal vertebra in right lateral view. Note the extremely convex caudal articular surface to the left; the cranial articular surface to the right is correspondingly convex.
-> **B.** _Alligator mississippiensis_ MCZ 81457, fifth cervical vertebra, from 3D scans by Leon Claessens. While the caudal articular surface is strongly convex, its orientation can be interpreted as that of the well-defined "collar" that surrounds it.
+> **Figure G.** Proceoelous vertebrae for which it is difficult to determine the orientation of the articular surfaces, scaled to the same vertebral height.
+> **A.** Komodo dragon _Varanus komodoensis_, LACM Herpetology specimen 121971, cranial caudal vertebra in right lateral view. Note the extremely convex and strongly inclined caudal articular surface to the left; the cranial articular surface to the right is correspondingly convex and inclined.
+> **B.** _Alligator mississippiensis_ WRAZL 9840044, seventh cervical vertebra (with cervical rib attached) and sixth cervical vertebra (without rib) in articulation, in right lateral view. Photograph kindly provided by Jess Miller-Camp. While the caudal articular surfaces are strongly convex, their orientation of each can be interpreted as that of the well-defined "collar" that surrounds it.
 
 ---
 
