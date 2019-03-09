@@ -167,11 +167,26 @@ Finally, the giraffe C7 also illustrates yet another difficulty with this defini
 
 ### 3. Neural canal is horizontal
 
-XXX Can yield _very_ different results from method 2. Show the two Hap caudal orientations.
+An alternative to this method is to fix the orientation of the neural canal as "horizontal", as shown in Figure E.B. For a given verteba, this can yield _extremely_ different results from method 2, as seen in the contrast between the two orientations shown of the _Haplocanthosaurus_ caudal in parts A and B of Figure E. It can also be seen that the giraffe C7 in figure F and the Komodo dragon caudal in Figure G.A, both which are here depicted with the neural canal close to horizontal, would be oriented very differently according to method 2.
 
-XXX Ambiguous if dorsal and ventral margins of neural canal are not parallel. Show this condition in the Hap. caudal.
+However, this method, too, is subject to some ambiguity.
 
-XXX “horizontal” depends on where you think the start and end of the canal are. Show different options on Hap vertebra.
+First, just as Method 2 can yield a different orientation depending on whether the orientation of the cranial or caudal articular surface is used, so the present method can yield a different orientation depending on whether the orientation of roof or the floor of the neural canal is used: compare the red and green lines approximating the roof and floor of the _Haplocanthosaurus_ caudal in Figure E.B. For a tubular neural canal of constant diameter, this problem does not arise, but not all neural canals are this regular, and
+"trumpet-shaped" canals can yield widely divergent orientations of roof and
+floor.
+
+Secondly, as again shown by the _Haplocanthosaurus_ caudal of Figure E, the individual margins of the neural canal may not be straight. This is particularly apparent for the floor of the canal, which is deeply dished. However, it is easy in this case to define the orientation of the neural canal floor as that of a straight line joining its cranialmost and caudalmost extent. A less obvious but more profound difficulty is presented by the roof of this vertebra's neural canal, in which it is not apparent where the cranialmost point is.
+
+---
+
+![Figure H. ambiguous interpretation of roof of neural canal](figures/export-jpeg/Figure-H-where-is-the-top-of-the-NC.jpeg)
+
+> **Figure H.** XXX describe 3.8 degree inclination. XXX add A and B captions
+
+---
+
+
+XXX “horizontal” depends on where you think the start and end of the canal are. Show different options on Hap vertebra. 3.8 degrees difference.
 
 XXX When one or both of the margins is convex, there is no straight line to measure. Show human cross-section, e.g. the one from the talk.
 
@@ -206,7 +221,7 @@ result when the vertebra is damaged.
 
 ## Comparison of definitions
 
-XXX Definition 2 of horizontality can make the neural canal jagged. This never happens in life: it can curve but never kink.
+XXX Definition 2 of horizontality can make the neural canal jagged. This never happens in life: it can curve but never kink. XXX use slides 31 & 32.
 
 XXX Compare sequence-of-hap illustration with hemisected horse.
 
@@ -235,7 +250,7 @@ We _tentatively_ recommend the base-of-the-neural-canal-is-horizontal method.
 
 ### Relevance to other work
 
-There are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation: e.g., measuring cross-sectional area of the neural canal.
+There are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation: e.g., measuring cross-sectional area of the neural canal. XXX use slide 17.
 
 XXX Cite work on this
 
