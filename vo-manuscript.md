@@ -187,9 +187,25 @@ Secondly, as again shown by the _Haplocanthosaurus_ caudal of Figure E, the indi
 
 ---
 
-XXX When one or both of the margins is convex, there is no straight line to measure. Show human cross-section, e.g. the one from the talk.
+Even worse, when one or both of the margins of the neural canal is convex in cross-secton, there is no cranialmost or caudalmost margin, and therefore no straight line to project between them (Figure I).
 
-XXX Difficult to determine in vertebrae that have not been fully prepared or CT-scanned, and impossible to see in a lateral view photo. But can be approximated using low-tech means. Show the roll of paper through the Brachiosaurus caudal.
+---
+
+![Figure I. human vertebrae in cross-section](figures/tmp/human-vertebrae-hemisected.jpg)
+
+> **Figure I.** Human vertebrae in cross-section. XXX the image in the talk is low resolution and copyright-impaired _Grey's Anatomy_ might give us what we need; if not, Matt will probably have ideas.
+
+---
+
+A further difficulty with this method is that, unlike the articular surfaces, the neural canals of vertebrae can be difficult to examine and measure. In fossil vertebrae, they are frequently not prepared out of matrix. But even when a complete and completely prepared vertebra is available, a physical or virtual sagittal hemisection is required to fully depict and determine the neural canal trajectory, and this is only rarely available. However, the method can often by approximated using low-tech means such as a roll of paper pushed through the neural canal (Figure J), yielding "good enough" results.
+
+---
+
+![Figure I. Brachioaurus coudal with rolled-up paper in neural canal](figures/export-jpeg/Figure-J-brachiosaurus-caudal-canal.jpeg)
+
+> **Figure J.** _Brachiosaurus altithorax_ holotype FMNH P 25107, first and partial second caudal vertebrae in right lateral view. A piece of paper has been rolled up and pushed through the neural canal of the first vertebra. As the rolled-up paper naturally uncoils, it fills as much of the space of the neural canal as possible, giving a good sense of the trajectory of the roof and floor of the canal. In the present case, the vertebra is apparently close to horizontal according to method 3.
+
+---
 
 
 ### 4. Similarity in articulation
