@@ -175,18 +175,17 @@ First, just as Method 2 can yield a different orientation depending on whether t
 "trumpet-shaped" canals can yield widely divergent orientations of roof and
 floor.
 
-Secondly, as again shown by the _Haplocanthosaurus_ caudal of Figure E, the individual margins of the neural canal may not be straight. This is particularly apparent for the floor of the canal, which is deeply dished. However, it is easy in this case to define the orientation of the neural canal floor as that of a straight line joining its cranialmost and caudalmost extent. A less obvious but more profound difficulty is presented by the roof of this vertebra's neural canal, in which it is not apparent where the cranialmost point is.
+Secondly, as again shown by the _Haplocanthosaurus_ caudal of Figure E, the individual margins of the neural canal may not be straight. This is particularly apparent for the floor of the canal, which is deeply dished. However, it is easy in this case to define the orientation of the neural canal floor as that of a straight line joining its cranialmost and caudalmost extent. A less obvious but more profound difficulty is presented by the roof of this vertebra's neural canal, in which it is not apparent where the cranialmost point is: two equally credible alternatives, points _a_ and _b_, yield "horizontal" lines whose inclinations differ by 3.8 degrees.
 
 ---
 
 ![Figure H. ambiguous interpretation of roof of neural canal](figures/export-jpeg/Figure-H-where-is-the-top-of-the-NC.jpeg)
 
-> **Figure H.** XXX describe 3.8 degree inclination. XXX add A and B captions
+> **Figure H.** _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3, in cross section, showing the ambiguous interpretation of the roof of the neural canal.
+> **A.** The vertebra oriented as in Figure E.B. The vertical blue line indicates the position identified as the cranialmost extent of the roof of the neural canal (point _a_), and the red line shows the interpretation of "horizontal" based on that location.
+> **B.** The same vertebra, but with a different choice of cranialmost extent of the roof of the neural canal (point _b_), again marked with a vertical blue line. When a line is projected from here to the same caudalmost extent as in part A, the resulting notion of "horizontal" differs by 3.8 degrees.
 
 ---
-
-
-XXX “horizontal” depends on where you think the start and end of the canal are. Show different options on Hap vertebra. 3.8 degrees difference.
 
 XXX When one or both of the margins is convex, there is no straight line to measure. Show human cross-section, e.g. the one from the talk.
 
