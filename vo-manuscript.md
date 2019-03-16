@@ -233,6 +233,11 @@ XXX We may hope that this method is less vulnerable to yielding a distorted
 result when the vertebra is damaged.
 
 
+### 5. Straight line between centra
+
+XXX After beginning this work, discovered that the Materials & Methods section in https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091653 defines a coordinate system that is based on the centers of the cranial and caudal articular surfaces of the centrum. Worth citing first because it demonstrates that some studies require people to define how they are orienting the vertebrae, and second because their preferred solution is different from ours but makes sense in the context of their study.
+
+
 
 ## Comparison of definitions
 
