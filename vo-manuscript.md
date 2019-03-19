@@ -93,9 +93,10 @@ As dinosaur palaeontologists, we generally use and prefer the Owenian system of 
 
 ### Institutional abbreviations
 
-* **FMNH** — Field Museum of Natural History, Chicago, USA.
+* **CM** — Carnegie Museum of Natural History, Pittsburg, Pennsylvania, USA.
+* **FMNH** — Field Museum of Natural History, Chicago, Illinois, USA.
 * **LACM** — Natural History Museum of Los Angeles County, Los Angeles, California, USA.
-* **MB.R** — Museum für Naturkunde Berlin, Berlin, Germany, fossil reptile collection.
+* **MB.R** — Museum für Naturkunde Berlin, Berlin, Germany; fossil reptile collection.
 * **MWC** — Museum of Western Colorado, Fruita, Colorado.
 * **MNHAH** — Museum of Nature and Human Activities, Hyogo, Japan.
 * **NHMUK PV** — Natural History Museum, London, UK; vertebrate palaeontology collection.
@@ -197,13 +198,19 @@ Even worse, when one or both of the margins of the neural canal is convex in cro
 
 ---
 
-A further difficulty with this method is that, unlike the articular surfaces, the neural canals of vertebrae can be difficult to examine and measure. In fossil vertebrae, they are frequently not prepared out of matrix. But even when a complete and completely prepared vertebra is available, a physical or virtual sagittal hemisection is required to fully depict and determine the neural canal trajectory, and this is only rarely available. However, the method can often by approximated using low-tech means such as a roll of paper pushed through the neural canal (Figure J), yielding "good enough" results.
+A further difficulty with this method is that, unlike the articular surfaces, the neural canals of vertebrae can be difficult to examine and measure. In fossil vertebrae, they are frequently not prepared out of matrix. But even when a complete and completely prepared vertebra is available, a physical or virtual sagittal hemisection is required to fully depict and determine the neural canal trajectory, and this is only rarely available. However, the method can often by approximated using low-tech means such as a roll of paper pushed through the neural canal (Figure J), yielding "good enough" results. XXX say more. As the rolled-up paper naturally uncoils, it fills as much of the space of the neural canal as possible, giving a good sense of the trajectory of the roof and floor of the canal.
 
 ---
 
-![Figure I. Brachioaurus coudal with rolled-up paper in neural canal](figures/export-jpeg/Figure-J-brachiosaurus-caudal-canal.jpeg)
+![Figure I. Vertebrae with rolled-up paper in neural canal](figures/export-jpeg/Figure-J-neural-canalinator.jpeg)
 
-> **Figure J.** _Brachiosaurus altithorax_ holotype FMNH P 25107, first and partial second caudal vertebrae in right lateral view. A piece of paper has been rolled up and pushed through the neural canal of the first vertebra. As the rolled-up paper naturally uncoils, it fills as much of the space of the neural canal as possible, giving a good sense of the trajectory of the roof and floor of the canal. In the present case, the vertebra is apparently close to horizontal according to method 3.
+> **Figure J.** A selection of vertebrae with the approximate trajectory of their neural canals determined by the simple method of pushing a rolled-up piece of paper through their neural canals.
+> **A.** _Brachiosaurus altithorax_ holotype FMNH P 25107, first and partial second caudal vertebrae in right lateral view.
+> **B.** _Camarasaurus_ ?_supremus_ CM 584, anterior caudal vertebra ?3 in right lateral view.
+> **C.** _Camarasaurus_ ?_supremus_ CM 584, mid-caudal vertebra ?10 in left lateral view.
+> **D.** Juvenile giraffe _Giraffa camelopardalis_ from MPT's collection, cervical vertebra 6 in left lateral view.
+> **E.** Juvenile giraffe _Giraffa camelopardalis_ from MPT's collection, cervical vertebra 7 in left lateral view. Note the much stronger inclination than in C6.
+> **F.** Ostrich _Struthio camelus_ from MPT's collection, cervical vertebra 16 in left lateral view.
 
 ---
 
