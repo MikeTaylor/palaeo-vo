@@ -192,9 +192,9 @@ Even worse, when one or both of the margins of the neural canal is convex in cro
 
 ---
 
-![Figure I. human vertebrae in cross-section](figures/tmp/human-vertebrae-hemisected.jpg)
+![Figure I. human vertebrae in cross-section](figures/export-jpeg/Figure-I-hemisected-human-vertebrae.jpeg)
 
-> **Figure I.** Human vertebrae in cross-section. XXX the image in the talk is low resolution and copyright-impaired _Grey's Anatomy_ might give us what we need; if not, Matt will probably have ideas.
+> **Figure I.** Human vertebrae in cross-section. XXX Write more when the annotations are there.
 
 ---
 
