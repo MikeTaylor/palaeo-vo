@@ -202,7 +202,7 @@ A further difficulty with this method is that, unlike the articular surfaces, th
 
 ---
 
-![Figure I. Vertebrae with rolled-up paper in neural canal](figures/export-jpeg/Figure-J-neural-canalinator.jpeg)
+![Figure J. Vertebrae with rolled-up paper in neural canal](figures/export-jpeg/Figure-J-neural-canalinator.jpeg)
 
 > **Figure J.** A selection of vertebrae with the approximate trajectory of their neural canals determined by the simple method of pushing a rolled-up piece of paper through their neural canals.
 > **A.** _Brachiosaurus altithorax_ holotype FMNH P 25107, first and partial second caudal vertebrae in right lateral view.
