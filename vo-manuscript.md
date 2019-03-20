@@ -206,8 +206,8 @@ A further difficulty with this method is that, unlike the articular surfaces, th
 
 > **Figure J.** A selection of vertebrae with the approximate trajectory of their neural canals determined by the simple method of pushing a rolled-up piece of paper through their neural canals.
 > **A.** _Brachiosaurus altithorax_ holotype FMNH P 25107, first and partial second caudal vertebrae in right lateral view.
-> **B.** _Camarasaurus_ ?_supremus_ CM 584, anterior caudal vertebra ?3 in right lateral view.
-> **C.** _Camarasaurus_ ?_supremus_ CM 584, mid-caudal vertebra ?10 in left lateral view.
+> **B.** _Camarasaurus_ sp. CM 584, anterior caudal vertebra ?3 in right lateral view.
+> **C.** _Camarasaurus_ sp. CM 584, mid-caudal vertebra ?10 in left lateral view.
 > **D.** Juvenile giraffe _Giraffa camelopardalis_ from MPT's collection, cervical vertebra 6 in left lateral view.
 > **E.** Juvenile giraffe _Giraffa camelopardalis_ from MPT's collection, cervical vertebra 7 in left lateral view. Note the much stronger inclination than in C6.
 > **F.** Ostrich _Struthio camelus_ from MPT's collection, cervical vertebra 16 in left lateral view.
