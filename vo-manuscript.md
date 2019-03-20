@@ -194,7 +194,7 @@ Even worse, when one or both of the margins of the neural canal is convex in cro
 
 ![Figure I. human vertebrae in cross-section](figures/export-jpeg/Figure-I-hemisected-human-vertebrae.jpeg)
 
-> **Figure I.** Human vertebrae in cross-section. XXX Write more when the annotations are there.
+> **Figure I.** Human vertebrae in cross-section. XXX Write more when the annotations are there. XXX Provenance
 
 ---
 
@@ -298,6 +298,11 @@ This work first began to take shape as a series of blog-posts (Taylor 2018c, Tay
 
 
 ## Acknowledgements
+
+XXX John Hutchinson for giraffe
+
+XXX Matt Cobley for ostrich
+
 
 First, we thank Phil Mannion (Imperial College London) both for his multiple rounds of review of the _Xenoposeidon_ manuscript and for giving us permission to quote relevant excepts in the current paper. We also thank Marc Vincent for permission to reproduce his photograph in Figure B, Jess Miller-Camp for responding to a cry for help on Twitter and providing the alligator cervical photograph in Figure G, and Andy Farke for permission to cite a personal communication.
 
