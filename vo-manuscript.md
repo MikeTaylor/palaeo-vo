@@ -194,7 +194,7 @@ Even worse, when one or both of the margins of the neural canal is convex in cro
 
 ![Figure I. human vertebrae in cross-section](figures/export-jpeg/Figure-I-hemisected-human-vertebrae.jpeg)
 
-> **Figure I.** Human vertebrae in cross-section. XXX Write more when the annotations are there. XXX Provenance
+> **Figure I.** Right halves of two vertebrae from the lumbar region of a human _Homo sapiens_ in sagittal cross-section (cranial to left). Modified from Gray 1858: figure 99. XXX Write more when the annotations are there.
 
 ---
 
@@ -320,6 +320,7 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 
 ## References
 
+* Gray, Henry. 1858. _Anatomy: descriptive and surgical_, 1st edition. J.W. Parker, London, UK.
 * Janensch, Werner. 1950. Die Wirbelsaule von _Brachiosaurus brancai_. _Palaeontographica_ (Suppl. 7) 3:27-93.
 * Mannion, Philip D. 2018a. Peer Review #3 (1st round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.1)". PeerJ. doi:10.7287/peerj.5212v0.1/reviews/3
 * Mannion, Philip D. 2018b. Peer Review #3 (2nd round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". PeerJ. doi:10.7287/peerj.5212v0.2/reviews/3
