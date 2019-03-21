@@ -226,8 +226,6 @@ XXX a definition of “horizontal” based on the _whole_ vertebra, not specific
 
 Note: two _copies_ of the _same_ vertebra.  Method does not require two vertebrae.
 
-XXX Show the method applied to _Giraffatitan_ C5.
-
 XXX Show the method applied to _Giraffa_ C7. Note that the intercentral joint shows a strong divergence between the planes of the two articular surfaces.
 
 XXX This is less intuitive than definitions 1–3, but:
@@ -252,11 +250,11 @@ XXX Definition 2 of horizontality can make the neural canal jagged. This never h
 
 XXX Compare sequence-of-hap illustration with hemisected horse.
 
-XXX Definition 3 is anatomically informative, reflecting the developmental sequence.  The vertebrae form around the spinal cord.
+XXX Definition 3 is anatomically informative, reflecting the developmental sequence.  The vertebrae form around the spinal cord. Matt to write this bit.
 
 XXX Seek permission to use Liem et al. (2001): fig 8.3, or redraw it.
 
-XXX This orientation is used for _Opisthocoelicaudia skarzynskyii_ caudals 6–8 in Borsuk-Bialynicka (1977: plate 5: figure 2a), but this is because the verebtrae were preserved in articulation in this orientation, suggesting this reflects relative orientation in life.
+XXX This orientation is used for _Opisthocoelicaudia skarzynskyii_ caudals 6–8 in Borsuk-Bialynicka (1977: plate 5: figure 2a), but this is because the vertebrae were preserved in articulation in this orientation, suggesting this reflects relative orientation in life.
 
 XXX Definition 4 can't be done at all for _Xenoposeidon_, which is where we came in.
 
