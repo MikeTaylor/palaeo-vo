@@ -199,21 +199,7 @@ Even worse, when one or both of the margins of the neural canal is convex in cro
 
 ---
 
-A further difficulty with this method is that, unlike the articular surfaces, the neural canals of vertebrae can be difficult to examine and measure. In fossil vertebrae, they are frequently not prepared out of matrix. But even when a complete and completely prepared vertebra is available, a physical or virtual sagittal hemisection is required to fully depict and determine the neural canal trajectory, and this is only rarely available. However, the method can often by approximated using low-tech means such as a roll of paper pushed through the neural canal (Figure J), yielding "good enough" results. XXX say more. As the rolled-up paper naturally uncoils, it fills as much of the space of the neural canal as possible, giving a good sense of the trajectory of the roof and floor of the canal.
-
----
-
-![Figure J. Vertebrae with rolled-up paper in neural canal](figures/export-jpeg/Figure-J-neural-canalinator.jpeg)
-
-> **Figure J.** A selection of vertebrae with the approximate trajectory of their neural canals determined by the simple method of pushing a rolled-up piece of paper through their neural canals.
-> **A.** _Brachiosaurus altithorax_ holotype FMNH P 25107, first and partial second caudal vertebrae in right lateral view.
-> **B.** _Camarasaurus_ sp. CM 584, anterior caudal vertebra ?4 in right lateral view.
-> **C.** _Camarasaurus_ sp. CM 584, mid-caudal vertebra ?12 in left lateral view.
-> **D.** Juvenile giraffe _Giraffa camelopardalis_ from MPT's collection, cervical vertebra 6 in left lateral view.
-> **E.** Juvenile giraffe _Giraffa camelopardalis_ from MPT's collection, cervical vertebra 7 in left lateral view. Note the much stronger inclination than in C6.
-> **F.** Ostrich _Struthio camelus_ from MPT's collection, cervical vertebra 16 in left lateral view.
-
----
+A further difficulty with this method is that, unlike the articular surfaces, the neural canals of vertebrae can be difficult to examine and measure. In fossil vertebrae, they are frequently not prepared out of matrix. But even when a complete and completely prepared vertebra is available, a physical or virtual sagittal hemisection is required to fully depict and determine the neural canal trajectory, and this is only rarely available.
 
 
 ### 4. Similarity in articulation
@@ -268,6 +254,24 @@ XXX When we floated these notions on SV-POW!, all the methods had adherents. No 
 At minimum, we advocate that each paper should explicitly adopt a definition of “horizontal”, and use it consistently.
 
 We _tentatively_ recommend the base-of-the-neural-canal-is-horizontal method.
+
+XXX say more
+
+Orientation by this method can often by approximated using low-tech means such as a roll of paper pushed through the neural canal (Figure J), yielding "good enough" results. XXX say more. As the rolled-up paper naturally uncoils, it fills as much of the space of the neural canal as possible, giving a good sense of the trajectory of the roof and floor of the canal.
+
+---
+
+![Figure J. Vertebrae with rolled-up paper in neural canal](figures/export-jpeg/Figure-J-neural-canalinator.jpeg)
+
+> **Figure J.** A selection of vertebrae with the approximate trajectory of their neural canals determined by the simple method of pushing a rolled-up piece of paper through their neural canals.
+> **A.** _Brachiosaurus altithorax_ holotype FMNH P 25107, first and partial second caudal vertebrae in right lateral view.
+> **B.** _Camarasaurus_ sp. CM 584, anterior caudal vertebra ?4 in right lateral view.
+> **C.** _Camarasaurus_ sp. CM 584, mid-caudal vertebra ?12 in left lateral view.
+> **D.** Juvenile giraffe _Giraffa camelopardalis_ from MPT's collection, cervical vertebra 6 in left lateral view.
+> **E.** Juvenile giraffe _Giraffa camelopardalis_ from MPT's collection, cervical vertebra 7 in left lateral view. Note the much stronger inclination than in C6.
+> **F.** Ostrich _Struthio camelus_ from MPT's collection, cervical vertebra 16 in left lateral view.
+
+---
 
 
 
