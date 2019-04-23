@@ -204,25 +204,32 @@ A further difficulty with this method is that, unlike the articular surfaces, th
 
 ### 4. Similarity in articulation
 
-XXX a definition of “horizontal” based on the _whole_ vertebra, not specific parts of it such as the articular facets or the neural canal.
+Definition method 1 is based on the centrum of the vertebra; method 2 is based on the cranial and caudal articular facets; and method 3 is based on the neural canal. But is it possible to arrive at a definition that takes the whole vertebra into account?
 
-1. Depict the vertebra in _any_ orientation.
-2. Add another copy in the same orientation.
-3. Articulate the copies without rotating.
-4. Rotate both copies until at same height.
+---
 
-Note: two _copies_ of the _same_ vertebra.  Method does not require two vertebrae.
+![Figure K. Determining horizontal orientation by similarity in articulation](figures/export-jpeg/Figure-K-method-4.jpeg)
 
-XXX Show the method applied to _Giraffa_ C7. Note that the intercentral joint shows a strong divergence between the planes of the two articular surfaces.
+> **Figure K.** The steps of the similarity-in-articulation method of determining horizontal orientation of a vertebra, illustrated using _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3.
+> **A.** Two identical copies of the same vertebra depicted in the same orientation.
+> **B.** The two copies brought into optimal whole-vertebra articulation without rotating either.
+> **C.** The articulated pair rotated into that orientation in which they are at the same height. This is orientation is designated as horizontal according to the present method.
 
-XXX This is less intuitive than definitions 1–3, but:
-* More precise
-* Constrains subjectivity
-* Can be determined for any complete vertebra, irrespective of whether 
-the articular faces are parallel or the neural canal is tubular.
+---
 
-XXX We may hope that this method is less vulnerable to yielding a distorted 
-result when the vertebra is damaged.
+The method that we call "similarity in articulation" does this. It consists of four steps as follows:
+
+1. Depict the vertebra in any orientation. (It doesn't matter which orientation is chosen at this stage, as it will be changed in step 4.)
+2. Add another copy of the same vertebra in the same orientation (Figure K.A).
+3. without rotating either copy, move them into the relative position that gives the best articulation, based on both the centrum articulations and the zygapophyses (Figure K.B.)
+4. Rotate the articulated grouping of both copies into the orientation where they are at same height (Figure K.C). The resulting orientation is deemed to be horizontal according to this method.
+
+Note that this method does not require two vertebrae: it uses two _copies_ of the _same_ vertebra to determine the orientation of that vertebra in isolation.
+
+Figure F shows the method applied to a giraffe _Giraffa camelopardarlis_ FMNH 34426, cervical 7. Note that the intercentral joint shows a strong divergence between the planes of the two articular surfaces: a "better" articulation might be achieved between the two copies of the vertebra is one were allowed to rotate relative to the other, but that would not yield a single orientation and so would violate the mechanism of method 4.
+
+This definition of "horizontal" is less intuitive than definitions 1–3, but has some advantages. First, it can be determined for any more or less complete vertebra, irrespective of whether or not the articular faces are parallel or the neural canal is tubular. Second we may hope that, since it uses the whole shape of the vertebra, this method is less vulnerable to yielding a distorted 
+result when the vertebra is damaged. Third, it constrains subjectivity to a single well-defined judgement which can be reviewed and revised as needed: that of how the two similarly-oriented copies of the vertebra best articulate together.
 
 
 ### 5. Straight line between centra
