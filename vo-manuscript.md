@@ -234,7 +234,7 @@ result when the vertebra is damaged. Third, it constrains subjectivity to a sing
 
 ### 5. Straight line between centra
 
-XXX After beginning this work, discovered that the Materials & Methods section in https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091653 defines a coordinate system that is based on the centers of the cranial and caudal articular surfaces of the centrum. Worth citing first because it demonstrates that some studies require people to define how they are orienting the vertebrae, and second because their preferred solution is different from ours but makes sense in the context of their study.
+After beginning this work, we discovered that the Materials & Methods section of Krings et al. (2014) defined a coordinate system based on the centers of the cranial and caudal articular surfaces of the centrum. XXX Worth citing first because it demonstrates that some studies require people to define how they are orienting the vertebrae, and second because their preferred solution is different from ours but makes sense in the context of their study.
 
 
 
@@ -332,6 +332,7 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 
 * Gray, Henry. 1858. _Anatomy: descriptive and surgical_, 1st edition. J.W. Parker, London, UK.
 * Janensch, Werner. 1950. Die Wirbelsaule von _Brachiosaurus brancai_. _Palaeontographica_ (Suppl. 7) 3:27-93.
+* Krings, Markus, John A. Nyakatura, Matin S. Fischer and Hermann Wagner. 2014. The cervical spine of the American barn owl (_Tyto furcata pratincola_): I. Anatomy of the vertebrae and regionalization in their S-shaped arrangement. _PLOS ONE_ **9(3)**:e91653. https://doi.org/10.1371/journal.pone.0091653
 * Mannion, Philip D. 2018a. Peer Review #3 (1st round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.1)". PeerJ. doi:10.7287/peerj.5212v0.1/reviews/3
 * Mannion, Philip D. 2018b. Peer Review #3 (2nd round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". PeerJ. doi:10.7287/peerj.5212v0.2/reviews/3
 * Owen, Richard. 1854. The principal forms of the skeleton and of the teeth. Blanchard and Lea, Philadelphia.
