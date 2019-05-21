@@ -21,7 +21,6 @@ College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine
     * [2. Articular facets of centrum are vertical](#2-articular-facets-of-centrum-are-vertical)
     * [3. Neural canal is horizontal](#3-neural-canal-is-horizontal)
     * [4. Similarity in articulation](#4-similarity-in-articulation)
-    * [5. Straight line between centra](#5-straight-line-between-centra)
 * [Comparison of definitions](#comparison-of-definitions)
 * [Conclusion](#conclusion)
 * [Discussion](#discussion)
@@ -230,11 +229,6 @@ Figure F shows the method applied to a giraffe _Giraffa camelopardarlis_ FMNH 34
 
 This definition of "horizontal" is less intuitive than definitions 1–3, but has some advantages. First, it can be determined for any more or less complete vertebra, irrespective of whether or not the articular faces are parallel or the neural canal is tubular. Second we may hope that, since it uses the whole shape of the vertebra, this method is less vulnerable to yielding a distorted 
 result when the vertebra is damaged. Third, it constrains subjectivity to a single well-defined judgement which can be reviewed and revised as needed: that of how the two similarly-oriented copies of the vertebra best articulate together.
-
-
-### 5. Straight line between centra
-
-After beginning this work, we discovered that the Materials & Methods section of Krings et al. (2014) defined a coordinate system based on the centers of the cranial and caudal articular surfaces of the centrum. XXX Worth citing first because it demonstrates that some studies require people to define how they are orienting the vertebrae, and second because their preferred solution is different from ours but makes sense in the context of their study.
 
 
 
