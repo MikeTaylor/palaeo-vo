@@ -234,19 +234,34 @@ result when the vertebra is damaged. Third, it constrains subjectivity to a sing
 
 ## Comparison of definitions
 
-XXX Definition 2 of horizontality can make the neural canal jagged. This never happens in life: it can curve but never kink. XXX use slides 31 & 32.
+Each of the candidate definitions of "horizontal" has appealing qualities, and indeed when we floated these notions on our blog, all the methods had adherents (comments to Taylor 2018c). No one method can satisfy all desiderata.
 
-XXX Compare sequence-of-hap illustration with hemisected horse.
+While definition 2 (articular facets of centrum are vertical) is perhaps the most frequently used orientation when illustrating craniocaudally short vertebra, it has the undesirable property that when a sequence of consecutive verebrae are illustrated in this orientation, the neural canal can be jagged (Figure L).
 
-XXX Definition 3 is anatomically informative, reflecting the developmental sequence.  The vertebrae form around the spinal cord. Matt to write this bit.
+---
 
-XXX Seek permission to use Liem et al. (2001): fig 8.3, or redraw it.
+![Figure L. Consecutive vertebrae implying a kinked neural canal](figures/export-jpeg/Figure-L-sequence-of-haplo-caudals.jpeg)
+
+> **Figure L.** Five instances of _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3, all oriented according to candidate method 2. Since the orientation of the neural canal in this vertebra is inclined 20–30 degrees to perpendicular with the articular facets, the result is a kinked spinal cord — something that never happens in life.
+
+---
+
+This never happens in life: the spinal cord can curve but never kink: see for example Figure M.
+
+---
+
+![Figure M. Hemisected horse's head and neck](figures/export-jpeg/Figure-M-hemisected-horse-head.jpg)
+
+> **Figure M.** Sagittally bisected head and anterior neck of a horse. The first four cervical vertebrae are complete, but the posterior part of the fifth is absent. Note that the neural canal runs in a nearly straight line, as is not kinked.
+
+---
+
+XXX Definition 3 is anatomically informative, reflecting the developmental sequence.  The vertebrae form around the spinal cord. Matt to write this bit. XXX Seek permission to use Liem et al. (2001): fig 8.3, or redraw it.
 
 XXX This orientation is used for _Opisthocoelicaudia skarzynskyii_ caudals 6–8 in Borsuk-Bialynicka (1977: plate 5: figure 2a), but this is because the vertebrae were preserved in articulation in this orientation, suggesting this reflects relative orientation in life.
 
 XXX Definition 4 can't be done at all for _Xenoposeidon_, which is where we came in.
 
-XXX When we floated these notions on SV-POW!, all the methods had adherents. No one method can satisfy all desiderata.
 
 
 
