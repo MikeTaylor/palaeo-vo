@@ -101,7 +101,7 @@ As dinosaur palaeontologists, we generally use and prefer the Owenian system of 
 * **MNHAH** — Museum of Nature and Human Activities, Hyogo, Japan.
 * **NHMUK PV** — Natural History Museum, London, UK; vertebrate palaeontology collection.
 * **WRAZL** — The William R. Adams Zooarchaeology Laboratory, Indiana University Bloomington, Indiana, USA.
-
+* **ZPAL** — Institute of Paleobiology, Polish Academy of Sciences, Warsaw, Poland.
 
 ## Four definitions of “horizontal”
 
@@ -256,9 +256,9 @@ This never happens in life: the spinal cord can curve but never kink: see for ex
 
 ---
 
-XXX Definition 3 is anatomically informative, reflecting the developmental sequence.  The vertebrae form around the spinal cord. Matt to write this bit. XXX Seek permission to use Liem et al. (2001): fig 8.3, or redraw it.
+By contrast, definition 3 ("neural canal is horizontal") is anatomically informative, corresponding to the reality of the how consecutive vertebrae articulate in life. It also reflects the developmental sequence: in vertebrate embryos the vertebrae form around the spinal cord. XXX Matt, write this bit properly. Seek permission to use Liem et al. (2001:fig 8.3), or find something similiar that is unencumbered by copyright, or redraw it.
 
-XXX This orientation is used for _Opisthocoelicaudia skarzynskyii_ caudals 6–8 in Borsuk-Bialynicka (1977: plate 5: figure 2a), but this is because the vertebrae were preserved in articulation in this orientation, suggesting this reflects relative orientation in life.
+This orientation is used in the illustration of caudals 6–8 of the _Opisthocoelicaudia skarzynskyii_ holotype ZPAL MgD-I/48 in Borsuk-Bialynicka (1977: plate 5: figure 2a), but this was not necessarily a choice consciously made by the author. These three vertebrae were preserved in articulation in this orientation, suggesting this was the relative orientation in life.
 
 XXX Definition 4 can't be done at all for _Xenoposeidon_, which is where we came in.
 
