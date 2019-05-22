@@ -236,6 +236,8 @@ result when the vertebra is damaged. Third, it constrains subjectivity to a sing
 
 Each of the candidate definitions of "horizontal" has appealing qualities, and indeed when we floated these notions on our blog, all the methods had adherents (comments to Taylor 2018c). No one method can satisfy all desiderata.
 
+Definition 1 (Long axis of centrum is horizontal) is perhaps the least satisfactory of the methods presented here, as it is the most dependent on a judgement "by eye". It is also not really applicable at all to craniocaudally short vertebrae.
+
 While definition 2 (articular facets of centrum are vertical) is perhaps the most frequently used orientation when illustrating craniocaudally short vertebra, it has the undesirable property that when a sequence of consecutive verebrae are illustrated in this orientation, the neural canal can be jagged (Figure L).
 
 ---
@@ -260,8 +262,7 @@ By contrast, definition 3 ("neural canal is horizontal") is anatomically informa
 
 This orientation is used in the illustration of caudals 6–8 of the _Opisthocoelicaudia skarzynskyii_ holotype ZPAL MgD-I/48 in Borsuk-Bialynicka (1977: plate 5: figure 2a), but this was not necessarily a choice consciously made by the author. These three vertebrae were preserved in articulation in this orientation, suggesting this was the relative orientation in life.
 
-XXX Definition 4 can't be done at all for _Xenoposeidon_, which is where we came in.
-
+Definition 4 (similarity in articulation) was initially appealing because it takes the whole vertebra into account, rather than only the articular surfaces of the centrum (as in method 2) or only the neural canal (as in method 3). In practice, however, this means that the method cannot be used at all unless the vertebra is sufficiently well preserved to have well-formed articular surfaces both at the centrum and at the pre- and post-zygapophyses. This rules out its use for many fossil vertebrae — ironically, include NHMUK R 2095, the _Xenoposeidon proneneukos_ holotype dorsal vertebra which was the catalyst for this whole project. We are therefore not able to recommend the use of this method, at least not when dealing with fossils.
 
 
 
