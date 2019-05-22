@@ -268,13 +268,18 @@ Definition 4 (similarity in articulation) was initially appealing because it tak
 
 ## Conclusion
 
-At minimum, we advocate that each paper should explicitly adopt a definition of “horizontal”, and use it consistently.
+In discussing the angles of inclination of parts of vertebrae, it is essential to have a rigorously defined baseline: a concept of what is meant by the directions cranial and caudal, and therefore what axis is defined as horizontal, and therefore what is vertical. In this paper, we have proposed four candidate definitions.
 
-We _tentatively_ recommend the base-of-the-neural-canal-is-horizontal method.
+At minimum, we advocate that each paper that discusses vertebral inclination should explicitly adopt some specific definition of “horizontal”, and use it consistently.
 
-XXX say more
+We _tentatively_ recommend that the base-of-the-neural-canal-is-horizontal method should be used in most cases, for the following reasons:
 
-Orientation by this method can often by approximated using low-tech means such as a roll of paper pushed through the neural canal (Figure J), yielding "good enough" results. XXX say more. As the rolled-up paper naturally uncoils, it fills as much of the space of the neural canal as possible, giving a good sense of the trajectory of the roof and floor of the canal.
+* It is well defined for both long and short vertebrae.
+* It corresponds to the physical reality of the unkinked spinal cord.
+* It reflects the developemental reality of how vertebra are formed.
+* It requires only a relatively small part of the vertebra to be preserved.
+
+Orientation by this method can best be achieved by the use of CT scans or physical cross-sections. However, it can often by approximated using low-tech means such as a roll of paper pushed through the neural canal (Figure J), yielding "good enough" results.
 
 ---
 
@@ -290,18 +295,18 @@ Orientation by this method can often by approximated using low-tech means such a
 
 ---
 
+This is a case where an unsophisticated method gives surprisingly informative and reliable results. As the rolled-up paper naturally uncoils, it fills as much of the space of the neural canal as possible, giving a good sense of the trajectory of the roof and floor of the canal. In a "trumpet shaped" neural canal that is wider at one end than at the other, the paper uncurls further at the wider end, giving a visual indication of the variation in width. This can be seen to a minor degree in Figure J.E, in which the neural canal of cervical vertebra 7 in a juvenile giraffe is slightly wider cranially than it is caudally.
+
 
 
 ## Discussion
 
 
-### Relevance to other work
+### Applications of this work
 
-There are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation: e.g., measuring cross-sectional area of the neural canal. XXX use slide 17.
+Beyond the simple need to measure angles of inclinations against an objectively defined baseline, there are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation. For example, XXX Matt, please write this bit! So and so measured how the cross-sectional area of the neural canal varies along the length of whatever it was.
 
-XXX Cite work on this
-
-XXX Use Hap caudal illustration
+XXX Matt, please make an illustration that shows the Hap caudal in "posterior" view according to both definitions 2 and 3 -- I assume you can do this using your 3D model -- and showing how different the cross-sectional area of the NC looks in these two illustrations. You can see a lame-ass version at 4m41s in my VPC talk at https://www.youtube.com/watch?v=7Z2EmMBCJ50&t=4m41s
 
 
 ### Open peer review
@@ -319,11 +324,6 @@ This work first began to take shape as a series of blog-posts (Taylor 2018c, Tay
 
 ## Acknowledgements
 
-XXX John Hutchinson for giraffe
-
-XXX Matt Cobley for ostrich
-
-
 First, we thank Phil Mannion (Imperial College London) both for his multiple rounds of review of the _Xenoposeidon_ manuscript and for giving us permission to quote relevant excepts in the current paper. We also thank Marc Vincent for permission to reproduce his photograph in Figure B, Jess Miller-Camp for responding to a cry for help on Twitter and providing the alligator cervical photograph in Figure G, and Andy Farke for permission to cite a personal communication.
 
 We are deeply grateful to the curators and collection managers for access to specimens used in this study, including
@@ -333,6 +333,8 @@ We are deeply grateful to the curators and collection managers for access to spe
 * Neftali Camacho (Los Angeles County Museum of Natural History) for the Komodo dragon.
 * Sandra Chapman (Natural History Museum, London, UK) for _Xenoposeidon_.
 * Ken Noriega (Western University of Health Sciences) for the horse head.
+
+We thank John Hutchinson (Royal Veterinary College, UK) for the juvenile giraffe neck from which we prepared the C7 used in several illustrations, and Matt Cobley (XXX affiliation) for the ostrich neck skeleton whose vertebra appears in Figure J.F.
 
 Finally, we thank John Yasmer and Thierra Nalley (Western University of Health Sciences) for their assistance in CT scanning and 3D modelling the _Haplocanthosaurus_ caudal vertebra.
 
