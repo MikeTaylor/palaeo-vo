@@ -334,7 +334,7 @@ We are deeply grateful to the curators and collection managers for access to spe
 * Sandra Chapman (Natural History Museum, London, UK) for _Xenoposeidon_.
 * Ken Noriega (Western University of Health Sciences) for the horse head.
 
-We thank John Hutchinson (Royal Veterinary College, UK) for the juvenile giraffe neck from which we prepared the C7 used in several illustrations, and Matt Cobley (XXX affiliation) for the ostrich neck skeleton whose vertebra appears in Figure J.F.
+We thank John Hutchinson (Royal Veterinary College, UK) for the juvenile giraffe neck from which we prepared the C7 used in several illustrations, and Matt Cobley (Judge Memorial Catholic High School, Salt Lake City UT) for the ostrich neck skeleton whose vertebra appears in Figure J.F.
 
 Finally, we thank John Yasmer and Thierra Nalley (Western University of Health Sciences) for their assistance in CT scanning and 3D modelling the _Haplocanthosaurus_ caudal vertebra.
 
