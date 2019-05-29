@@ -345,7 +345,7 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Gray, Henry. 1858. _Anatomy: descriptive and surgical_, 1st edition. J.W. Parker, London, UK.
 * Giffin, Emily B. 1990. Gross spinal anatomy and limb use in living and fossil reptiles. _Paleobiology_ **16(4)**:448-458.
 * Giffin, Emily B. 1992. Functional implications of neural canal anatomy in recent and fossil marine carnivores. _Journal of Morphology_ **214(3)**:357-374.
-* Giffin, Emily B. 1995a. Functional interpretation of spinal anatomy in living and fossil amniotes. pp.235-248 in: Jeffrey J. Thomason (ed.), _Functional morphology in vertebrate paleontology_. Cambridge University Press, Cambridge, UK.
+* Giffin, Emily B. 1995a. Functional interpretation of spinal anatomy in living and fossil amniotes. pp. 235-248 in: Jeffrey J. Thomason (ed.), _Functional morphology in vertebrate paleontology_. Cambridge University Press, Cambridge, UK.
 * Giffin, Emily B. 1995b. Postcranial paleoneurology of the Diapsida. _Journal of Zoology_ **235(3)**:389-410.
 * Janensch, Werner. 1950. Die Wirbelsaule von _Brachiosaurus brancai_. _Palaeontographica_ (Suppl. 7) 3:27-93.
 * Krings, Markus, John A. Nyakatura, Matin S. Fischer and Hermann Wagner. 2014. The cervical spine of the American barn owl (_Tyto furcata pratincola_): I. Anatomy of the vertebrae and regionalization in their S-shaped arrangement. _PLOS ONE_ **9(3)**:e91653. https://doi.org/10.1371/journal.pone.0091653
