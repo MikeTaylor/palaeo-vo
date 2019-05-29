@@ -304,7 +304,7 @@ This is a case where an unsophisticated method gives surprisingly informative an
 
 ### Applications of this work
 
-Beyond the simple need to measure angles of inclinations against an objectively defined baseline, there are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation. For example, XXX Matt, please write this bit! So and so measured how the cross-sectional area of the neural canal varies along the length of whatever it was.
+Beyond the simple need to measure angles of inclinations against an objectively defined baseline, there are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation. For example, although the spinal cord does not completely fill the neural canal in most vertebrates, the cross-sectional area of the neural canal does vary in concert with the cross-sectional area of the spinal cord. This allows us to estimate serial variation in spinal cord diameter, and to make inferences regarding gross patterns of limb use in extinct animals, including dinosaurs (Giffin 1990, 1992, 1995a, b). These estimates and inferences depend on the cross-sectional area of the neural canal, which varies depending on how a vertebra is oriented when the measurement is taken. In most cases, the "neural canal is horizontal" approach will also be the approach that maximizes the cross-sectional area of the neural canal as seen from cranial or caudal. If the neural canal and long axis of the centrum are not orthogonal, orienting the vertebra according to the long axis of the centrum or verticality of the articular faces will result in a decreased apparent diameter of the neural canal. This is true even in vertebrae with cranio-caudally short centra, such as the proximal caudals of many sauropod dinosaurs (XXX new figure).
 
 XXX Matt, please make an illustration that shows the Hap caudal in "posterior" view according to both definitions 2 and 3 -- I assume you can do this using your 3D model -- and showing how different the cross-sectional area of the NC looks in these two illustrations. You can see a lame-ass version at 4m41s in my VPC talk at https://www.youtube.com/watch?v=7Z2EmMBCJ50&t=4m41s
 
@@ -343,6 +343,10 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 ## References
 
 * Gray, Henry. 1858. _Anatomy: descriptive and surgical_, 1st edition. J.W. Parker, London, UK.
+* Giffin, Emily B. 1990. Gross spinal anatomy and limb use in living and fossil reptiles. _Paleobiology_ **16(4)**:448-458.
+* Giffin, Emily B. 1992. Functional implications of neural canal anatomy in recent and fossil marine carnivores. _Journal of Morphology_ **214(3)**:357-374.
+* Giffin, Emily B. 1995a. Functional interpretation of spinal anatomy in living and fossil amniotes. pp.235-248 in: Jeffrey J. Thomason (ed.), _Functional morphology in vertebrate paleontology_. Cambridge University Press, Cambridge, UK.
+* Giffin, Emily B. 1995b. Postcranial paleoneurology of the Diapsida. _Journal of Zoology_ **235(3)**:389-410.
 * Janensch, Werner. 1950. Die Wirbelsaule von _Brachiosaurus brancai_. _Palaeontographica_ (Suppl. 7) 3:27-93.
 * Krings, Markus, John A. Nyakatura, Matin S. Fischer and Hermann Wagner. 2014. The cervical spine of the American barn owl (_Tyto furcata pratincola_): I. Anatomy of the vertebrae and regionalization in their S-shaped arrangement. _PLOS ONE_ **9(3)**:e91653. https://doi.org/10.1371/journal.pone.0091653
 * Mannion, Philip D. 2018a. Peer Review #3 (1st round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.1)". PeerJ. doi:10.7287/peerj.5212v0.1/reviews/3
