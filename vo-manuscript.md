@@ -24,7 +24,7 @@ College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine
 * [Comparison of definitions](#comparison-of-definitions)
 * [Conclusion](#conclusion)
 * [Discussion](#discussion)
-    * [Relevance to other work](#relevance-to-other-work)
+    * [Applications of this work](#applications-of-this-work)
     * [Open peer review](#open-peer-review)
     * [Open composition](#open-composition)
 * [Acknowledgements](#acknowledgements)
