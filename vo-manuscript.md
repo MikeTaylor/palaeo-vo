@@ -304,9 +304,20 @@ This is a case where an unsophisticated method gives surprisingly informative an
 
 ### Applications of this work
 
-Beyond the simple need to measure angles of inclinations against an objectively defined baseline, there are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation. For example, although the spinal cord does not completely fill the neural canal in most vertebrates, the cross-sectional area of the neural canal does vary in concert with the cross-sectional area of the spinal cord. This allows us to estimate serial variation in spinal cord diameter, and to make inferences regarding gross patterns of limb use in extinct animals, including dinosaurs (Giffin 1990, 1992, 1995a, b). These estimates and inferences depend on the cross-sectional area of the neural canal, which varies depending on how a vertebra is oriented when the measurement is taken. In most cases, the "neural canal is horizontal" approach will also be the approach that maximizes the cross-sectional area of the neural canal as seen from cranial or caudal. If the neural canal and long axis of the centrum are not orthogonal, orienting the vertebra according to the long axis of the centrum or verticality of the articular faces will result in a decreased apparent diameter of the neural canal. This is true even in vertebrae with cranio-caudally short centra, such as the proximal caudals of many sauropod dinosaurs (XXX new figure).
+Beyond the simple need to measure angles of inclinations against an objectively defined baseline, there are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation. For example, although the spinal cord does not completely fill the neural canal in most vertebrates, the cross-sectional area of the neural canal does vary in concert with the cross-sectional area of the spinal cord. This allows us to estimate serial variation in spinal cord diameter, and to make inferences regarding gross patterns of limb use in extinct animals, including dinosaurs (Giffin 1990, 1992, 1995a, b). These estimates and inferences depend on the cross-sectional area of the neural canal, which varies depending on how a vertebra is oriented when the measurement is taken. In most cases, the "neural canal is horizontal" approach will also be the approach that maximizes the cross-sectional area of the neural canal as seen from cranial or caudal. If the neural canal and long axis of the centrum are not orthogonal, orienting the vertebra according to the long axis of the centrum or verticality of the articular faces will result in a decreased apparent diameter of the neural canal. This is true even in vertebrae with cranio-caudally short centra, such as the proximal caudals of many sauropod dinosaurs (Figure N).
 
-XXX Matt, please make an illustration that shows the Hap caudal in "posterior" view according to both definitions 2 and 3 -- I assume you can do this using your 3D model -- and showing how different the cross-sectional area of the NC looks in these two illustrations. You can see a lame-ass version at 4m41s in my VPC talk at https://www.youtube.com/watch?v=7Z2EmMBCJ50&t=4m41s
+---
+
+![Figure N. Cross-sectional area of neural canal varying with orientation](figures/export-jpeg/Figure-N-varying-neural-canal-cross-sections.jpeg)
+
+> **Figure N.** Varying apparent cross-sectional area of the neural canal of _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3, depending on the orientation of a vertebra.
+> **A and C.** Right lateral view in different orientations.
+> **B and D.** Anterior views in different orientations.
+> Parts **A** and **B** depict the vertebra oriented according to method 2 (Articular facets of centrum are vertical), and show a neural canal that is small (5870 pixels) in cross-sectional area;
+> parts **C** and **D** depict the vertebra oriented according to method 3 (Neural canal is horizontal), and show a neural canal that is 61% larger (9458 pixels) in cross-sectional area.
+
+---
+
 
 
 ### Open peer review
