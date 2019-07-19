@@ -364,6 +364,8 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Mannion, Philip D. 2018b. Peer Review #3 (2nd round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". PeerJ. doi:10.7287/peerj.5212v0.2/reviews/3
 * Owen, Richard. 1854. The principal forms of the skeleton and of the teeth. Blanchard and Lea, Philadelphia.
 * Saegusa, Haruo, and Tadahiro Ikeda. 2014. A new titanosauriform sauropod (Dinosauria: Saurischia) from the Lower Cretaceous of Hyogo, Japan. _Zootaxa_ **3848(1)**:1–66. doi:10.11646/zootaxa.3848.1.1.
+* Spemann, H., and Hilde Mangold. 1924. Über Induktion von Embryonalanlagen durch Implantation artfremder Organisatoren [On induction of embryo anlagen by implantation of organizers of other species]. _Development Genes and Evolution_ **100**:599-638.
+* Stemple, Derek L. 2005. Structure and function of the notochord: an essential organ for chordate development. _Development_ **132(11)**:2503-2512.
 * Stevens, Kent A., and J. Michael Parrish. 1999. Neck posture and feeding habits of two Jurassic sauropod dinosaurs. _Science_ **8284**:798–800.
 * Taylor, Michael P. 2017. My collection of sauropod-themed mugs (or at least five sixths of it). _Sauropod Vertebra Picture of the Week_ 4 June 2017. https://svpow.com/2017/06/04/my-collection-of-sauropod-themed-mugs-or-at-least-five-sixths-of-it/
 * Taylor, Michael P. 2018a. Untitled rebuttal letter to 2nd round of reviews of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". _PeerJ_. https://peerj.com/articles/5212v0.3/rebuttal
