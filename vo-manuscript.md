@@ -185,8 +185,10 @@ Secondly, as again shown by the _Haplocanthosaurus_ caudal of Figure E, the indi
 ![Figure H. ambiguous interpretation of roof of neural canal](figures/export-jpeg/Figure-H-where-is-the-top-of-the-NC.jpeg)
 
 > **Figure H.** _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3, in cross section, showing the ambiguous interpretation of the roof of the neural canal.
-> **A.** The vertebra oriented as in Figure E.B. The vertical blue line indicates the position identified as the cranialmost extent of the roof of the neural canal (point _a_), and the red line shows the interpretation of "horizontal" based on that location.
+> **A.** The vertebra oriented according to a long interpretation of neural canal extent. The vertical blue line indicates the position identified as the cranialmost extent of the roof of the neural canal (point _a_), and the red line shows the interpretation of "horizontal" based on that location.
 > **B.** The same vertebra, but with a different choice of cranialmost extent of the roof of the neural canal (point _b_), again marked with a vertical blue line. When a line is projected from here to the same caudalmost extent as in part A, the resulting notion of "horizontal" differs by 3.8 degrees.
+>
+> XXX Redraft part B with vertebra rotated so red line in horizontal.
 
 ---
 
@@ -256,7 +258,7 @@ This never happens in life: the spinal cord can curve but never kink: see for ex
 
 ![Figure M. Hemisected horse's head and neck](figures/export-jpeg/Figure-M-hemisected-horse-head.jpg)
 
-> **Figure M.** Sagittally bisected head and cranial neck of a horse. The first four cervical vertebrae are complete, but the caudal part of the fifth is absent. Note that the neural canal runs in a nearly straight line, as is not kinked.
+> **Figure M.** Sagittally bisected head and cranial neck of a horse. The first four cervical vertebrae are complete, but the caudal part of the fifth is absent. Note that the neural canal runs in a nearly straight line, and is not kinked.
 
 ---
 
@@ -264,7 +266,7 @@ By contrast, definition 3 ("neural canal is horizontal") is anatomically informa
 
 This orientation is used in the illustration of caudals 6–8 of the _Opisthocoelicaudia skarzynskyii_ holotype ZPAL MgD-I/48 in Borsuk-Bialynicka (1977: plate 5: figure 2a), but this was not necessarily a choice consciously made by the author. These three vertebrae were preserved in articulation in this orientation, suggesting this was the relative orientation in life.
 
-Definition 4 (similarity in articulation) was initially appealing because it takes the whole vertebra into account, rather than only the articular surfaces of the centrum (as in method 2) or only the neural canal (as in method 3). In practice, however, this means that the method cannot be used at all unless the vertebra is sufficiently well preserved to have well-formed articular surfaces both at the centrum and at the pre- and post-zygapophyses. This rules out its use for many fossil vertebrae — ironically, include NHMUK R 2095, the _Xenoposeidon proneneukos_ holotype dorsal vertebra which was the catalyst for this whole project. We are therefore not able to recommend the use of this method, at least not when dealing with fossils.
+Definition 4 (similarity in articulation) was initially appealing because it takes the whole vertebra into account, rather than only the articular surfaces of the centrum (as in method 2) or only the neural canal (as in method 3). In practice, however, this means that the method cannot be used at all unless the vertebra is sufficiently well preserved to have well-formed articular surfaces both at the centrum and at the pre- and post-zygapophyses. This rules out its use for many fossil vertebrae — ironically, including NHMUK R 2095, the _Xenoposeidon proneneukos_ holotype dorsal vertebra which was the catalyst for this whole project. We are therefore not able to recommend the use of this method, at least not when dealing with fossils.
 
 
 
@@ -272,13 +274,13 @@ Definition 4 (similarity in articulation) was initially appealing because it tak
 
 In discussing the angles of inclination of parts of vertebrae, it is essential to have a rigorously defined baseline: a concept of what is meant by the directions cranial and caudal, and therefore what axis is defined as horizontal, and therefore what is vertical. In this paper, we have proposed four candidate definitions.
 
-At minimum, we advocate that each paper that discusses vertebral inclination should explicitly adopt some specific definition of “horizontal”, and use it consistently.
+At minimum, we advocate that each paper that discusses vertebral shape and the inclination of parts should explicitly adopt some specific definition of “horizontal”, and use it consistently.
 
-We _tentatively_ recommend that the base-of-the-neural-canal-is-horizontal method should be used in most cases, for the following reasons:
+We recommend that the base-of-the-neural-canal-is-horizontal method should be used in most cases, for the following reasons:
 
 * It is well defined for both long and short vertebrae.
 * It corresponds to the physical reality of the unkinked spinal cord.
-* It reflects the developemental reality of how vertebra are formed.
+* It reflects the developmental reality of how vertebra are formed.
 * It requires only a relatively small part of the vertebra to be preserved.
 
 Orientation by this method can best be achieved by the use of CT scans or physical cross-sections. However, it can often by approximated using low-tech means such as a roll of paper pushed through the neural canal (Figure J), yielding "good enough" results.
@@ -306,7 +308,7 @@ This is a case where an unsophisticated method gives surprisingly informative an
 
 ### Applications of this work
 
-Beyond the simple need to measure angles of inclinations against an objectively defined baseline, there are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation. For example, although the spinal cord does not completely fill the neural canal in most vertebrates, the cross-sectional area of the neural canal does vary in concert with the cross-sectional area of the spinal cord. This allows us to estimate serial variation in spinal cord diameter, and to make inferences regarding gross patterns of limb use in extinct animals, including dinosaurs (Giffin 1990, 1992, 1995a, b). These estimates and inferences depend on the cross-sectional area of the neural canal, which varies depending on how a vertebra is oriented when the measurement is taken. In most cases, the "neural canal is horizontal" approach will also be the approach that maximizes the cross-sectional area of the neural canal as seen from cranial or caudal. If the neural canal and long axis of the centrum are not orthogonal, orienting the vertebra according to the long axis of the centrum or verticality of the articular faces will result in a decreased apparent diameter of the neural canal. This is true even in vertebrae with cranio-caudally short centra, such as the proximal caudals of many sauropod dinosaurs (Figure N).
+Beyond the simple need to measure angles of inclinations against an objectively defined baseline, there are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation. For example, although the spinal cord does not completely fill the neural canal in most vertebrates, the cross-sectional area of the neural canal does vary in concert with the cross-sectional area of the spinal cord. This allows us to estimate serial variation in spinal cord diameter, and to make inferences regarding gross patterns of limb use in extinct animals, including dinosaurs (Giffin 1990, 1992, 1995a, b). These estimates and inferences depend on the cross-sectional area of the neural canal — but this varies depending on how a vertebra is oriented when the measurement is taken. In most cases, the "neural canal is horizontal" approach will also be the approach that maximizes the cross-sectional area of the neural canal as seen from cranial or caudal. If the neural canal and long axis of the centrum are not orthogonal, orienting the vertebra according to the long axis of the centrum or verticality of the articular faces will result in a decreased apparent diameter of the neural canal. This is true even in vertebrae with cranio-caudally short centra, such as the proximal caudals of many sauropod dinosaurs (Figure N).
 
 ---
 
@@ -324,9 +326,9 @@ Beyond the simple need to measure angles of inclinations against an objectively 
 
 ### Open peer review
 
-In publishing the _Xenoposeidon_ revision (Taylor 2018b) in the journal _PeerJ_, I (Taylor) was pleased to take advantage of the journal's policy of allowing submitted drafts, peer-reviews, response letters and handling editors' comments to be published alongside the final paper. It is because these materials are published (### Young et al. 2018) that the sequence of discussion is preserved, and Mannion's helpful and gracious comments are available to be read — not only as the extracts in the present paper, but in their full context.
+In publishing the _Xenoposeidon_ revision (Taylor 2018b) in the journal _PeerJ_, I (Taylor) was pleased to take advantage of the journal's policy of allowing submitted drafts, peer-reviews, response letters and handling editors' comments to be published alongside the final paper. It is because these materials are published (Young et al. 2018) that the sequence of discussion is preserved, and Mannion's helpful and gracious comments are available to be read — not only as the extracts in the present paper, but in their full context.
 
-We endorse the publication of peer reviews, and both take this option whenever it is offered. Aside from their value as part of the scholarly record, published peer-reviews are visible evidence of the reviewers’ broader contribution to science, and can be taken into account in evaluating researchers for jobs, promotions, tenure and grants. Sets of reviews, accompanied by the corresponding versions of the manuscript, can be an important pedagogical tool for teaching students in practical terms how peer-review works: for example, Andy Farke (Raymond M. Alf Museum) writes “I use those published reviews when we are talking about the process of scientific publication. I have the students read the reviews and read the responses, and then talk about how the paper changed as a result” (pers. comm. 2018). Crucially, reviews can play an important role in the origination of new research questions, and should be acknowledged: the present work on defining vertebral orientation arises directly from Phil Mannion's peer-review comments (Mannion 2018a, 2018b).
+We endorse the publication of peer reviews, and both take this option whenever it is offered. Aside from their value as part of the scholarly record, published peer-reviews are visible evidence of the reviewers’ broader contribution to science, and can be taken into account in evaluating researchers for jobs, promotions, tenure and grants. Sets of reviews, accompanied by the corresponding versions of the manuscript, can be an important pedagogical tool for teaching students in practical terms how peer-review works: for example, Andy Farke (Raymond M. Alf Museum) writes “I use those published reviews when we are talking about the process of scientific publication. I have the students read the reviews and read the responses, and then talk about how the paper changed as a result” (pers. comm. 2018). Crucially, reviews can also play an important role in the origination of new research questions, and should be acknowledged: the present work on defining vertebral orientation arises directly from Phil Mannion's peer-review comments (Mannion 2018a, 2018b).
 
 
 ### Open composition
@@ -342,12 +344,12 @@ First, we thank Phil Mannion (Imperial College London) both for his multiple rou
 We are deeply grateful to the curators and collection managers for access to specimens used in this study, including
 * Daniela Schwarz (Museum für Naturukunde Berlin) for _Giraffatitan_.
 * Julia McHugh (Dinosaur Journey) for _Haplocanthosaurus_.
-* Bill Simpson (Field Museum of Natural History, Chicago, IL) for _Brachiosaurus_ and the giraffe.
+* Bill Simpson (Field Museum of Natural History, Chicago, IL) for _Brachiosaurus_ and the mature giraffe.
 * Neftali Camacho (Los Angeles County Museum of Natural History) for the Komodo dragon.
 * Sandra Chapman (Natural History Museum, London, UK) for _Xenoposeidon_.
 * Ken Noriega (Western University of Health Sciences) for the horse head.
 
-We thank John Hutchinson (Royal Veterinary College, UK) for the juvenile giraffe neck from which we prepared the C7 used in several illustrations, and Matt Cobley (Judge Memorial Catholic High School, Salt Lake City UT) for the ostrich neck skeleton whose vertebra appears in Figure J.F.
+We thank John Hutchinson (Royal Veterinary College, UK) for the juvenile giraffe neck from which we prepared the vertebra used in Figure J.D-E, and Matt Cobley (Judge Memorial Catholic High School, Salt Lake City UT) for the ostrich neck skeleton whose vertebra appears in Figure J.F.
 
 Finally, we thank John Yasmer and Thierra Nalley (Western University of Health Sciences) for their assistance in CT scanning and 3D modelling the _Haplocanthosaurus_ caudal vertebra.
 
@@ -362,8 +364,8 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Giffin, Emily B. 1995b. Postcranial paleoneurology of the Diapsida. _Journal of Zoology_ **235(3)**:389-410.
 * Janensch, Werner. 1950. Die Wirbelsaule von _Brachiosaurus brancai_. _Palaeontographica_ (Suppl. 7) 3:27-93.
 * Krings, Markus, John A. Nyakatura, Matin S. Fischer and Hermann Wagner. 2014. The cervical spine of the American barn owl (_Tyto furcata pratincola_): I. Anatomy of the vertebrae and regionalization in their S-shaped arrangement. _PLOS ONE_ **9(3)**:e91653. https://doi.org/10.1371/journal.pone.0091653
-* Mannion, Philip D. 2018a. Peer Review #3 (1st round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.1)". PeerJ. doi:10.7287/peerj.5212v0.1/reviews/3
-* Mannion, Philip D. 2018b. Peer Review #3 (2nd round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". PeerJ. doi:10.7287/peerj.5212v0.2/reviews/3
+* Mannion, Philip D. 2018a. Peer Review #3 (1st round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.1)". PeerJ. https://doi.org/10.7287/peerj.5212v0.1/reviews/3
+* Mannion, Philip D. 2018b. Peer Review #3 (2nd round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". PeerJ. https://doi.org/10.7287/peerj.5212v0.1/reviews/3
 * Owen, Richard. 1854. The principal forms of the skeleton and of the teeth. Blanchard and Lea, Philadelphia.
 * Saegusa, Haruo, and Tadahiro Ikeda. 2014. A new titanosauriform sauropod (Dinosauria: Saurischia) from the Lower Cretaceous of Hyogo, Japan. _Zootaxa_ **3848(1)**:1–66. doi:10.11646/zootaxa.3848.1.1.
 * Spemann, H., and Hilde Mangold. 1924. Über Induktion von Embryonalanlagen durch Implantation artfremder Organisatoren [On induction of embryo anlagen by implantation of organizers of other species]. _Development Genes and Evolution_ **100**:599-638.
@@ -381,5 +383,6 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Wedel, Matthew J. 2018b. Vertebral orientation: _Varanus komodoensis_ would like a word. _Sauropod Vertebra Picture of the Week_ 25 September 2018. https://svpow.com/2018/09/25/vertebral-orientation-varanus-komodoensis-would-like-a-word/
 * Wedel, Matthew J. 2018c. Vertebral orientation, part 3: Matt weighs in. _Sauropod Vertebra Picture of the Week_ 5 October 2018. https://svpow.com/2018/10/05/vertebral-orientation-part-3-matt-weighs-in/
 * Wedel, Matthew J. 2018d. Our presentations are up at the 1st Palaeo Virtual Congress. _Sauropod Vertebra Picture of the Week_ 5 December 2018. https://svpow.com/2018/12/05/our-presentations-are-up-at-the-1st-palaeo-virtual-congress/
+* Young, Mark, anonymous, Daniela Schwarz, Philip Mannion, Lucio Manuel Ibiricu and Michael P. Taylor. 2018. Review History: _Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur. https://peerj.com/articles/5212/reviews/
 
 
