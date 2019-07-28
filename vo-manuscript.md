@@ -131,11 +131,11 @@ All this shows that relying on the eye to determine horizontal orientation can b
 ![Figure E. Haplocanthosaurus caudal in various orientations](figures/export-jpeg/Figure-E-Haplocanthosaurus-three-orientations.jpeg)
 
 > **Figure E.** _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3, in cross section, showing medial aspect of left side, in three orientations.
-> **A.** In "articular facets vertical" orientation (method 2 of this paper). The red line joins the dorsal and ventral margins of the caudal articular facet, and is oriented vertically; the green line joins the dorsal and ventral margins of the cranial articular facet, and is nearly but not exactly vertical, instead inclining slightly forwards.
-> **B.** In "neural canal horizontal" orientation (method 3 of this paper). The red line joins the cranial and caudal margins of the roof of he neural canal, and is oriented horizontally; the green line joins the cranial and caudal margins of the floor of the neural canal, and is close to horizontally but inclined strongly downwards.
-> **C.** In "similarity in articulation" orientation (method 4 of this paper). Two copies of the same vertebra, held in the same orientation, are articulated optimally, then the group is rotated until the two are level. The red line connects the cranial part of the base of the neural canal of the two copies, and is horizontal; but a horizontal line could join the two copies of any point.
->
-> XXX Redraft this so that in part B the _base_ of the neural canal is horizontal; and so that a different landmark is used in part C; and revise the caption accordingly; and note in the caption the accident that parts B and C happen to give a very similar result for this vertebra.
+> **A.** In "articular facets vertical" orientation (method 2 of this paper). The green line joins the dorsal and ventral margins of the caudal articular facet, and is oriented vertically; the red line joins the dorsal and ventral margins of the cranial articular facet, and is nearly but not exactly vertical, instead inclining slightly forwards.
+> **B.** In "neural canal horizontal" orientation (method 3 of this paper). The green line joins the cranial and caudal margins of the floor of the neural 
+canal, and is oriented horizontally; the red line joins the cranial and caudal margins of the roof of the neural canal, and is close to horizontal but inclined upwards.
+> **C.** In "similarity in articulation" orientation (method 4 of this paper). Two copies of the same vertebra, held in the same orientation, are articulated optimally, then the group is rotated until the two are level. The green line connects the uppermost point of the prezygapophyseal rami of the two copies, and is horizontal; but a horizontal line could join the two copies of any point.
+> It happens that for this vertebra methods 3 and 4 (parts B and C of this illustration) give very similar results, but this is accidental.
 ---
 
 
@@ -143,7 +143,7 @@ All this shows that relying on the eye to determine horizontal orientation can b
 
 In this approach, we define horizontal as that orientation in which the cranial and caudal articular facets of the centrum are vertical. (Figure E.A). This is appealing when dealing with short, tall vertebrae, but less so for long, slender vertebrae such as the _Giraffatitan_ cervival of Figure D.
 
-For the Haplocanthosaurus cadal shown here, the method gives a nearly unambiguous result as the cranial and caudal articular facets are very close to parallel: in Figure E.A, where the red line showing the orientation of the caudal facet is horizontal, the green line showing the orientation of the cranial facet is cranially inclined by less than one degree. However, its meaning is ambiguous for “keystoned” vertebrae in which the cranial and caudal facets are not parallel, as for example the giraffe C7 shown in Figure F.
+For the Haplocanthosaurus cadal shown here, the method gives a nearly unambiguous result as the cranial and caudal articular facets are very close to parallel: in Figure E.A, where the green line showing the orientation of the caudal facet is horizontal, the red line showing the orientation of the cranial facet is cranially inclined by less than one degree. However, its meaning is ambiguous for “keystoned” vertebrae in which the cranial and caudal facets are not parallel, as for example the giraffe C7 shown in Figure F.
 
 ---
 ![Figure F. Giraffe _Giraffa camelopardarlis_ cervical 7 in articulation with itself](figures/export-jpeg/Figure-F-articulated-giraffe-c7s.jpeg)
@@ -174,7 +174,7 @@ An alternative to this method is to fix the orientation of the neural canal as "
 
 However, this method, too, is subject to some ambiguity.
 
-First, just as Method 2 can yield a different orientation depending on whether the orientation of the cranial or caudal articular surface is used, so the present method can yield a different orientation depending on whether the orientation of roof or the floor of the neural canal is used: compare the red and green lines approximating the roof and floor of the _Haplocanthosaurus_ caudal in Figure E.B. For a tubular neural canal of constant diameter, this problem does not arise, but not all neural canals are this regular, and
+First, just as Method 2 can yield a different orientation depending on whether the orientation of the cranial or caudal articular surface is used, so the present method can yield a different orientation depending on whether the orientation of roof or the floor of the neural canal is used: compare the green and red lines approximating the floor and roof of the _Haplocanthosaurus_ caudal in Figure E.B. For a tubular neural canal of constant diameter, this problem does not arise, but not all neural canals are this regular, and
 "trumpet-shaped" canals can yield widely divergent orientations of roof and
 floor.
 
