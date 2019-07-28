@@ -188,7 +188,7 @@ Secondly, as again shown by the _Haplocanthosaurus_ caudal of Figure E, the indi
 > **A.** The vertebra oriented according to a long interpretation of neural canal extent. The vertical blue line indicates the position identified as the cranialmost extent of the roof of the neural canal (point _a_), and the red line shows the interpretation of "horizontal" based on that location.
 > **B.** The same vertebra, but with a different choice of cranialmost extent of the roof of the neural canal (point _b_), again marked with a vertical blue line. When a line is projected from here to the same caudalmost extent as in part A, the resulting notion of "horizontal" differs by 3.8 degrees.
 >
-> XXX Redraft part B with vertebra rotated so red line in horizontal.
+> XXX Redraft part B with vertebra rotated so red line is horizontal.
 
 ---
 
