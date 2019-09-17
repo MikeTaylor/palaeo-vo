@@ -18,11 +18,11 @@ College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine
     * [Institutional abbreviations](#institutional-abbreviations)
 * [Four definitions of “horizontal”](#four-definitions-of-horizontal)
     * [1. Long axis of centrum is horizontal](#1-long-axis-of-centrum-is-horizontal)
-    * [2. Articular facets of centrum are vertical](#2-articular-facets-of-centrum-are-vertical)
+    * [2. Articular surfaces of centrum are vertical](#2-articular-surfaces-of-centrum-are-vertical)
     * [3. Neural canal is horizontal](#3-neural-canal-is-horizontal)
     * [4. Similarity in articulation](#4-similarity-in-articulation)
 * [Comparison of definitions](#comparison-of-definitions)
-* [Conclusion](#conclusion)
+* [Recommendations](#recommendations)
 * [Discussion](#discussion)
     * [Applications of this work](#applications-of-this-work)
     * [Open peer review](#open-peer-review)
@@ -46,7 +46,7 @@ I responded (Taylor 2018a):
 
 > Phil remains convinced that the proper orientation of the vertebra gives it a lesser forward slope than as described in the manuscript. Having once more revisited my photos and 3D models, I remain convinced that the present orientation is essentially correct. It could be out by five degrees or so, so I have changed “35 degrees” to “30-35 degrees” throughout.
 
-Mannion was gracious enough to accept this, and the paper proceeded to publication with the relevant section (Taylor 2018b:5) essentially unchanged. But the question he had raised continued to occupy me: what exactly _is_ the “correct” orientation of the vertebra, relative to which we can measure the angle of the sloping neural arch? And what do we even mean by “correct”? Figure A shows the difference between the slope as published (part A), and as interpreted by Mannion (part B).
+Mannion was gracious enough to accept this, and the paper proceeded to publication with the relevant section (Taylor 2018b:5) essentially unchanged. But the question he had raised continued to play on both of our minds: what exactly _is_ the “correct” orientation of the vertebra, relative to which we can measure the angle of the sloping neural arch? And what do we even mean by “correct”? Figure A shows the difference between the slope as published (part A), and as interpreted by Mannion (part B).
 
 ---
 
@@ -73,7 +73,7 @@ In the present paper, we aim to answer that question. We will propose and discus
 
 ---
 
-Note that the present question is nothing to do with life posture, which is a much more difficult problem, subject to many more degrees of uncertainty. Animals do not hold their vertebral columns at anything close to true horizontal — not even those that we characterise as having horizontal posture — and we do not want to tie the meaning of our very nomenclature to something so variable and unpredictable. Otherwise we would have to define “horizontal” for the mid-cervical vertebrae of parrots as upside-down (Figure B).
+Note that the present question is nothing to do with life posture, which is a much more difficult problem, subject to many more degrees of uncertainty. Animals do not hold their vertebral columns at anything close to true horizontal (Taylor et al. 2009) — not even those that we characterise as having horizontal posture — and we do not want to tie the meaning of our very nomenclature to something so variable and unpredictable. Otherwise we would have to define “horizontal” for the mid-cervical vertebrae of parrots as upside-down (Figure B).
 
 ---
 
@@ -88,7 +88,7 @@ Instead, we seek abstract notions of "horizontal", "cranial" and "caudal" that a
 
 ### Anatomical nomenclature
 
-As dinosaur palaeontologists, we generally use and prefer the Owenian system of anatomical directions, with anterior and posterior indicating the forward and backward directions accordingly (Owen 1854) — hence the use of these terms in the _Xenoposeidon_ paper, its reviews, and the associated discussion. However, for the present paper, we seek directional definitions that are unambiguous for all vertebrates: not only those like dinosaurs, dogs and fish, which hold their vertebral columns essentially horizontal; but also those like humans, penguins and meerkats, which hold their vertebral columns essentially vertical. For this reason, avoiding ambiguity in humans, where “anterior” means ventral (towards the belly) rather than cranial (towards the head), we will use terms cranial and caudal, and derived terms such as craniodorsal.
+As dinosaur palaeontologists, we generally use and prefer the Owenian system of anatomical directions, with anterior and posterior indicating the forward and backward directions accordingly (Owen 1854) — hence the use of these terms in the _Xenoposeidon_ paper, its reviews, and the associated discussion. However, for the present paper, we seek directional definitions that are unambiguous for all vertebrates: not only those like dinosaurs, dogs and fish, which hold their vertebral columns essentially horizontal; but also those like humans, penguins and alert meerkats, which hold their vertebral columns essentially vertical. For this reason, avoiding ambiguity in humans, where “anterior” means ventral (towards the belly) rather than cranial (towards the head), we will use terms cranial and caudal, and derived terms such as craniodorsal.
 
 
 ### Institutional abbreviations
@@ -120,7 +120,7 @@ The default approach for most illustrations, especially for elongate vertebrae s
 
 ---
 
-However, this approach cannot be meaningfully used for craniocaudally short vertebrae such as most caudals, in which there is no long axis (Figure E.A).
+However, this approach cannot be meaningfully used for craniocaudally short vertebrae such as most caudals, in which there is no unambiguous long axis (Figure E.A).
 
 And even for elongate vertebrae, this immediately intuitive approach breaks down when considered in detail. A line between the cranial and caudal articular surfaces at half height sounds simple, but to determine half-height we need to establish the dorsal and ventral margins of the articular surfaces, and this is not always clear, especially for fossil vertebrae. In Figure D, the upper blue lines at each end of the vertebra mark the dorsalmost extent of the two articular surfaces, and are not difficult to determine. But the ventralmost extent of both surfaces is much more ambiguous. Candidate ventral extents are shown by the other blue lines. Cranially (to the right), the ventralmost line is aligned with the ventralmost point on the cranial part of the vertebra, but it is not certain that this is part of the articular condyle rather than some other process; the two lines immediately above show two other points on the curvature of the condyle that could be interpreted as its ventralmost extent. The same problem is more extreme with respect to the ventral margin of the caudal articular surface (left side of figure D). Only with the benefit of a caudal view does it become apparent that the upper two lines mark breakages in the cotyle rim rather than a legitimate ventral margin, and that even the lowest line represents a point of breakage rather than for example, a separate ventrolateral process. In fact, the true ventral extent of this articular surface would have been located some way below the preserved portion of the bone — as is shown in Janensch's (1950: figures 23, 25) reconstruction of this vertebra.
 
@@ -130,8 +130,8 @@ All this shows that relying on the eye to determine horizontal orientation can b
 ---
 ![Figure E. Haplocanthosaurus caudal in various orientations](figures/export-jpeg/Figure-E-Haplocanthosaurus-three-orientations.jpeg)
 
-> **Figure E.** _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3, in cross section, showing medial aspect of left side, in three orientations.
-> **A.** In "articular facets vertical" orientation (method 2 of this paper). The green line joins the dorsal and ventral margins of the caudal articular facet, and is oriented vertically; the red line joins the dorsal and ventral margins of the cranial articular facet, and is nearly but not exactly vertical, instead inclining slightly forwards.
+> **Figure E.** _Haplocanthosaurus_ sp. MWC 8028, caudal vertebra ?3, in cross section, showing medial aspect of left side, in three orientations.
+> **A.** In "articular surfaces vertical" orientation (method 2 of this paper). The green line joins the dorsal and ventral margins of the caudal articular surface, and is oriented vertically; the red line joins the dorsal and ventral margins of the cranial articular surface, and is nearly but not exactly vertical, instead inclining slightly forwards.
 > **B.** In "neural canal horizontal" orientation (method 3 of this paper). The green line joins the cranial and caudal margins of the floor of the neural 
 canal, and is oriented horizontally; the red line joins the cranial and caudal margins of the roof of the neural canal, and is close to horizontal but inclined upwards.
 > **C.** In "similarity in articulation" orientation (method 4 of this paper). Two copies of the same vertebra, held in the same orientation, are articulated optimally, then the group is rotated until the two are level. The green line connects the uppermost point of the prezygapophyseal rami of the two copies, and is horizontal; but a horizontal line could join the two copies of any point.
@@ -139,11 +139,11 @@ canal, and is oriented horizontally; the red line joins the cranial and caudal m
 ---
 
 
-### 2. Articular facets of centrum are vertical
+### 2. Articular surfaces of centrum are vertical
 
-In this approach, we define horizontal as that orientation in which the cranial and caudal articular facets of the centrum are vertical. (Figure E.A). This is appealing when dealing with short, tall vertebrae, but less so for long, slender vertebrae such as the _Giraffatitan_ cervival of Figure D.
+In this approach, we define horizontal as that orientation in which the cranial and caudal articular surfaces of the centrum are vertical. (Figure E.A). This is appealing when dealing with short, tall vertebrae, but less so for long, slender vertebrae such as the _Giraffatitan_ cervival of Figure D.
 
-For the Haplocanthosaurus cadal shown here, the method gives a nearly unambiguous result as the cranial and caudal articular facets are very close to parallel: in Figure E.A, where the green line showing the orientation of the caudal facet is horizontal, the red line showing the orientation of the cranial facet is cranially inclined by less than one degree. However, its meaning is ambiguous for “keystoned” vertebrae in which the cranial and caudal facets are not parallel, as for example the giraffe C7 shown in Figure F.
+For the _Haplocanthosaurus_ caudal shown here, the method gives a nearly unambiguous result as the cranial and caudal articular surfaces are very close to parallel: in Figure E.A, where the green line showing the orientation of the caudal surface is horizontal, the red line showing the orientation of the cranial surface is cranially inclined by less than one degree. However, its meaning is ambiguous for “keystoned” vertebrae in which the cranial and caudal surfaces are not parallel, as for example the giraffe C7 shown in Figure F.
 
 ---
 ![Figure F. Giraffe _Giraffa camelopardarlis_ cervical 7 in articulation with itself](figures/export-jpeg/Figure-F-articulated-giraffe-c7s.jpeg)
@@ -170,7 +170,7 @@ Finally, the giraffe C7 also illustrates yet another difficulty with this defini
 
 ### 3. Neural canal is horizontal
 
-An alternative to this method is to fix the orientation of the neural canal as "horizontal", as shown in Figure E.B. For a given verteba, this can yield _extremely_ different results from method 2, as seen in the contrast between the two orientations shown of the _Haplocanthosaurus_ caudal in parts A and B of Figure E. It can also be seen that the giraffe C7 in figure F and the Komodo dragon caudal in Figure G.A, both which are here depicted with the neural canal close to horizontal, would be oriented very differently according to method 2.
+An alternative to this method is to fix the orientation of the neural canal as "horizontal", as shown in Figure E.B. For a given vertebra, this can yield _extremely_ different results from method 2, as seen in the contrast between the two orientations shown of the _Haplocanthosaurus_ caudal in parts A and B of Figure E. It can also be seen that the giraffe C7 in figure F and the Komodo dragon caudal in Figure G.A, both which are here depicted with the neural canal close to horizontal, would be oriented very differently according to method 2.
 
 However, this method, too, is subject to some ambiguity.
 
@@ -184,7 +184,7 @@ Secondly, as again shown by the _Haplocanthosaurus_ caudal of Figure E, the indi
 
 ![Figure H. ambiguous interpretation of roof of neural canal](figures/export-jpeg/Figure-H-where-is-the-top-of-the-NC.jpeg)
 
-> **Figure H.** _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3, in cross section, showing the ambiguous interpretation of the roof of the neural canal.
+> **Figure H.** _Haplocanthosaurus_ sp. MWC 8028, caudal vertebra ?3, in cross section, showing the ambiguous interpretation of the roof of the neural canal.
 > **A.** The vertebra oriented according to a long interpretation of neural canal extent. The vertical blue line indicates the position identified as the cranialmost extent of the roof of the neural canal (point _a_), and the red line shows the interpretation of "horizontal" based on that location.
 > **B.** The same vertebra, but with a different choice of cranialmost extent of the roof of the neural canal (point _b_), again marked with a vertical blue line. When a line is projected from here to the same caudalmost extent as in part A, the resulting notion of "horizontal" differs by 3.8 degrees.
 
@@ -196,7 +196,7 @@ Even worse, when one or both of the margins of the neural canal is convex in cro
 
 ![Figure I. human vertebrae in cross-section](figures/export-jpeg/Figure-I-hemisected-human-vertebrae.jpeg)
 
-> **Figure I.** Right halves of two vertebrae from the lumbar (caudal dorsal) region of a human _Homo sapiens_ in sagittal cross-section (cranial to left). Modified from Gray 1858: figure 99. Pale yellow indicates bone in cross-section, grey indicates both bone further from the midline and soft tissue. The red lines mark the floor of the neural canal: since the cranial and caudal ends of the floor of the canal are slightly elevated dorsally relative to the middle part of the canal, it is easy to project a line between these eminences and designate this as the trajectory of the canal. The blue lines mark the roof of the neural canal, but this is convex throughout its length for each vertebra. THere is therefore no way to designate any single tangent to it as the trajectory of the neural canal roof of the vertebra as a whole.
+> **Figure I.** Right halves of two vertebrae from the lumbar (caudal dorsal) region of a human _Homo sapiens_ in sagittal cross-section (cranial to left). Modified from Gray 1858: figure 99. Pale yellow indicates bone in cross-section, grey indicates both bone further from the midline and soft tissue. The red lines mark the floor of the neural canal: since the cranial and caudal ends of the floor of the canal are slightly elevated dorsally relative to the middle part of the canal, it is easy to project a line between these eminences and designate this as the trajectory of the canal. The blue lines mark the roof of the neural canal, but this is convex throughout its length for each vertebra. There is therefore no way to designate any single tangent to it as the trajectory of the neural canal roof of the vertebra as a whole.
 
 ---
 
@@ -205,13 +205,13 @@ A further difficulty with this method is that, unlike the articular surfaces, th
 
 ### 4. Similarity in articulation
 
-Definition method 1 is based on the centrum of the vertebra; method 2 is based on the cranial and caudal articular facets; and method 3 is based on the neural canal. But is it possible to arrive at a definition that takes the whole vertebra into account?
+Definition method 1 is based on the centrum of the vertebra; method 2 is based on the cranial and caudal articular surfaces; and method 3 is based on the neural canal. But is it possible to arrive at a definition that takes the whole vertebra into account?
 
 ---
 
 ![Figure K. Determining horizontal orientation by similarity in articulation](figures/export-jpeg/Figure-K-method-4.jpeg)
 
-> **Figure K.** The steps of the similarity-in-articulation method of determining horizontal orientation of a vertebra, illustrated using _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3.
+> **Figure K.** The steps of the similarity-in-articulation method of determining horizontal orientation of a vertebra, illustrated using _Haplocanthosaurus_ sp. MWC 8028, caudal vertebra ?3.
 > **A.** Two identical copies of the same vertebra depicted in the same orientation.
 > **B.** The two copies brought into optimal whole-vertebra articulation without rotating either.
 > **C.** The articulated pair rotated into that orientation in which they are at the same height. This is orientation is designated as horizontal according to the present method.
@@ -240,13 +240,13 @@ Each of the candidate definitions of "horizontal" has appealing qualities, and i
 
 Definition 1 (Long axis of centrum is horizontal) is perhaps the least satisfactory of the methods presented here, as it is the most dependent on a judgement "by eye". It is also not really applicable at all to craniocaudally short vertebrae.
 
-While definition 2 (articular facets of centrum are vertical) is perhaps the most frequently used orientation when illustrating craniocaudally short vertebra, it has the undesirable property that when a sequence of consecutive verebrae are illustrated in this orientation, the neural canal can be jagged (Figure L).
+While definition 2 (articular surfaces of centrum are vertical) is perhaps the most frequently used orientation when illustrating craniocaudally short vertebra, it has the undesirable property that when a sequence of consecutive verebrae are illustrated in this orientation, the neural canal can be jagged (Figure L).
 
 ---
 
 ![Figure L. Consecutive vertebrae implying a kinked neural canal](figures/export-jpeg/Figure-L-sequence-of-haplo-caudals.jpeg)
 
-> **Figure L.** Five instances of _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3, all oriented according to candidate method 2. Since the orientation of the neural canal in this vertebra is inclined 20–30 degrees to perpendicular with the articular facets, the result is a kinked spinal cord — something that never happens in life.
+> **Figure L.** Five instances of _Haplocanthosaurus_ sp. MWC 8028, caudal vertebra ?3, all oriented according to candidate method 2. Since the orientation of the neural canal in this vertebra is inclined 20–30 degrees to perpendicular with the articular surfaces, the result is a kinked spinal cord — something that never happens in life.
 
 ---
 
@@ -264,11 +264,11 @@ By contrast, definition 3 ("neural canal is horizontal") is anatomically informa
 
 This orientation is used in the illustration of caudals 6–8 of the _Opisthocoelicaudia skarzynskyii_ holotype ZPAL MgD-I/48 in Borsuk-Bialynicka (1977: plate 5: figure 2a), but this was not necessarily a choice consciously made by the author. These three vertebrae were preserved in articulation in this orientation, suggesting this was the relative orientation in life.
 
-Definition 4 (similarity in articulation) was initially appealing because it takes the whole vertebra into account, rather than only the articular surfaces of the centrum (as in method 2) or only the neural canal (as in method 3). In practice, however, this means that the method cannot be used at all unless the vertebra is sufficiently well preserved to have well-formed articular surfaces both at the centrum and at the pre- and post-zygapophyses. This rules out its use for many fossil vertebrae — ironically, including NHMUK R 2095, the _Xenoposeidon proneneukos_ holotype dorsal vertebra which was the catalyst for this whole project. We are therefore not able to recommend the use of this method, at least not when dealing with fossils.
+Definition 4 (similarity in articulation) was initially appealing because it takes the whole vertebra into account, rather than only the articular surfaces of the centrum (as in method 2) or only the neural canal (as in method 3). In practice, however, this means that the method cannot be used at all unless the vertebra is sufficiently well preserved to have well-formed articular surfaces both at the centrum and at the pre- and post-zygapophyses. This rules out its use for many fossil vertebrae — ironically, including NHMUK PV R2095, the _Xenoposeidon proneneukos_ holotype dorsal vertebra which was the catalyst for this whole project. We are therefore not able to recommend the use of this method, at least not when dealing with fossils.
 
 
 
-## Conclusion
+## Recommendations
 
 In discussing the angles of inclination of parts of vertebrae, it is essential to have a rigorously defined baseline: a concept of what is meant by the directions cranial and caudal, and therefore what axis is defined as horizontal, and therefore what is vertical. In this paper, we have proposed four candidate definitions.
 
@@ -291,9 +291,9 @@ Orientation by this method can best be achieved by the use of CT scans or physic
 > **A.** _Brachiosaurus altithorax_ holotype FMNH P 25107, first and partial second caudal vertebrae in right lateral view.
 > **B.** _Camarasaurus_ sp. CM 584, cranial caudal vertebra ?4 in right lateral view.
 > **C.** _Camarasaurus_ sp. CM 584, mid-caudal vertebra ?12 in left lateral view.
-> **D.** Juvenile giraffe _Giraffa camelopardalis_ from MPT's collection, cervical vertebra 6 in left lateral view.
-> **E.** Juvenile giraffe _Giraffa camelopardalis_ from MPT's collection, cervical vertebra 7 in left lateral view. Note the much stronger inclination than in C6.
-> **F.** Ostrich _Struthio camelus_ from MPT's collection, cervical vertebra 16 in left lateral view.
+> **D.** Juvenile giraffe _Giraffa camelopardalis_, cervical vertebra 6 in left lateral view.
+> **E.** Juvenile giraffe _Giraffa camelopardalis_, cervical vertebra 7 in left lateral view. Note the much stronger inclination than in C6.
+> **F.** Ostrich _Struthio camelus_, cervical vertebra 16 in left lateral view.
 
 ---
 
@@ -312,10 +312,10 @@ Beyond the simple need to measure angles of inclinations against an objectively 
 
 ![Figure N. Cross-sectional area of neural canal varying with orientation](figures/export-jpeg/Figure-N-varying-neural-canal-cross-sections.jpeg)
 
-> **Figure N.** Varying apparent cross-sectional area of the neural canal of _Haplocanthosaurus_ ?_priscus_ MWC 8028, caudal vertebra ?3, depending on the orientation of a vertebra.
+> **Figure N.** Varying apparent cross-sectional area of the neural canal of _Haplocanthosaurus_ sp. MWC 8028, caudal vertebra ?3, depending on the orientation of a vertebra.
 > **A and C.** Right lateral view in different orientations.
 > **B and D.** Cranial views in different orientations.
-> Parts **A** and **B** depict the vertebra oriented according to method 2 (Articular facets of centrum are vertical), and show a neural canal that is small (5870 pixels) in cross-sectional area;
+> Parts **A** and **B** depict the vertebra oriented according to method 2 (Articular surfaces of centrum are vertical), and show a neural canal that is small (5870 pixels) in cross-sectional area;
 > parts **C** and **D** depict the vertebra oriented according to method 3 (Neural canal is horizontal), and show a neural canal that is 61% larger (9458 pixels) in cross-sectional area.
 
 ---
@@ -377,10 +377,10 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Taylor, Michael P. 2018e. Writing the vertebral-orientation paper in the open. _Sauropod Vertebra Picture of the Week_ 14 December 2018. https://svpow.com/2018/12/14/writing-the-vertebral-orientation-paper-in-the-open/
 * Taylor Michael P., and Mathew J. Wedel. 2018. What do we mean by the directions “cranial” and “caudal” on a vertebra? _PeerJ Preprints_ **6**:e27437v1. doi:10.7287/peerj.preprints.27437v1
 * Taylor, Michael P., Mathew J. Wedel and Darren Naish. 2009. Head and neck posture in sauropod dinosaurs inferred from extant animals. _Acta Palaeontologica Polonica_ **54(2)**:213-230.
-* Wedel, Matthew J. 2018a. The proximal caudals of _Brachiosaurus altithorax_, FMNH P25107. _Sauropod Vertebra Picture of the Week_ 11 September 2018. https://svpow.com/2018/09/11/the-proximal-caudals-of-brachiosaurus-altithorax-fmnh-p25107/
-* Wedel, Matthew J. 2018b. Vertebral orientation: _Varanus komodoensis_ would like a word. _Sauropod Vertebra Picture of the Week_ 25 September 2018. https://svpow.com/2018/09/25/vertebral-orientation-varanus-komodoensis-would-like-a-word/
-* Wedel, Matthew J. 2018c. Vertebral orientation, part 3: Matt weighs in. _Sauropod Vertebra Picture of the Week_ 5 October 2018. https://svpow.com/2018/10/05/vertebral-orientation-part-3-matt-weighs-in/
-* Wedel, Matthew J. 2018d. Our presentations are up at the 1st Palaeo Virtual Congress. _Sauropod Vertebra Picture of the Week_ 5 December 2018. https://svpow.com/2018/12/05/our-presentations-are-up-at-the-1st-palaeo-virtual-congress/
+* Wedel, Mathew J. 2018a. The proximal caudals of _Brachiosaurus altithorax_, FMNH P25107. _Sauropod Vertebra Picture of the Week_ 11 September 2018. https://svpow.com/2018/09/11/the-proximal-caudals-of-brachiosaurus-altithorax-fmnh-p25107/
+* Wedel, Mathew J. 2018b. Vertebral orientation: _Varanus komodoensis_ would like a word. _Sauropod Vertebra Picture of the Week_ 25 September 2018. https://svpow.com/2018/09/25/vertebral-orientation-varanus-komodoensis-would-like-a-word/
+* Wedel, Mathew J. 2018c. Vertebral orientation, part 3: Matt weighs in. _Sauropod Vertebra Picture of the Week_ 5 October 2018. https://svpow.com/2018/10/05/vertebral-orientation-part-3-matt-weighs-in/
+* Wedel, Mathew J. 2018d. Our presentations are up at the 1st Palaeo Virtual Congress. _Sauropod Vertebra Picture of the Week_ 5 December 2018. https://svpow.com/2018/12/05/our-presentations-are-up-at-the-1st-palaeo-virtual-congress/
 * Young, Mark, anonymous, Daniela Schwarz, Philip Mannion, Lucio Manuel Ibiricu and Michael P. Taylor. 2018. Review History: _Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur. https://peerj.com/articles/5212/reviews/
 
 
