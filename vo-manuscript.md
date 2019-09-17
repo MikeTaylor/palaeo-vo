@@ -52,7 +52,7 @@ Mannion was gracious enough to accept this, and the paper proceeded to publicati
 
 ![Figure A. rotated Xenoposeidon](figures/export-jpeg/Figure-A-rotated-Xenoposeidon.jpeg)
 
-> **Figure A.** NHMUK PV R2095, the holotype dorsal vertebra of _Xenoposiedon proneneukos_ in left lateral view.
+> **Figure A.** NHMUK PV R2095, the holotype dorsal vertebra of _Xenoposeidon proneneukos_ in left lateral view.
 > **A.** In the canonical orientation that has been used in illustrations in published papers (Taylor and Naish 2007, Taylor 2018b), in blog-posts and even on mugs (Taylor 2017).
 > **B.** Rotated 15° “backwards” (i.e. clockwise, with the dorsal portion displaced caudally), yielding a sub-vertical cranial margin in accordance the recommendation of Mannion (2018b).
 > In both parts, the blue line indicates the horizontal axis, the green line indicates the vertical axis, and the red line indicates the slope of the neural arch as in Taylor (2018b: figure 3B, part 2).
@@ -93,7 +93,7 @@ As dinosaur palaeontologists, we generally use and prefer the Owenian system of 
 
 ### Institutional abbreviations
 
-* **CM** — Carnegie Museum of Natural History, Pittsburg, Pennsylvania, USA.
+* **CM** — Carnegie Museum of Natural History, Pittsburgh, Pennsylvania, USA.
 * **FMNH** — Field Museum of Natural History, Chicago, Illinois, USA.
 * **LACM** — Natural History Museum of Los Angeles County, Los Angeles, California, USA.
 * **MB.R** — Museum für Naturkunde Berlin, Berlin, Germany; fossil reptile collection.
@@ -141,14 +141,14 @@ canal, and is oriented horizontally; the red line joins the cranial and caudal m
 
 ### 2. Articular surfaces of centrum are vertical
 
-In this approach, we define horizontal as that orientation in which the cranial and caudal articular surfaces of the centrum are vertical. (Figure E.A). This is appealing when dealing with short, tall vertebrae, but less so for long, slender vertebrae such as the _Giraffatitan_ cervival of Figure D.
+In this approach, we define horizontal as that orientation in which the cranial and caudal articular surfaces of the centrum are vertical. (Figure E.A). This is appealing when dealing with short, tall vertebrae, but less so for long, slender vertebrae such as the _Giraffatitan_ cervical of Figure D.
 
 For the _Haplocanthosaurus_ caudal shown here, the method gives a nearly unambiguous result as the cranial and caudal articular surfaces are very close to parallel: in Figure E.A, where the green line showing the orientation of the caudal surface is horizontal, the red line showing the orientation of the cranial surface is cranially inclined by less than one degree. However, its meaning is ambiguous for “keystoned” vertebrae in which the cranial and caudal surfaces are not parallel, as for example the giraffe C7 shown in Figure F.
 
 ---
-![Figure F. Giraffe _Giraffa camelopardarlis_ cervical 7 in articulation with itself](figures/export-jpeg/Figure-F-articulated-giraffe-c7s.jpeg)
+![Figure F. Giraffe _Giraffa camelopardalis_ cervical 7 in articulation with itself](figures/export-jpeg/Figure-F-articulated-giraffe-c7s.jpeg)
 
-> **Figure F.** Giraffe _Giraffa camelopardarlis_ FMNH 34426, two copies of cervical 7 in left lateral view, articulated, both horizontal according to the "similarity in articulation" orientation (method 4 of this paper).
+> **Figure F.** Giraffe _Giraffa camelopardalis_ FMNH 34426, two copies of cervical 7 in left lateral view, articulated, both horizontal according to the "similarity in articulation" orientation (method 4 of this paper).
 > The 7th cervical vertebra of the giraffe is strongly "keystoned", with the centrum (excluding the articular condyle) forming a parallelogram whose dorsal length is less than its ventral length.
 > The red lines indicate the orientation of the cranial articular surfaces, following the lines of ligament attachment immediately behind the articular condyle; the green line indicates the orientation of the margin of the caudal articular surface.
 > The angle between the red and green lines is about 19 degrees, meaning that if the two copies of the vertebra were oriented such that the cranial and caudal articular surfaces were optimally articulated, there would be a 19 degree angle between the vertebrae.
@@ -190,7 +190,7 @@ Secondly, as again shown by the _Haplocanthosaurus_ caudal of Figure E, the indi
 
 ---
 
-Even worse, when one or both of the margins of the neural canal is convex in cross-secton, there is no cranialmost or caudalmost margin, and therefore no straight line to project between them (Figure I).
+Even worse, when one or both of the margins of the neural canal is convex in cross-section, there is no cranialmost or caudalmost margin, and therefore no straight line to project between them (Figure I).
 
 ---
 
@@ -227,7 +227,7 @@ The method that we call "similarity in articulation" does this. It consists of f
 
 Note that this method does not require two vertebrae: it uses two _copies_ of the _same_ vertebra to determine the orientation of that vertebra in isolation.
 
-Figure F shows the method applied to a giraffe _Giraffa camelopardarlis_ FMNH 34426, cervical 7. Note that the intercentral joint shows a strong divergence between the planes of the two articular surfaces: a "better" articulation might be achieved between the two copies of the vertebra is one were allowed to rotate relative to the other, but that would not yield a single orientation and so would violate the mechanism of method 4.
+Figure F shows the method applied to a giraffe _Giraffa camelopardalis_ FMNH 34426, cervical 7. Note that the intercentral joint shows a strong divergence between the planes of the two articular surfaces: a "better" articulation might be achieved between the two copies of the vertebra is one were allowed to rotate relative to the other, but that would not yield a single orientation and so would violate the mechanism of method 4.
 
 This definition of "horizontal" is less intuitive than definitions 1–3, but has some advantages. First, it can be determined for any more or less complete vertebra, irrespective of whether or not the articular faces are parallel or the neural canal is tubular. Second we may hope that, since it uses the whole shape of the vertebra, this method is less vulnerable to yielding a distorted 
 result when the vertebra is damaged. Third, it constrains subjectivity to a single well-defined judgement which can be reviewed and revised as needed: that of how the two similarly-oriented copies of the vertebra best articulate together.
@@ -240,7 +240,7 @@ Each of the candidate definitions of "horizontal" has appealing qualities, and i
 
 Definition 1 (Long axis of centrum is horizontal) is perhaps the least satisfactory of the methods presented here, as it is the most dependent on a judgement "by eye". It is also not really applicable at all to craniocaudally short vertebrae.
 
-While definition 2 (articular surfaces of centrum are vertical) is perhaps the most frequently used orientation when illustrating craniocaudally short vertebra, it has the undesirable property that when a sequence of consecutive verebrae are illustrated in this orientation, the neural canal can be jagged (Figure L).
+While definition 2 (articular surfaces of centrum are vertical) is perhaps the most frequently used orientation when illustrating craniocaudally short vertebra, it has the undesirable property that when a sequence of consecutive vertebrae are illustrated in this orientation, the neural canal can be jagged (Figure L).
 
 ---
 
@@ -260,7 +260,7 @@ This never happens in life: the spinal cord can curve but never kink: see for ex
 
 ---
 
-By contrast, definition 3 ("neural canal is horizontal") is anatomically informative, corresponding to the reality of the how consecutive vertebrae articulate in life, and to how they originate. Vertebrae may be found in isolation (e.g., NHMUK PV R2095, Figure A), but they do not develop in isolation. Early in the embryological development of vertebrates, the notochord is the primary body axis, defining not only cranio-caudal orientation but also dorso-ventral and left-right (Stemple 2005 and references therein). The notochord induces the formation of the neural plate, which rolls up to become the neural tube, and eventually the brain and spinal cord (Spemann and Mangold 1924). From that point forward, the spinal cord lies dorsal to — and parallel to — the notochord, or to the articulated vertebral centra that replace the notochord. In some vertebrae, the intervertebral joints form orthogonal to the notochord axis, so that the trajectory of the notochord can be reconstructed from the vertebral centrum (for example, Cdx4 in Figure C). As we have demonstrated, however, in other vertebrae the intervertebral joints are not orthogonal to the notochord axis on which the vertebral column is patterned. If the long axis of the centrum is difficult or impossible to define, and if the intervertebral joints are not orthogonal to the trajectory of the vertebral column, then the only aspect of a vertebra that faithfully preserves the original axis of the parallel notochord and spinal cord is the neural canal. Furthermore, in such cases the geometry of the centrum is actively misleading with respect to the original notochordal/vertebral axis.
+By contrast, definition 3 ("neural canal is horizontal") is anatomically informative, corresponding to the reality of the how consecutive vertebrae articulate in life, and to how they originate. Vertebrae may be found in isolation (e.g., NHMUK PV R2095, Figure A), but they do not develop in isolation. Early in the embryological development of vertebrates, the notochord is the primary body axis, defining not only craniocaudal orientation but also dorso-ventral and left-right (Stemple 2005 and references therein). The notochord induces the formation of the neural plate, which rolls up to become the neural tube, and eventually the brain and spinal cord (Spemann and Mangold 1924). From that point forward, the spinal cord lies dorsal to — and parallel to — the notochord, or to the articulated vertebral centra that replace the notochord. In some vertebrae, the intervertebral joints form orthogonal to the notochord axis, so that the trajectory of the notochord can be reconstructed from the vertebral centrum (for example, Cdx4 in Figure C). As we have demonstrated, however, in other vertebrae the intervertebral joints are not orthogonal to the notochord axis on which the vertebral column is patterned. If the long axis of the centrum is difficult or impossible to define, and if the intervertebral joints are not orthogonal to the trajectory of the vertebral column, then the only aspect of a vertebra that faithfully preserves the original axis of the parallel notochord and spinal cord is the neural canal. Furthermore, in such cases the geometry of the centrum is actively misleading with respect to the original notochordal/vertebral axis.
 
 This orientation is used in the illustration of caudals 6–8 of the _Opisthocoelicaudia skarzynskyii_ holotype ZPAL MgD-I/48 in Borsuk-Bialynicka (1977: plate 5: figure 2a), but this was not necessarily a choice consciously made by the author. These three vertebrae were preserved in articulation in this orientation, suggesting this was the relative orientation in life.
 
@@ -306,7 +306,7 @@ This is a case where an unsophisticated method gives surprisingly informative an
 
 ### Applications of this work
 
-Beyond the simple need to measure angles of inclinations against an objectively defined baseline, there are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation. For example, although the spinal cord does not completely fill the neural canal in most vertebrates, the cross-sectional area of the neural canal does vary in concert with the cross-sectional area of the spinal cord. This allows us to estimate serial variation in spinal cord diameter, and to make inferences regarding gross patterns of limb use in extinct animals, including dinosaurs (Giffin 1990, 1992, 1995a, b). These estimates and inferences depend on the cross-sectional area of the neural canal — but this varies depending on how a vertebra is oriented when the measurement is taken. In most cases, the "neural canal is horizontal" approach will also be the approach that maximizes the cross-sectional area of the neural canal as seen from cranial or caudal. If the neural canal and long axis of the centrum are not orthogonal, orienting the vertebra according to the long axis of the centrum or verticality of the articular faces will result in a decreased apparent diameter of the neural canal. This is true even in vertebrae with cranio-caudally short centra, such as the proximal caudals of many sauropod dinosaurs (Figure N).
+Beyond the simple need to measure angles of inclinations against an objectively defined baseline, there are biological questions for which we cannot give a well-defined answer except in the context of a well-defined vertebral orientation. For example, although the spinal cord does not completely fill the neural canal in most vertebrates, the cross-sectional area of the neural canal does vary in concert with the cross-sectional area of the spinal cord. This allows us to estimate serial variation in spinal cord diameter, and to make inferences regarding gross patterns of limb use in extinct animals, including dinosaurs (Giffin 1990, 1992, 1995a, b). These estimates and inferences depend on the cross-sectional area of the neural canal — but this varies depending on how a vertebra is oriented when the measurement is taken. In most cases, the "neural canal is horizontal" approach will also be the approach that maximizes the cross-sectional area of the neural canal as seen from cranial or caudal. If the neural canal and long axis of the centrum are not orthogonal, orienting the vertebra according to the long axis of the centrum or verticality of the articular faces will result in a decreased apparent diameter of the neural canal. This is true even in vertebrae with craniocaudally short centra, such as the proximal caudals of many sauropod dinosaurs (Figure N).
 
 ---
 

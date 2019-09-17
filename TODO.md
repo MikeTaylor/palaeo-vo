@@ -13,7 +13,7 @@
 * **DONE** Italics for "Hap"
 * **DONE** "Cadal" -> "caudal"
 * **DONE** "Verteba"
-* (Do a spell-check)
+* **DONE** (Do a spell-check)
 * **DECLINED** "Not all neural canals" -> "Almost no"
 * **DONE** "THere" caps.
 * **DONE** NHMUK _PV_ R2095
