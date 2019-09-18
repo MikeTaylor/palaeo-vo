@@ -20,7 +20,7 @@
 * **DONE** Delete "from MPT's collection"
 * **DONE** "Conclusion" -> "Recommendations"
 * **UNNECESSARY** Acknowledge horse-head (& all images)
-* Revisit Xeno at the end.
+* **DONE** Revisit Xeno at the end.
 
 
 # Reviewers

@@ -299,6 +299,18 @@ Orientation by this method can best be achieved by the use of CT scans or physic
 
 This is a case where an unsophisticated method gives surprisingly informative and reliable results. As the rolled-up paper naturally uncoils, it fills as much of the space of the neural canal as possible, giving a good sense of the trajectory of the roof and floor of the canal. In a "trumpet shaped" neural canal that is wider at one end than at the other, the paper uncurls further at the wider end, giving a visual indication of the variation in width. This can be seen to a minor degree in Figure J.E, in which the neural canal of cervical vertebra 7 in a juvenile giraffe is slightly wider cranially than it is caudally.
 
+Finally, we return to the _Xenoposeidon proneneukos_ holotype dorsal vertebra NHMUK PV R2095 that motivated this entire project. This vertebra cannot be oriented by the rolled-up paper method, as its neural canal has not been prepared out, and is filled with matrix. However, the use of another low-tech method can give us the result (Figure O). We used Blu-Tack to attach two toothpicks to the cranial and caudal ends of the neural canal floor, and manipulated the toothpicks so that they formed a straight line. We then oriented the vertebra such that this straight line was horizontal, as indicated by a spirit level held parallel to it. Using this method we were able to determine from photos that that the slope of the neural arch is about 29°: just outside the 30°–35° range specified as character #2 in the revised diagnosis of Taylor (2018b:5).
+
+---
+
+![Figure O. Xenoposeidon vertebra oriented by the toothpicks method](figures/export-jpeg/Figure-O-Orienting-xenoposeidon.jpeg)
+
+> **Figure O.** 3D print of the _Xenoposeidon proneneukos_ holotype dorsal vertebra NHMUK PV R2095, oriented horizontally according to method 3 (neural canal is horizontal) by the toothpicks method. From left to right: anterolateral, left lateral and posterolateral views. The camera is at the same level as the floor of the neural canal, so that the toothpicks appear horizontal in the oblique views as well as in the lateral view. This procedure was carried out using a 3D print of the vertebra from the scan data published as the supplementary file to Taylor (2018b), as the fossil was not readily available.
+
+---
+
+We therefore recognise that Mannion (2018a, 2018b) was correct that the orientation depicted by Taylor (2018b) was not horizontal and that the slope was therefore exaggerated (according to method 2). However, the initially stated slope of 35° was exaggerated only by 6° rather than the 15° suggested by Mannion (2018b). The slope as stated in the final published version of the paper (30°–35°) is a better representation of the true morphology when using the neural canal as the determinant of horizontality.
+
 
 
 ## Discussion
