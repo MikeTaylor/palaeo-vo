@@ -332,6 +332,7 @@ Beyond the simple need to measure angles of inclinations against an objectively 
 
 ---
 
+For determining neural canal cross-section to estimate spinal cord size, we would prefer to orient the vertebra according to the long axis of the neural canal, as in Figure N.C-D. For other purposes, such as measuring the articular surface area of the centrum to estimate biomechanical loading or intervertebral cartilage properties, we might prefer to orient the vertebra with the articular surfaces vertical, as in Figure N.A-B. More generally, the complexity of vertebral geometry requires careful thought as to which definition of horizontality is appropriate in each analytical context: while we recommend method 3 (neural canal is horizontal) for most purposes, other definitions may be more appropriate in specific circumstances.
 
 
 ### Open peer review
