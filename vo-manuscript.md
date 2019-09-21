@@ -85,7 +85,7 @@ Note that the present question is nothing to do with life posture, which is a mu
 
 ---
 
-Instead, we seek abstract notions of "horizontal", "cranial" and "caudal" that apply irrespective of the specific posture adopted by an animal — something that is especially important for the study of extinct animals for which habitual posture cannot be known with certainty and remains controversial (e.g. sauropod neck posture: Steven and Parrish 1999 vs. Taylor et al. 2009). Our goal is to have an objective standard by which to assess properties such as the slope of a neural arch.
+Instead, we seek abstract notions of "horizontal", "cranial" and "caudal" that apply irrespective of the specific posture adopted by an animal — something that is especially important for the study of extinct animals for which habitual posture cannot be known with certainty and remains controversial (e.g. sauropod neck posture: Stevens and Parrish 1999 vs. Taylor et al. 2009). Our goal is to have an objective standard by which to assess properties such as the slope of a neural arch.
 
 
 ### Anatomical nomenclature
