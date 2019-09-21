@@ -73,6 +73,8 @@ In the present paper, we aim to answer that question. We will propose and discus
 
 ---
 
+We have been similarly inconsistent in our own previous papers, sometimes figuring vertebrae with the neural canal horizontal even if that meant the centrum ends were tilted (e.g., Wedel and Taylor 2013:figure 7), but at other times figuring vertebrae with the posterior articular surface vertical, even if that meant that the neural canal or centrum long axis was inclined (e.g., Wedel 2009:figure 7). Where we have been consistent, it has been through blind luck rather than careful consideration or deliberate choice; we did not perceive that there was a problem to be solved until the aforementioned discussion of the _Xenoposeidon_ holotype dorsal.
+
 Note that the present question is nothing to do with life posture, which is a much more difficult problem, subject to many more degrees of uncertainty. Animals do not hold their vertebral columns at anything close to true horizontal (Taylor et al. 2009) — not even those that we characterise as having horizontal posture — and we do not want to tie the meaning of our very nomenclature to something so variable and unpredictable. Otherwise we would have to define “horizontal” for the mid-cervical vertebrae of parrots as upside-down (Figure B).
 
 ---
@@ -143,7 +145,7 @@ canal, and is oriented horizontally; the red line joins the cranial and caudal m
 
 In this approach, we define horizontal as that orientation in which the cranial and caudal articular surfaces of the centrum are vertical. (Figure E.A). This is appealing when dealing with short, tall vertebrae, but less so for long, slender vertebrae such as the _Giraffatitan_ cervical of Figure D.
 
-For the _Haplocanthosaurus_ caudal shown here, the method gives a nearly unambiguous result as the cranial and caudal articular surfaces are very close to parallel: in Figure E.A, where the green line showing the orientation of the caudal surface is horizontal, the red line showing the orientation of the cranial surface is cranially inclined by less than one degree. However, its meaning is ambiguous for “keystoned” vertebrae in which the cranial and caudal surfaces are not parallel, as for example the giraffe C7 shown in Figure F.
+For the _Haplocanthosaurus_ caudal shown here, the method gives a nearly unambiguous result as the cranial and caudal articular surfaces are very close to parallel: in Figure E.A, where the green line showing the orientation of the caudal surface is vertical, the red line showing the orientation of the cranial surface is cranially inclined by less than one degree. However, its meaning is ambiguous for “keystoned” vertebrae in which the cranial and caudal surfaces are not parallel, as for example the giraffe C7 shown in Figure F; or the _Sauroposeidon_ C5 illustrated by Taylor and Wedel (2013:figure 8.1) in which the caudal surface is vertical but the margin of the cranial condyle is inclined about 16°.
 
 ---
 ![Figure F. Giraffe _Giraffa camelopardalis_ cervical 7 in articulation with itself](figures/export-jpeg/Figure-F-articulated-giraffe-c7s.jpeg)
@@ -388,12 +390,16 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Taylor, Michael P. 2018c. What does it mean for a vertebra to be “horizontal”? _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/what-does-it-mean-for-a-vertebra-to-be-horizontal/
 * Taylor, Michael P. 2018d. When is a vertebra “horizontal”, part 2. _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/when-is-a-vertebra-horizontal-part-2/
 * Taylor, Michael P. 2018e. Writing the vertebral-orientation paper in the open. _Sauropod Vertebra Picture of the Week_ 14 December 2018. https://svpow.com/2018/12/14/writing-the-vertebral-orientation-paper-in-the-open/
-* Taylor Michael P., and Mathew J. Wedel. 2018. What do we mean by the directions “cranial” and “caudal” on a vertebra? _PeerJ Preprints_ **6**:e27437v1. doi:10.7287/peerj.preprints.27437v1
+* Taylor, Michael P., and Mathew J. Wedel. 2013. Why sauropods had long necks; and why giraffes have short necks. _PeerJ_ **1:e36**. doi:10.7717/peerj.36
+* Taylor, Michael P., and Mathew J. Wedel. 2018. What do we mean by the directions “cranial” and “caudal” on a vertebra? _PeerJ Preprints_ **6**:e27437v1. doi:10.7287/peerj.preprints.27437v1
 * Taylor, Michael P., Mathew J. Wedel and Darren Naish. 2009. Head and neck posture in sauropod dinosaurs inferred from extant animals. _Acta Palaeontologica Polonica_ **54(2)**:213-230.
+* Wedel, Mathew J. 2009. Evidence for bird-like air sacs in saurischian
+dinosaurs. _Journal of Experimental Zoology_ **311A(8)**:611-628.
 * Wedel, Mathew J. 2018a. The proximal caudals of _Brachiosaurus altithorax_, FMNH P25107. _Sauropod Vertebra Picture of the Week_ 11 September 2018. https://svpow.com/2018/09/11/the-proximal-caudals-of-brachiosaurus-altithorax-fmnh-p25107/
 * Wedel, Mathew J. 2018b. Vertebral orientation: _Varanus komodoensis_ would like a word. _Sauropod Vertebra Picture of the Week_ 25 September 2018. https://svpow.com/2018/09/25/vertebral-orientation-varanus-komodoensis-would-like-a-word/
 * Wedel, Mathew J. 2018c. Vertebral orientation, part 3: Matt weighs in. _Sauropod Vertebra Picture of the Week_ 5 October 2018. https://svpow.com/2018/10/05/vertebral-orientation-part-3-matt-weighs-in/
 * Wedel, Mathew J. 2018d. Our presentations are up at the 1st Palaeo Virtual Congress. _Sauropod Vertebra Picture of the Week_ 5 December 2018. https://svpow.com/2018/12/05/our-presentations-are-up-at-the-1st-palaeo-virtual-congress/
+* Wedel, Mathew J., and Michael P. Taylor. 2013. Neural spine bifurcation in sauropod dinosaurs of the Morrison Formation: ontogenetic and phylogenetic implications. _PalArch's Journal of Vertebrate Palaeontology_ **10(1)**:1-34.
 * Young, Mark, anonymous, Daniela Schwarz, Philip Mannion, Lucio Manuel Ibiricu and Michael P. Taylor. 2018. Review History: _Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur. https://peerj.com/articles/5212/reviews/
 
 
