@@ -370,13 +370,13 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 
 ## References
 
+* Borsuk-Bialynicka, Magdalena. 1977. A new camarasaurid sauropod _Opisthocoelicaudia skarzynskii_, gen. n., sp. n. from the Upper Cretaceous of Mongolia. _Palaeontologia Polonica_ **37**:5-64 and plates 1-14.
 * Giffin, Emily B. 1990. Gross spinal anatomy and limb use in living and fossil reptiles. _Paleobiology_ **16(4)**:448-458.
 * Giffin, Emily B. 1992. Functional implications of neural canal anatomy in recent and fossil marine carnivores. _Journal of Morphology_ **214(3)**:357-374.
 * Giffin, Emily B. 1995a. Functional interpretation of spinal anatomy in living and fossil amniotes. pp. 235-248 in: Jeffrey J. Thomason (ed.), _Functional morphology in vertebrate paleontology_. Cambridge University Press, Cambridge, UK.
 * Giffin, Emily B. 1995b. Postcranial paleoneurology of the Diapsida. _Journal of Zoology_ **235(3)**:389-410.
 * Gray, Henry. 1858. _Anatomy: descriptive and surgical_, 1st edition. J.W. Parker, London, UK.
 * Janensch, Werner. 1950. Die Wirbelsaule von _Brachiosaurus brancai_. _Palaeontographica_ (Suppl. 7) 3:27-93.
-* Krings, Markus, John A. Nyakatura, Matin S. Fischer and Hermann Wagner. 2014. The cervical spine of the American barn owl (_Tyto furcata pratincola_): I. Anatomy of the vertebrae and regionalization in their S-shaped arrangement. _PLOS ONE_ **9(3)**:e91653. https://doi.org/10.1371/journal.pone.0091653
 * Mannion, Philip D. 2018a. Peer Review #3 (1st round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.1)". PeerJ. https://doi.org/10.7287/peerj.5212v0.1/reviews/3
 * Mannion, Philip D. 2018b. Peer Review #3 (2nd round) of "_Xenoposeidon_ is the earliest known rebbachisaurid sauropod dinosaur (v0.2)". PeerJ. https://doi.org/10.7287/peerj.5212v0.1/reviews/3
 * Owen, Richard. 1854. The principal forms of the skeleton and of the teeth. Blanchard and Lea, Philadelphia.
@@ -390,11 +390,11 @@ Finally, we thank John Yasmer and Thierra Nalley (Western University of Health S
 * Taylor, Michael P. 2018c. What does it mean for a vertebra to be “horizontal”? _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/what-does-it-mean-for-a-vertebra-to-be-horizontal/
 * Taylor, Michael P. 2018d. When is a vertebra “horizontal”, part 2. _Sauropod Vertebra Picture of the Week_ 28 August 2018. https://svpow.com/2018/08/28/when-is-a-vertebra-horizontal-part-2/
 * Taylor, Michael P. 2018e. Writing the vertebral-orientation paper in the open. _Sauropod Vertebra Picture of the Week_ 14 December 2018. https://svpow.com/2018/12/14/writing-the-vertebral-orientation-paper-in-the-open/
+* Taylor, Michael P., and Darren Naish. 2007. An unusual new neosauropod dinosaur from the Lower Cretaceous Hastings Beds Group of East Sussex, England. _Palaeontology_ **50(6)**:1547-1564. doi:10.1111/j.1475-4983.2007.00728.x
 * Taylor, Michael P., and Mathew J. Wedel. 2013. Why sauropods had long necks; and why giraffes have short necks. _PeerJ_ **1:e36**. doi:10.7717/peerj.36
 * Taylor, Michael P., and Mathew J. Wedel. 2018. What do we mean by the directions “cranial” and “caudal” on a vertebra? _PeerJ Preprints_ **6**:e27437v1. doi:10.7287/peerj.preprints.27437v1
 * Taylor, Michael P., Mathew J. Wedel and Darren Naish. 2009. Head and neck posture in sauropod dinosaurs inferred from extant animals. _Acta Palaeontologica Polonica_ **54(2)**:213-230.
-* Wedel, Mathew J. 2009. Evidence for bird-like air sacs in saurischian
-dinosaurs. _Journal of Experimental Zoology_ **311A(8)**:611-628.
+* Wedel, Mathew J. 2009. Evidence for bird-like air sacs in saurischian dinosaurs. _Journal of Experimental Zoology_ **311A(8)**:611-628.
 * Wedel, Mathew J. 2018a. The proximal caudals of _Brachiosaurus altithorax_, FMNH P25107. _Sauropod Vertebra Picture of the Week_ 11 September 2018. https://svpow.com/2018/09/11/the-proximal-caudals-of-brachiosaurus-altithorax-fmnh-p25107/
 * Wedel, Mathew J. 2018b. Vertebral orientation: _Varanus komodoensis_ would like a word. _Sauropod Vertebra Picture of the Week_ 25 September 2018. https://svpow.com/2018/09/25/vertebral-orientation-varanus-komodoensis-would-like-a-word/
 * Wedel, Mathew J. 2018c. Vertebral orientation, part 3: Matt weighs in. _Sauropod Vertebra Picture of the Week_ 5 October 2018. https://svpow.com/2018/10/05/vertebral-orientation-part-3-matt-weighs-in/
