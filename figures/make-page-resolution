@@ -1,0 +1,14 @@
+#!/bin/sh
+
+# US Letter paper is 8.5 by 11 inches (215.9 by 279.4 mm)
+# Margins are typically one inch
+# So usable width is 6.5 inches
+# At 150 DPI, that is 975 pixels
+# There is no point in embedded images being wider than that
+
+(cd export-jpeg; ls) |
+	while read name; do
+		djpeg < export-jpeg/$name |
+			pamscale -width=975 |
+			cjpeg > page-resolution/$name
+	done
