@@ -1,0 +1,28 @@
+Date: 3 Jan 2020, 14:37
+From: Peter Falkingham <notifications@scholasticahq.com>
+To: Mike Taylor <dino@miketaylor.org.uk>
+Subject: Journal of Paleontological Techniques has made a decision concerning your manuscript: What do we mean by the directions “cranial” and “caudal” on a vertebra?
+
+Dear Dr. Taylor
+
+Please find below the two reviews received for your manuscript. My thanks to the reviewers for their timely responses over the festive period. Both reviewers have recommended ‘revise and resubmit’, and they -and I - are largely in agreement with each other.
+
+Both reviews comment that this is a worthwhile discussion. I agree, and feel it is ideally suited for JPT. I found the content to be accessible, interesting, and mostly clear, and it's a topic that has wide reaching relevance.
+
+However, both reviewers found the start to the paper to be too informal, and that setting it up this way undermined the quality and utility of the paper. Rather than being focused around responding to reviewers comments, the paper would benefit from an introduction outlining the biological/palaeontological importance of the problem, followed by distinct methods, results and discussion sections. I agree entirely with this. Shifting the introductory focus away from the back-and-forth of peer-review to a more scientific problem/proposed solution would make the paper far more approachable for readers. Whilst I appreciate PeerJ adds DOIs to peer-reviews, it strikes me as more appropriate to simply acknowledge Mannion for inspiring this line of thinking through his reviews of your earlier work.
+
+Related to the informal tone that both reviewers picked up on, I’d ask that you avoid references to blog posts, and stick to primary literature. I know there’s a valid conversation to be had about this, but that will have to wait for some point in the future.
+
+Please also note reviewer 2’s comments about the abstract potentially being too long from an editorial point of view. Perhaps this could be re-worded to be more succinct?
+
+In addition to the reviewers comments, I have some minor points of my own:
+
+• Please be consistent in which direction is anterior in figures. The majority of your vertebrae figures have anterior/cranial to the right, but figure 1 has it to the left. Consistency among these figures in this regard would be a great improvement and avoid readers misinterpreting figures, if it is possible (i.e. if you have right-lateral images of Xenoposeidon
+• Figure 5 might benefit from the three methods applied to a second vertebrae as well, one where B and C result in obviously different orientations.
+• Figure 14: Perhaps the background could be removed from the photos, rather than including laundry? (I’m sure there’s a comment here about publicly airing one’s laundry)
+• The final sections are not appropriate for a methods paper about how to orient vertebrae, and are more suited for a blog post, e.g. when this paper is published.
+
+I hope that you find the reviewers’ comments useful in improving your manuscript, and that after revision you will resubmit to JPT.
+
+Best wishes,
+Peter Falkingham
