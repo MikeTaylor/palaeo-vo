@@ -35,40 +35,42 @@ The final sections are not appropriate for a methods paper about how to orient v
 
 ## Synthesis
 
-**Marek, Falkingham:**
-Restructure into Introduction, Material and Methods, Results, Discussion
+All three commentators want a restructuring into Introduction, Material and Methods, Results and Discussion ([IMRAD structure](https://en.wikipedia.org/wiki/IMRAD))
 
-**Marek:**
-Introduction to focus on wider problems (measurements, character states, etc.) rather than the motiviating review, should introduce the wider implications of vertebral orientation in palaeontology and other closely related fields (taxonomy, functional morphology, biomechanics) and discuss the issue in non-sauropod taxa.
+**Introduction** to include:
+* Biological or methodological problem (measurements, character states, etc.) (Marek, Tschopp)
+* Applicability to non-sauropod taxa (Marek)
+* The context of the study (Tschopp)
+* Implications of VO in palaeontology and related fields (taxonomy, functional morphology, biomechanics) (Marek)
 
-**Tschopp:**
-Introduction should outline a biological or methodological problem, and the context of the study.
+(What is "the context of the study"? Maybe just a vaguer term for the more detailed components listed here.)
 
-**Marek:**
-Materials and Methods to include:
-* Anatomical Nomenclature
-* institutional abbreviations
-* the methods used to delineate horizontal (e.g. 3D printed Xenoposeidon models, the rolled up paper method, as well as a brief description of the 4 definitions of horizontal)
+**Materials and Methods** to include:
+* Anatomical Nomenclature (Marek)
+* Institutional abbreviations (Marek)
 
-**Tschopp:**
-Materials and Methods to include:
-* Terminology of the vertebra
-* Its possible orientation/directional terms
-* Structures that help orientating
-* Explanation of how vertebrae can be oriented physically and/or digitally (which is now spread out over the descriptions of the methods 1-4)
-* How to draw lines along curved articular surfaces (written within method 3 I think)
-* How to articulate copies of vertebrae in 2D and 3D graphics programs (and thereby how the figures in the paper were produced)
-* The “paper roll” method to check orientation of the neural canal.
+(But these both usually belong to the Introduction.)
 
-**Marek:**
-Results section to include the more comparative aspects of the 4 definitions.
+* Terminology of the vertebra (Tschopp)
+* Its possible orientation/directional terms (Tschopp)
+* Structures that help orientating (Tschopp)
+* The four candidate definitions of horizontal (Marek, Tschopp)
+* How to draw lines along curved articular surfaces (now within method 3) (Tschopp)
+* How to articulate copies of vertebrae in 2D and 3D graphics programs (Tschopp)
+* The rolled-up paper method (Marek, Tschopp)
+* The toothpick method with 3D printed _Xenoposeidon_ model (Marek)
 
-**Marek:**
-Discussion section to include the remainder of the manuscript from ‘Comparison of definitions’ onwards
+**Results** to include:
+* The more comparative aspects of the 4 definitions (Marek)
 
-**Marek:**
-References to the review process of Taylor 2018b should be [...] restricted to one or two sentences.
-vs.
-**Tschopp:**
-Move discussion of Xenoposeidon review down into Discussion
+(This feels like a very anaemic section -- which follows directly from the fact that this is a methods paper: there _are_ no results.)
+
+**Discussion** to include:
+* Discussion of the _Xenoposeidon_ review (Tschopp)
+* The remainder of the manuscript from ‘Comparison of definitions’ onwards (Marek), i.e.:
+  * Comparison of definitions
+  * Recommendations
+  * Applications of this work
+  * Open peer review
+  * Open composition
 
