@@ -1,7 +1,11 @@
 # Reviewer comments on restructuring
 
 
-## Marek
+
+## Quotes from individual reviews
+
+
+### Marek
 
 The current manuscript [...] would benefit immensely from a restructure to fit a more traditional journal publication format (Introduction, Material and Methods, Results, Discussion).
 
@@ -14,9 +18,57 @@ Anatomical Nomenclature, institutional abbreviations and the methods used to del
 References to the review process of Taylor 2018b should be drastically reduced. Whilst it is a good framing device for outlining the problem, it should be restricted to one or two sentences. The rest of the introduction should introduce the wider implications of vertebral orientation in palaeontology and other closely related fields (taxonomy, functional morphology, biomechanics) and discuss the issue in non-sauropod taxa.
 
 
-## Tschopp
+### Tschopp
 
 I would propose a structure for the paper with an introduction as outlined above, a methods section followed by the various definitions, comparisons, and recommendations, the case study of Xenoposeidon (which should include what is now in the introduction), and finally the discussion. The paper would profit a lot with a fairly detailed methods section, including terminology of the vertebra, its possible orientation/directional terms, and structures that help orientating, explanation of how vertebrae can be oriented physically and/or digitally (which is now spread out over the descriptions of the methods 1-4), how to draw lines along curved articular surfaces (written within method 3 I think), how to articulate copies of vertebrae in 2D and 3D graphics programs (and thereby how the figures in the paper were produced), and the “paper roll” method to check orientation of the neural canal.
 
 The introduction should outline a biological or methodological problem, and the context of the study, not the personal history of how the study came to be.
+
+
+### Falkingham (editor)
+
+Rather than being focused around responding to reviewers comments, the paper would benefit from an introduction outlining the biological/palaeontological importance of the problem, followed by distinct methods, results and discussion sections. [...] Shifting the introductory focus away from the back-and-forth of peer-review to a more scientific problem/proposed solution would make the paper far more approachable for readers.
+
+The final sections are not appropriate for a methods paper about how to orient vertebrae, and are more suited for a blog post, e.g. when this paper is published.
+
+
+
+## Synthesis
+
+**Marek, Falkingham:**
+Restructure into Introduction, Material and Methods, Results, Discussion
+
+**Marek:**
+Introduction to focus on wider problems (measurements, character states, etc.) rather than the motiviating review, should introduce the wider implications of vertebral orientation in palaeontology and other closely related fields (taxonomy, functional morphology, biomechanics) and discuss the issue in non-sauropod taxa.
+
+**Tschopp:**
+Introduction should outline a biological or methodological problem, and the context of the study.
+
+**Marek:**
+Materials and Methods to include:
+* Anatomical Nomenclature
+* institutional abbreviations
+* the methods used to delineate horizontal (e.g. 3D printed Xenoposeidon models, the rolled up paper method, as well as a brief description of the 4 definitions of horizontal)
+
+**Tschopp:**
+Materials and Methods to include:
+* Terminology of the vertebra
+* Its possible orientation/directional terms
+* Structures that help orientating
+* Explanation of how vertebrae can be oriented physically and/or digitally (which is now spread out over the descriptions of the methods 1-4)
+* How to draw lines along curved articular surfaces (written within method 3 I think)
+* How to articulate copies of vertebrae in 2D and 3D graphics programs (and thereby how the figures in the paper were produced)
+* The “paper roll” method to check orientation of the neural canal.
+
+**Marek:**
+Results section to include the more comparative aspects of the 4 definitions.
+
+**Marek:**
+Discussion section to include the remainder of the manuscript from ‘Comparison of definitions’ onwards
+
+**Marek:**
+References to the review process of Taylor 2018b should be [...] restricted to one or two sentences.
+vs.
+**Tschopp:**
+Move discussion of Xenoposeidon review down into Discussion
 
